@@ -1,6 +1,2002 @@
 {
   "results": [
     {
+      "id": "movie-63416",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Жильцы старого дома",
+      "title_orig": "Zhiltsy starogo doma",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "278647",
+      "imdb_id": "tt0475620",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:41:17Z",
+      "updated_at": "2020-11-17T11:41:17Z",
+      "material_data": {
+        "title": "Жильцы старого дома",
+        "title_en": "",
+        "year": 1987,
+        "description": "Мультфильм по мотивам рассказов Константина Паустовского.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/278647.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "семейный"
+        ],
+        "imdb_rating": 6.9,
+        "imdb_votes": 28,
+        "minimal_age": 12,
+        "directors": [
+          "Алексей Караев"
+        ],
+        "writers": [
+          "Алексей Караев"
+        ],
+        "editors": [
+          "Людмила Путятина"
+        ],
+        "designers": [
+          "Валентин Ольшванг"
+        ],
+        "operators": [
+          "Сергей Решетников",
+          "Николай Грибков"
+        ]
+      }
+    },
+    {
+      "id": "movie-63417",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Жадный Кузя",
+      "title_orig": "Zhadnyy Kuzya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "580746",
+      "imdb_id": "tt5879848",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:40:28Z",
+      "updated_at": "2020-11-17T11:40:28Z",
+      "material_data": {
+        "title": "Жадный Кузя",
+        "title_en": "",
+        "year": 1969,
+        "description": "О коте Кузе, который все норовил утащить лакомый кусочек и нажил себе немало непритностей. Живой кот в кукольном мире.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/580746.jpg",
+        "duration": 11,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 404,
+        "minimal_age": 0,
+        "directors": [
+          "Михаил Каменецкий",
+          "Иван Уфимцев"
+        ],
+        "writers": [
+          "Элеонора Тадэ"
+        ],
+        "composers": [
+          "Артем Артемьев"
+        ],
+        "editors": [
+          "Надежда Трещёва"
+        ],
+        "designers": [
+          "Владимир Дегтярев",
+          "Валентина Василенко"
+        ],
+        "operators": [
+          "Михаил Каменецкий"
+        ]
+      }
+    },
+    {
+      "id": "movie-63418",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Веселый огород",
+      "title_orig": "Vesyoliy ogorod",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1947,
+      "kinopoisk_id": "260120",
+      "imdb_id": "tt6162498",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:39:15Z",
+      "updated_at": "2020-11-17T11:39:15Z",
+      "material_data": {
+        "title": "Веселый огород",
+        "title_en": "",
+        "year": 1947,
+        "description": "Как маленькие Кнопочкины вырастили урожай овощей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/260120.jpg",
+        "duration": 11,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 313,
+        "minimal_age": 0,
+        "directors": [
+          "Владимир Сутеев"
+        ],
+        "writers": [
+          "Владимир Сутеев"
+        ],
+        "composers": [
+          "Алексей Соколов-Камин"
+        ],
+        "designers": [
+          "Евгений Мигунов",
+          "Вера Валерианова"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-63419",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Трудолюбивая старушка",
+      "title_orig": "Трудолюбивая старушка",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "485387",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:37:54Z",
+      "updated_at": "2020-11-17T11:37:54Z",
+      "material_data": {
+        "title": "Трудолюбивая старушка",
+        "title_en": "",
+        "year": 1986,
+        "description": "Веселая история о неунывающей старушке, которой надоели ее домочадцы: неумытый, вечно сонный мальчишка, ленивая кошка, ленивая мышка и очень ленивая и сонная мушка, старушка вспорхнула и улетела к своим замечательным и веселым подружкам. Пристыженные домочадцы стали прилежными и сумели вернуть хозяйку домой.",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 6,
+        "actors": [
+          "Людмила Томашевская"
+        ],
+        "directors": [
+          "Ефрем Пружанский"
+        ],
+        "writers": [
+          "Владимир Капустян"
+        ],
+        "composers": [
+          "Владимир Быстряков"
+        ],
+        "editors": [
+          "О. Деряжная"
+        ],
+        "designers": [
+          "Иван Будз"
+        ],
+        "operators": [
+          "Александр Мухин"
+        ]
+      }
+    },
+    {
+      "id": "movie-63420",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Солдатская сказка",
+      "title_orig": "Soldatskaya skazka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "532877",
+      "imdb_id": "tt6052580",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:36:52Z",
+      "updated_at": "2020-11-17T11:36:52Z",
+      "material_data": {
+        "title": "Солдатская сказка",
+        "title_en": "",
+        "year": 1983,
+        "description": "Когда Петр уходил воевать с фашистами на фронт, сын подарил ему пойманного возле родного дома жука-носорога, которого солдат взял с собой. Теперь им предстоит окунуться в сражения и бои, увидеть, как небо становится черным из-за пороха и вражеской осады, а пули будут кружить вокруг них сотнями. Но они обязательно вернутся туда, где их ждут.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/532877.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 158,
+        "actors": [
+          "Л. Лесная",
+          "Сергей Филимонов"
+        ],
+        "directors": [
+          "Алла Грачева"
+        ],
+        "writers": [
+          "Алла Грачева",
+          "Константин Паустовский"
+        ],
+        "designers": [
+          "Юрий Скирда"
+        ],
+        "operators": [
+          "Анатолий Гаврилов"
+        ]
+      }
+    },
+    {
+      "id": "movie-63421",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Солдатская сказка",
+      "title_orig": "Soldatskaya skazka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "489286",
+      "imdb_id": "tt9168202",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:35:41Z",
+      "updated_at": "2020-11-17T11:35:41Z",
+      "material_data": {
+        "title": "Солдатская сказка",
+        "title_en": "",
+        "year": 1980,
+        "description": "По мотивам русских потешных сказок о находчивом и веселом солдате.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/489286.jpg",
+        "duration": 15,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 300,
+        "imdb_rating": 7.1,
+        "imdb_votes": 11,
+        "minimal_age": 0,
+        "actors": [
+          "Анатолий Кузнецов",
+          "Рогволд Суховерко",
+          "Клара Румянова"
+        ],
+        "directors": [
+          "Лидия Сурикова"
+        ],
+        "writers": [
+          "Татьяна Правдивцева"
+        ],
+        "composers": [
+          "Юрий Чичков"
+        ],
+        "operators": [
+          "Иосиф Голомб"
+        ]
+      }
+    },
+    {
+      "id": "movie-63422",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Сердце храбреца",
+      "title_orig": "Serdtse khrabretsa",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1951,
+      "kinopoisk_id": "255161",
+      "imdb_id": "tt6970136",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:34:38Z",
+      "updated_at": "2020-11-17T11:34:38Z",
+      "material_data": {
+        "title": "Сердце храбреца",
+        "title_en": "",
+        "year": 1951,
+        "description": "По мотивам удэгейской сказки «Семь страхов». Эту поучительную сказку о дружбе, преданности и смелости удэгейцы сложили давно, когда люди верили в чудеса и поклонялись божествам леса.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/255161.jpg",
+        "duration": 19,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 478,
+        "imdb_rating": 7.2,
+        "imdb_votes": 18,
+        "minimal_age": 6,
+        "actors": [
+          "Варвара Мясникова",
+          "Леонид Пирогов",
+          "Нина Зорская",
+          "Юрий Любимов",
+          "Анатолий Щукин",
+          "Николай Горлов",
+          "Владимир Конкин",
+          "Юльен Балмусов",
+          "Виталий Ованесов",
+          "Александр Котов"
+        ],
+        "directors": [
+          "Борис Дежкин",
+          "Геннадий Филиппов"
+        ],
+        "writers": [
+          "Олег Леонидов",
+          "Дмитрий Нагишкин"
+        ],
+        "composers": [
+          "Карэн Хачатурян"
+        ],
+        "editors": [
+          "Валентина Иванова"
+        ],
+        "designers": [
+          "Владимир Дегтярев",
+          "В. Васильчикова",
+          "Вадим Долгих"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-63379",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Петя-петушок",
+      "title_orig": "Petya-petushok",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1960,
+      "kinopoisk_id": "818470",
+      "imdb_id": "tt7972506",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:33:33Z",
+      "updated_at": "2020-11-17T11:33:33Z",
+      "material_data": {
+        "title": "Петя-петушок",
+        "title_en": "",
+        "year": 1960,
+        "description": "Мальчик Петя пугает зверей, хвастаясь своей силой. Когда он сам падает в лужу, зверята приходят к нему на помощь. Так Петя научился ценить дружбу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/818470.jpg",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "imdb_rating": 4.2,
+        "imdb_votes": 10,
+        "minimal_age": 0,
+        "directors": [
+          "Анатолий Голышев"
+        ],
+        "writers": [
+          "А. Муратов",
+          "К. Семенов",
+          "Эдуард Бочаров"
+        ],
+        "composers": [
+          "Эдуард Колмановский"
+        ],
+        "designers": [
+          "Игорь Знаменский",
+          "Валентина Василенко"
+        ],
+        "operators": [
+          "Николай Гринберг"
+        ]
+      }
+    },
+    {
+      "id": "movie-63380",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Муми-тролль и другие",
+      "title_orig": "Mumi-troll i drugie",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "104386",
+      "imdb_id": "tt0407023",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:32:29Z",
+      "updated_at": "2020-11-17T11:32:29Z",
+      "material_data": {
+        "title": "Муми-тролль и другие",
+        "title_en": "",
+        "year": 1978,
+        "description": "По мотивам повести Т. Янссон «Муми-тролль и комета».",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/104386.jpg",
+        "duration": 21,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 1394,
+        "imdb_rating": 7.4,
+        "imdb_votes": 99,
+        "minimal_age": 0,
+        "actors": [
+          "Зиновий Гердт",
+          "Ольга Гобзева",
+          "Зинаида Нарышкина",
+          "Юрий Яковлев"
+        ],
+        "directors": [
+          "Аида Зябликова"
+        ],
+        "writers": [
+          "Туве Янссон",
+          "А. Алтаев",
+          "Людмила Петрушевская"
+        ],
+        "composers": [
+          "Алексей Рыбников"
+        ],
+        "editors": [
+          "Людмила Рубан"
+        ],
+        "designers": [
+          "Инна Воробьева"
+        ],
+        "operators": [
+          "Леонард Кольвинковский"
+        ]
+      }
+    },
+    {
+      "id": "movie-63381",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Лебеди Непрядвы",
+      "title_orig": "Lebedi Nepryadvy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "433758",
+      "imdb_id": "tt2328663",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:31:51Z",
+      "updated_at": "2020-11-17T11:31:51Z",
+      "material_data": {
+        "title": "Лебеди Непрядвы",
+        "title_en": "",
+        "year": 1980,
+        "description": "В героико-романтической форме фильм рассказывает о подготовке и ходе Куликовской битвы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/433758.jpg",
+        "duration": 25,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 8.2,
+        "kinopoisk_votes": 1909,
+        "imdb_rating": 7.5,
+        "imdb_votes": 49,
+        "minimal_age": 12,
+        "actors": [
+          "Николай Сергеев",
+          "Степан Бубнов",
+          "Владимир Кенигсон",
+          "Михаил Кисляров",
+          "Лев Шабарин",
+          "Константин Захаров",
+          "Владимир Бурлаков"
+        ],
+        "directors": [
+          "Роман Давыдов"
+        ],
+        "writers": [
+          "Аркадий Снесарев"
+        ],
+        "composers": [
+          "Владимир Кривцов"
+        ],
+        "designers": [
+          "Николай Ерыкалов",
+          "Александр Винокуров"
+        ],
+        "operators": [
+          "Борис Котов"
+        ]
+      }
+    },
+    {
+      "id": "movie-63382",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Квакша",
+      "title_orig": "Kvaksha",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1979,
+      "kinopoisk_id": "660955",
+      "imdb_id": "tt9269444",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:31:17Z",
+      "updated_at": "2020-11-17T11:31:17Z",
+      "material_data": {
+        "title": "Квакша",
+        "title_en": "",
+        "year": 1979,
+        "description": "Сказка о древесной лягушке, которая помогла людям справиться с засухой.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/660955.jpg",
+        "duration": 19,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 78,
+        "imdb_rating": 7.2,
+        "imdb_votes": 5,
+        "minimal_age": 0,
+        "actors": [
+          "Лия Ахеджакова",
+          "Петр Вишняков",
+          "Ольга Гобзева",
+          "Людмила Ильина"
+        ],
+        "directors": [
+          "Леонид Аристов"
+        ],
+        "writers": [
+          "Константин Паустовский",
+          "Жанна Витензон"
+        ],
+        "composers": [
+          "Михаил Меерович"
+        ],
+        "editors": [
+          "С. Симухина"
+        ],
+        "designers": [
+          "Ю. Евмешкин"
+        ],
+        "operators": [
+          "Леонард Кольвинковский"
+        ]
+      }
+    },
+    {
+      "id": "movie-63383",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Крашеный лис",
+      "title_orig": "Krasheniy lis",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1953,
+      "kinopoisk_id": "258007",
+      "imdb_id": "tt6114970",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:30:11Z",
+      "updated_at": "2020-11-17T11:30:11Z",
+      "material_data": {
+        "title": "Крашеный лис",
+        "title_en": "",
+        "year": 1953,
+        "description": "По сказке Ивана Франко.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/258007.jpg",
+        "duration": 11,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 1202,
+        "minimal_age": 6,
+        "directors": [
+          "Александр Иванов"
+        ],
+        "writers": [
+          "Николай Абрамов",
+          "Борис Бродский",
+          "Иван Франко"
+        ],
+        "editors": [
+          "Валентина Иванова"
+        ],
+        "designers": [
+          "Игорь Знаменский",
+          "Геннадий Филиппов"
+        ],
+        "operators": [
+          "Николай Воинов"
+        ]
+      }
+    },
+    {
+      "id": "movie-63384",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Растрёпанный воробей",
+      "title_orig": "Rastryopannyy vorobey",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "460621",
+      "imdb_id": "tt6409426",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:28:42Z",
+      "updated_at": "2020-11-17T11:28:42Z",
+      "material_data": {
+        "title": "Растрёпанный воробей",
+        "title_en": "",
+        "year": 1967,
+        "description": "По одноименной сказке К.Паустовского о том, как маленький воробей Пашка в знак благодарности своей хозяйке девочке Маше бесстрашно проникает в жилище вороны чтобы вернуть девочке отцовский подарок, украденный вороной.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/460621.jpg",
+        "duration": 19,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 573,
+        "minimal_age": 0,
+        "directors": [
+          "Алла Грачева"
+        ],
+        "writers": [
+          "Константин Паустовский",
+          "Алла Грачева"
+        ],
+        "composers": [
+          "Александр Зацепин",
+          "Евгений Крылатов"
+        ],
+        "designers": [
+          "Александр Лавров"
+        ],
+        "operators": [
+          "Анатолий Гаврилов"
+        ]
+      }
+    },
+    {
+      "id": "movie-10311",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Путешествие в страну великанов",
+      "title_orig": "Путешествие в страну великанов",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1947,
+      "kinopoisk_id": "581669",
+      "imdb_id": "tt6344892",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-09-28T10:10:57Z",
+      "updated_at": "2020-11-17T11:27:37Z",
+      "material_data": {
+        "title": "Путешествие в страну великанов",
+        "title_en": "",
+        "year": 1947,
+        "description": "Ожившие фигурки каминных часов отправляются путешествовать по страницам книги Путешествие в страну великанов. Они знакомятся с производственными процессами и величием новых строек.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/581669.jpg",
+        "duration": 16,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 143,
+        "minimal_age": 6,
+        "directors": [
+          "Дмитрий Бабиченко"
+        ],
+        "writers": [
+          "В. Длугач"
+        ],
+        "composers": [
+          "Герман Гамбург"
+        ],
+        "designers": [
+          "Роман Давыдов",
+          "Наил Драгунов",
+          "Григорий Козлов"
+        ],
+        "operators": [
+          "Николай Воинов"
+        ]
+      }
+    },
+    {
+      "id": "movie-8872",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Чужой голос",
+      "title_orig": "Чужой Голос",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1949,
+      "kinopoisk_id": "258100",
+      "imdb_id": "tt1240914",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-05-17T17:09:52Z",
+      "updated_at": "2020-11-17T11:26:24Z",
+      "material_data": {
+        "title": "Чужой голос",
+        "title_en": "",
+        "year": 1949,
+        "description": "Лесные обитатели зачарованно слушают Соловья. Внезапно появляется Сорока, только что прилетевшая из-за границы.\n\rОна объявляет искусство соловьиного пения устаревшим и дает концерт. Сорока обрушивает на изумленных слушателей каскад ужасных, резких звуков.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/258100.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "музыка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 359,
+        "imdb_rating": 6.2,
+        "imdb_votes": 68,
+        "minimal_age": 0,
+        "directors": [
+          "Иван Иванов-Вано"
+        ],
+        "writers": [
+          "Дмитрий Тарасов",
+          "Михаил Калинин"
+        ],
+        "composers": [
+          "Юрий Никольский"
+        ],
+        "designers": [
+          "Надежда Строганова",
+          "Лев Мильчин"
+        ],
+        "operators": [
+          "Николай Воинов"
+        ]
+      }
+    },
+    {
+      "id": "movie-63385",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Икар и мудрецы",
+      "title_orig": "Ikar i mudretsy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "252941",
+      "imdb_id": "tt0456992",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:24:23Z",
+      "updated_at": "2020-11-17T11:24:23Z",
+      "material_data": {
+        "title": "Икар и мудрецы",
+        "title_en": "",
+        "year": 1976,
+        "description": "Много лет пытался Икар летать, но не мог он, постоянно наталкиваясь на мудрости соплеменников. Но вот однажды у него получилось...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/252941.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 3035,
+        "imdb_rating": 7.8,
+        "imdb_votes": 168,
+        "minimal_age": 6,
+        "actors": [
+          "Яков Смоленский"
+        ],
+        "directors": [
+          "Фёдор Хитрук"
+        ],
+        "writers": [
+          "Фёдор Хитрук"
+        ],
+        "composers": [
+          "Шандор Каллош"
+        ],
+        "editors": [
+          "Изабелла Герасимова"
+        ],
+        "designers": [
+          "Эдуард Назаров",
+          "Владимир Зуйков"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-63386",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Две сказки",
+      "title_orig": "Dve skazki",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "257177",
+      "imdb_id": "tt0487579",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:23:23Z",
+      "updated_at": "2020-11-17T11:23:23Z",
+      "material_data": {
+        "title": "Две сказки",
+        "title_en": "",
+        "year": 1962,
+        "description": "Включает две истории: как звери поделили яблоко и палочка-выручалочка - как ежик проучил зайца-выскочку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/257177.jpg",
+        "duration": 16,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 1557,
+        "imdb_rating": 7.3,
+        "imdb_votes": 52,
+        "minimal_age": 12,
+        "actors": [
+          "Алексей Грибов",
+          "Юрий Хржановский",
+          "Елена Понсова",
+          "Георгий Вицин"
+        ],
+        "directors": [
+          "Леонид Амальрик"
+        ],
+        "writers": [
+          "Владимир Сутеев"
+        ],
+        "composers": [
+          "Ян Френкель"
+        ],
+        "designers": [
+          "Надежда Привалова",
+          "Татьяна Сазонова"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-63387",
+      "type": "russian-movie",
+      "link": "",
+      "title": "...три синих-синих озера малинового цвета...",
+      "title_orig": "...Tri sinikh-sinikh ozera malinovogo tsveta...",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "422770",
+      "imdb_id": "tt1346228",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:22:48Z",
+      "updated_at": "2020-11-17T11:22:48Z",
+      "material_data": {
+        "title": "...три синих-синих озера малинового цвета...",
+        "title_en": "",
+        "year": 1981,
+        "description": "По мотивам сказки О. Туманяна «Охотник-враль».",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/422770.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 2244,
+        "imdb_rating": 7.3,
+        "imdb_votes": 119,
+        "minimal_age": 6,
+        "actors": [
+          "Ольга Громова",
+          "Гарри Бардин"
+        ],
+        "directors": [
+          "Роберт Саакянц"
+        ],
+        "writers": [
+          "Ованес Туманян",
+          "Роберт Саакянц",
+          "Людмила Саакянц"
+        ],
+        "composers": [
+          "Георгий Гаранян"
+        ],
+        "designers": [
+          "Роберт Саакянц"
+        ],
+        "operators": [
+          "Алиса Кюрдиан"
+        ]
+      }
+    },
+    {
+      "id": "movie-63388",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Храбрец-удалец",
+      "title_orig": "Khrabrets-udalets",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "258015",
+      "imdb_id": "tt2160249",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:22:07Z",
+      "updated_at": "2020-11-17T11:22:07Z",
+      "material_data": {
+        "title": "Храбрец-удалец",
+        "title_en": "",
+        "year": 1976,
+        "description": "По мотивам народных сказок.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/258015.jpg",
+        "duration": 17,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 660,
+        "imdb_rating": 7.3,
+        "imdb_votes": 26,
+        "minimal_age": 0,
+        "actors": [
+          "Владимир Басов",
+          "Анна Каменкова",
+          "Евгений Герасимов"
+        ],
+        "directors": [
+          "Роман Давыдов"
+        ],
+        "writers": [
+          "Владимир Данилов"
+        ],
+        "composers": [
+          "Владимир Кривцов"
+        ],
+        "editors": [
+          "Любовь Георгиева"
+        ],
+        "designers": [
+          "Александр Трусов"
+        ],
+        "operators": [
+          "Майя Попова"
+        ]
+      }
+    },
+    {
+      "id": "movie-63389",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Фильм, фильм, фильм",
+      "title_orig": "Film Film Film",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "44416",
+      "imdb_id": "tt0212943",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:21:29Z",
+      "updated_at": "2020-11-17T11:21:29Z",
+      "material_data": {
+        "title": "Фильм, фильм, фильм",
+        "title_en": "",
+        "year": 1968,
+        "description": "Мультфильм о том, как снимается кино, весь путь фильма с момента рождения сценария и до премьеры.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44416.jpg",
+        "duration": 19,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 8.3,
+        "kinopoisk_votes": 22446,
+        "imdb_rating": 8,
+        "imdb_votes": 1357,
+        "minimal_age": 12,
+        "actors": [
+          "Алексей Полевой",
+          "Георгий Вицин"
+        ],
+        "directors": [
+          "Фёдор Хитрук"
+        ],
+        "writers": [
+          "Владимир Голованов",
+          "Фёдор Хитрук"
+        ],
+        "composers": [
+          "Евгений Крылатов",
+          "Александр Зацепин"
+        ],
+        "editors": [
+          "Нина Майорова"
+        ],
+        "designers": [
+          "Владимир Зуйков",
+          "Инна Воробьева"
+        ],
+        "operators": [
+          "Борис Котов"
+        ]
+      }
+    },
+    {
+      "id": "movie-63390",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Это что за птица?",
+      "title_orig": "Eto chto za ptitsa?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1955,
+      "kinopoisk_id": "258102",
+      "imdb_id": "tt2188354",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:19:45Z",
+      "updated_at": "2020-11-17T11:19:45Z",
+      "material_data": {
+        "title": "Это что за птица?",
+        "title_en": "",
+        "year": 1955,
+        "description": "Жил-был гусь, он был очень завистливым. Встречая на своем пути разных птиц, он менялся с ними облюбованными частями тела...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/258102.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 520,
+        "imdb_rating": 7.3,
+        "imdb_votes": 18,
+        "premiere_world": "1956-01-20",
+        "minimal_age": 6,
+        "actors": [
+          "Leonid G. Pirogov",
+          "Михаил Погоржельский",
+          "Елена Понсова",
+          "Григорий Шпигель",
+          "Георгий Вицин"
+        ],
+        "directors": [
+          "Евгений Мигунов"
+        ],
+        "writers": [
+          "Владимир Сутеев"
+        ],
+        "composers": [
+          "Никита Богословский"
+        ],
+        "editors": [
+          "Нина Майорова"
+        ],
+        "designers": [
+          "Борис Корнеев",
+          "Евгений Мигунов"
+        ],
+        "operators": [
+          "Николай Воинов"
+        ]
+      }
+    },
+    {
+      "id": "movie-63392",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бабушка, научи!",
+      "title_orig": "Бабушка, научи!",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "521521",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T11:18:24Z",
+      "updated_at": "2020-11-17T11:18:24Z",
+      "material_data": {
+        "title": "Бабушка, научи!",
+        "title_en": "",
+        "year": 1983,
+        "description": "О веселых приключениях бабушки Лисы и ее внучки Алисы, о том, как они выручили из беды незадачливого пастуха и обманули глупого волка.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/521521.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.3,
+        "kinopoisk_votes": 101,
+        "minimal_age": 0,
+        "actors": [
+          "А. Закутаев",
+          "В. Герчиков",
+          "Л. Иванникова",
+          "А. Варенов",
+          "Нина Пантелеева"
+        ],
+        "directors": [
+          "Леонид Полонский"
+        ],
+        "writers": [
+          "Б. Володарский"
+        ],
+        "composers": [
+          "Гарри Азатов"
+        ],
+        "designers": [
+          "В. Шурыгин"
+        ],
+        "operators": [
+          "Юрий Заболотнев"
+        ]
+      }
+    },
+    {
+      "id": "serial-30105",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Просто так!",
+      "title_orig": "Just Because!",
+      "other_title": "Просто потому что! / Да просто так! / А, да просто так!",
+      "translation": {
+        "id": 1079,
+        "title": "Aniraccoon",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "1111860",
+      "imdb_id": "tt7513452",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9301",
+      "shikimori_id": "35639",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-15T12:01:18Z",
+      "updated_at": "2020-11-17T11:03:35Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/733422/929bb2b9e008839c75b15313fc6132eb/720p",
+            "2": "//aniqit.com/seria/733428/63baf7026557c5750dcfafc182857e80/720p",
+            "3": "//aniqit.com/seria/733429/dbd1b1d2b119be66467fb2c66d1d63ea/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Просто так!",
+        "title_en": "Just Because!",
+        "other_titles": [
+          "Просто потому что!"
+        ],
+        "other_titles_en": [
+          "Just Because!"
+        ],
+        "other_titles_jp": [
+          "Just Because!"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Последний год в старшей школе подходит к концу. Впереди остались лишь предстоящие вступительные экзамены и долгожданный выпускной. Неожиданно в это время Эйта Идзуми переводится назад в школу в своем родном городе спустя четыре года, как покинул его. Его возвращение и воссоединение с друзьями со средней школы оказывает влияние не только на его жизнь, но и на окружающих.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1111860.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/2badbf6a7eb90241de26fd569a0e2a202384980e.jpeg",
+          "https://shikimori.one/system/screenshots/original/639244c2f70497a9729008766b7a285e36318c9e.jpeg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Повседневность",
+          "Романтика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Pine Jam"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 238,
+        "imdb_rating": 6.8,
+        "imdb_votes": 431,
+        "shikimori_rating": 7.29,
+        "shikimori_votes": 6210,
+        "premiere_world": "2017-10-05",
+        "aired_at": "2017-10-05",
+        "released_at": "2017-12-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Аои Итикава",
+          "Юна Ёсино",
+          "Таиси Мурата",
+          "Сёта Ямамото",
+          "Кохэи Амасаки",
+          "Саяка Сэнбонги",
+          "Дзюнъити Янагита",
+          "Юка Нукуи",
+          "Тору Окава",
+          "Даики Кобаяси"
+        ],
+        "directors": [
+          "Ацуси Кобаяси"
+        ],
+        "writers": [
+          "Камосида Хадзимэ"
+        ]
+      }
+    },
+    {
+      "id": "movie-63370",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Коммандо 3",
+      "title_orig": "Commando 3",
+      "translation": {
+        "id": 770,
+        "title": "ZEE TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1198036",
+      "imdb_id": "tt8983168",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-17T05:40:52Z",
+      "updated_at": "2020-11-17T05:40:52Z",
+      "material_data": {
+        "title": "Коммандо 3",
+        "title_en": "Commando 3",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1198036.jpg",
+        "duration": 133,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "imdb_rating": 5.6,
+        "imdb_votes": 2206,
+        "premiere_world": "2019-11-29",
+        "actors": [
+          "Видьют Джамвал",
+          "Ада Шарма",
+          "Гульшан Девайя",
+          "Ангира Дхар",
+          "Сумит Тхакур",
+          "Марк Беннингтон",
+          "Маной Ананд",
+          "Ian Austin",
+          "Sibaa Awan",
+          "Brett Bull"
+        ],
+        "directors": [
+          "Адитья Датт"
+        ],
+        "producers": [
+          "Випул Амрутал Шах",
+          "Sam Bhattacharjee",
+          "А. Шах Аашин",
+          "Adi Sharmaa"
+        ],
+        "writers": [
+          "Darius Yarmil",
+          "Junaid Wasi"
+        ],
+        "composers": [
+          "Vikram Montrose",
+          "Прасад Сашле",
+          "Маннан Шаах"
+        ],
+        "editors": [
+          "Sandeep Kurup"
+        ],
+        "designers": [
+          "Juhi Talmaki",
+          "Lauren Brown",
+          "Roshan Modak",
+          "RajuKumar Sahani",
+          "Sagarikaa Pillai",
+          "Гаятри Тадани"
+        ],
+        "operators": [
+          "Марк Хэмилтон"
+        ]
+      }
+    },
+    {
+      "id": "movie-63367",
+      "type": "anime",
+      "link": "",
+      "title": "Со склонов Кокурико",
+      "title_orig": "Kokuriko-zaka kara",
+      "other_title": "С маковых полей [Фильм] / Coquelicot-zaka kara / From Up on Poppy Hill",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "574726",
+      "imdb_id": "tt1798188",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8121",
+      "shikimori_id": "10029",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-16T23:30:43Z",
+      "updated_at": "2020-11-16T23:30:43Z",
+      "material_data": {
+        "title": "Со склонов Кокурико",
+        "title_en": "Kokuriko-zaka kara",
+        "other_titles": [
+          "Coquelicot-zaka kara",
+          "Kokuriko-saka kara",
+          "Kokuriko-zaka kara",
+          "Coquelicot Saka kara",
+          "Kokurikozaka kara"
+        ],
+        "other_titles_en": [
+          "From Up on Poppy Hill"
+        ],
+        "other_titles_jp": [
+          "コクリコ坂から"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2011,
+        "description": "1963 год, близ Иокогамы. Отец Уми Мацудзаки — командир корабля, погиб 10 лет назад во время Корейской войны, когда та была совсем маленькой. Пока её мама в отъезде, девочке приходится вести хозяйство, в частности, не забывать каждое утро поднимать флажки — такое правило установил отец, чтобы видеть с моря, что его ждут дома.\n\rВ городке имеется школьный клуб, с разнообразными кружками по интересам. Но его хотят закрыть, тем более, что здание, в котором он базируется, уже обветшало. И вот Уми со школьными активистами должна ехать в Токио к спонсору школы, чтобы спасти дом от разрушения. На фоне общественной деятельности просыпается первая любовь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/574726.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f509c792a0c49579675207ab8bbe609e41127ab0.JPG",
+          "https://shikimori.one/system/screenshots/original/f5aff75313d05e2aa69ca16586768de5e3b1b26d.JPG"
+        ],
+        "duration": 91,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Исторический",
+          "Романтика",
+          "Сёдзё",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Studio Ghibli"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 16171,
+        "imdb_rating": 7.4,
+        "imdb_votes": 34896,
+        "shikimori_rating": 7.86,
+        "shikimori_votes": 6277,
+        "premiere_ru": "2012-10-18",
+        "premiere_world": "2011-07-16",
+        "aired_at": "2011-07-16",
+        "rating_mpaa": "PG",
+        "minimal_age": 12,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Масами Нагасава",
+          "Дзюнъити Окада",
+          "Кэйко Такэсита",
+          "Юрико Исида",
+          "Руми Хиираги",
+          "Дзюн Фубуки",
+          "Такаси Наито",
+          "Сюнсукэ Кадзама",
+          "Нао Омори",
+          "Тэруюки Кагава"
+        ],
+        "directors": [
+          "Горо Миядзаки"
+        ],
+        "producers": [
+          "Тэцуро Саяма",
+          "Тосио Судзуки",
+          "Тидзуру Такахаси",
+          "Нобуо Каваками"
+        ],
+        "writers": [
+          "Тэцуро Саяма",
+          "Хаяо Миядзаки",
+          "Кэйко Нива",
+          "Тидзуру Такахаси"
+        ],
+        "composers": [
+          "Сатоси Такэбэ"
+        ],
+        "editors": [
+          "Такэси Сэяма"
+        ],
+        "designers": [
+          "Камон Оба",
+          "Ёхэй Такамацу",
+          "Нобору Ёсида",
+          "Такаси Омори"
+        ],
+        "operators": [
+          "Ацуси Окуи"
+        ]
+      }
+    },
+    {
+      "id": "serial-30121",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Битва за любовь",
+      "title_orig": "Wife",
+      "other_title": "Mia / The Fierce Wife",
+      "translation": {
+        "id": 1000,
+        "title": "Еха",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 28,
+      "episodes_count": 28,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-16T23:26:53Z",
+      "updated_at": "2020-11-16T23:26:53Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/733739/ec6d0599536c291e5098f651e686c361/720p",
+            "2": "//kodik.cc/seria/733740/e5ef1b8ce63efe7feb6f060d3811352b/720p",
+            "3": "//kodik.cc/seria/733741/bc63f27841b5bc3c054ca16a87fe612b/720p",
+            "4": "//kodik.cc/seria/733742/90308354e9e15bb04b2cbcd70296cc7c/720p",
+            "5": "//kodik.cc/seria/733743/58a34302d86b132c3e1b7b1c8fab5f71/720p",
+            "6": "//kodik.cc/seria/733744/8856d454aeb78991b225aa641f383006/720p",
+            "7": "//kodik.cc/seria/733745/383a4d1a5c5e69493e606d6d08e67790/720p",
+            "8": "//kodik.cc/seria/733746/1881978975d006b8516049eb93da2db1/720p",
+            "9": "//kodik.cc/seria/733747/ca1fe886ba627a19e1331f74e9084172/720p",
+            "10": "//kodik.cc/seria/733748/617211b5f72664b27a21920eb9195ea3/720p",
+            "11": "//kodik.cc/seria/733749/d58360d603e16d36442038344d438dc9/720p",
+            "12": "//kodik.cc/seria/733750/bd2c10b3d4a8cb9f59c15c6ef85c92fa/720p",
+            "13": "//kodik.cc/seria/733751/e7da63c5b4bd1aeae3695ec043a99a56/720p",
+            "14": "//kodik.cc/seria/733752/9d05726325ab6c00b9258cd7f6ee40fb/720p",
+            "15": "//kodik.cc/seria/733753/4657da29a4da953caa01b58097fb60e9/720p",
+            "16": "//kodik.cc/seria/733754/a0b5aee1ab52de1e9803396fabcf5981/720p",
+            "17": "//kodik.cc/seria/733755/eb725d0fa10baf554bbcf946366cb4a3/720p",
+            "18": "//kodik.cc/seria/733756/93d4599d5d41c54ab638f633cd066e41/720p",
+            "19": "//kodik.cc/seria/733757/5fee882976b773c012cc4fcf7fd37e7d/720p",
+            "20": "//kodik.cc/seria/733758/4b04d50543e236ec7793e8cb3bb2a1cf/720p",
+            "21": "//kodik.cc/seria/733759/f6eb5c94564468aa166538d1cd78041c/720p",
+            "22": "//kodik.cc/seria/733760/bcceeb88c35710d7797b1c9536f88752/720p",
+            "23": "//kodik.cc/seria/733761/ccf2544ec14081da13911771afc8fecb/720p",
+            "24": "//kodik.cc/seria/733762/9e506659a861b4b9958f2cf449662594/720p",
+            "25": "//kodik.cc/seria/733763/31aa590a4dabb84b687024fb8ca0a82f/720p",
+            "26": "//kodik.cc/seria/733764/31f5ae0e7c72f90b68abbc1f68483956/720p",
+            "27": "//kodik.cc/seria/733765/33b85dacb795f1f7b4c8ad9f28827c48/720p",
+            "28": "//kodik.cc/seria/733766/20fff5cb1a8131596fbc9b9c06470374/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-30120",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Клинок королевы: Без границ",
+      "title_orig": "Queen's Blade Unlimited",
+      "other_title": "Клинок королевы 4: Безграничный",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9549",
+      "shikimori_id": "34941",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-16T23:24:32Z",
+      "updated_at": "2020-11-16T23:24:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/733737/47c03d6352e128e68d48fd21c29cbb3a/720p",
+            "2": "//aniqit.com/seria/733738/cacc3663402d2c6a5f7212aafba08930/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Клинок королевы 4: Безграничный",
+        "title_en": "Queen's Blade: Unlimited",
+        "other_titles_jp": [
+          "クイーンズブレイドUNLIMITED"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "ongoing",
+        "poster_url": "https://shikimori.one/system/animes/original/34941.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/280b3dd087ef62eb287c72e7543e9200c53bd8c8.png",
+          "https://shikimori.one/system/screenshots/original/5d06659904207653d8e09fb414f8125fac3ddfa4.png"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Фэнтези",
+          "Экшен",
+          "Этти"
+        ],
+        "shikimori_rating": 6.19,
+        "shikimori_votes": 82,
+        "aired_at": "2018-07-13",
+        "rating_mpaa": "R+",
+        "episodes_total": 0,
+        "episodes_aired": 2
+      }
+    },
+    {
+      "id": "movie-60920",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "#выжить",
+      "title_orig": "#Saraitda",
+      "other_title": "Я жив / #Живой / Выжившие / Выжить / Выживание / #Saraitd / #Alive | #Salaidda",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1282031",
+      "imdb_id": "tt10620868",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-25T05:01:26Z",
+      "updated_at": "2020-11-16T20:13:28Z",
+      "material_data": {
+        "title": "#выжить",
+        "title_en": "#saraitda",
+        "year": 2020,
+        "tagline": "You Must Survive",
+        "description": "Молодой бездельник О Джон-у собирался провести очередной день как обычно — за видеоиграми, но внезапно в Сеуле происходит прорыв зомбивирусной инфекции. Пока эпидемия набирает обороты, и соседи по небольшому жилому комплексу мечутся в панике, распространяя заразу, парень успевает забаррикадироваться у себя в квартире. Через некоторое время Джон-у заметит, что в доме напротив, так же как и он, прячется девушка.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1282031.jpg",
+        "duration": 98,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 6168,
+        "imdb_rating": 6.2,
+        "imdb_votes": 25446,
+        "premiere_world": "2020-06-24",
+        "minimal_age": 16,
+        "actors": [
+          "Ю А-ин",
+          "Пак Щин-хе",
+          "Чон Бэ-су",
+          "Ли Хён-ук",
+          "О Хе-вон",
+          "Ким Хак-сон",
+          "Со Хи-джон",
+          "Чу Бо-би",
+          "Чон Ун-джон",
+          "Ли Чхэ-гён"
+        ],
+        "directors": [
+          "Чо Иль-хён"
+        ],
+        "producers": [
+          "Ли Ю-джин",
+          "О Хё-джин",
+          "Сэми Ким",
+          "Сэром Ким"
+        ],
+        "writers": [
+          "Мэтт Нэйлор",
+          "Чо Иль-хён"
+        ],
+        "composers": [
+          "Ким Тхэ-сон"
+        ],
+        "editors": [
+          "Щин Мин-гён"
+        ],
+        "designers": [
+          "Со Сон-гён",
+          "Чхве И-ён"
+        ],
+        "operators": [
+          "Сон Вон-хо"
+        ]
+      }
+    },
+    {
+      "id": "serial-28702",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Банкир",
+      "title_orig": "Deo baengkeo",
+      "other_title": "The Banker",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1231152",
+      "imdb_id": "tt9889042",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-15T13:33:42Z",
+      "updated_at": "2020-11-16T18:36:58Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/705343/7e165139ec3c6e30f5302b1887e8efed/720p",
+            "2": "//kodik.cc/seria/705344/3cf6c97e2c76bf3bd97572abe6be74ff/720p",
+            "3": "//kodik.cc/seria/705345/84a8b5f9bcb9a4b2554864b6241224df/720p",
+            "4": "//kodik.cc/seria/705346/bea4374b514ad059b79bb10c683e2018/720p",
+            "5": "//kodik.cc/seria/705347/a087af387b39cc6abf239eafb19b3dc8/720p",
+            "6": "//kodik.cc/seria/710227/e65e8b634e922def3faa46f995bec940/720p",
+            "7": "//kodik.cc/seria/719243/21353b77f61951c478ed8bb29eb430d2/720p",
+            "8": "//kodik.cc/seria/720635/15d4a0ad80be1f043a7f0daf3ae9aec0/720p",
+            "9": "//kodik.cc/seria/721788/1a77826161eb8a0dc55d3ad3cf0e119e/720p",
+            "10": "//kodik.cc/seria/722839/d8a212a3ac8040486506428238360b5c/720p",
+            "11": "//kodik.cc/seria/724024/16a044c50d3ac1c08e0c7ec220d2423a/720p",
+            "12": "//kodik.cc/seria/726312/3ac0c46f8bee179a116e1657e89565d0/720p",
+            "13": "//kodik.cc/seria/730704/bf69beb32ed64b4555a28715a56e03a7/720p",
+            "14": "//kodik.cc/seria/730705/76f7accea15ce1548c24e3f4d2cf71a0/720p",
+            "15": "//kodik.cc/seria/731889/65da5d68c803077b6c5cd357de9957f0/720p",
+            "16": "//kodik.cc/seria/733706/85704c7e92bea481846b04e0d3e756b6/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Банкир",
+        "title_en": "Deo baengkeo",
+        "year": 2019,
+        "description": "История об банковском аудиторе, который преследует только справедливость на фоне всеобщей коррупции и борьбы за власть.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1231152.jpg",
+        "duration": 35,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 10,
+        "premiere_world": "2019-03-27",
+        "actors": [
+          "Ким Сан-джун",
+          "Чхэ Щи-ра",
+          "Ю Дон-гын",
+          "Ким Тхэ-у",
+          "Ан У-ён",
+          "Щин До-хён",
+          "Чха Ин-ха",
+          "Ан Нэ-сан",
+          "Со И-сук",
+          "Ким Гю-чхоль"
+        ],
+        "directors": [
+          "Ли Джэ-джин"
+        ],
+        "writers": [
+          "О Хе-ран"
+        ]
+      }
+    },
+    {
+      "id": "movie-63356",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Шакунтала Деви: Человек-компьютер",
+      "title_orig": "Shakuntala Devi",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1309774",
+      "imdb_id": "tt10964468",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-16T17:04:49Z",
+      "updated_at": "2020-11-16T17:04:49Z",
+      "material_data": {
+        "title": "Шакунтала Деви: Человек-компьютер",
+        "title_en": "Shakuntala Devi",
+        "year": 2020,
+        "description": "История Шакунталы Деви - женщины, обладавшей феноменальными способностями вычисления в уме.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1309774.jpg",
+        "duration": 127,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "биография",
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 7980,
+        "premiere_world": "2020-07-31",
+        "actors": [
+          "Видья Балан",
+          "Санья Малхотра",
+          "Джишу Сенгупта",
+          "Амит Садх",
+          "Лука Кальвани",
+          "Шиба Чадха",
+          "Пракаш Белавади",
+          "Ipshita Chakraborty Singh",
+          "Spandan Chaturvedi",
+          "Пурненду Бхаттачария"
+        ],
+        "directors": [
+          "Ану Менон"
+        ],
+        "producers": [
+          "Викрам Малхотра",
+          "Pearl Gill",
+          "Seher Latif",
+          "Шивани Саран",
+          "Шикхаа Шарма",
+          "Raedita Tandan"
+        ],
+        "writers": [
+          "Ану Менон",
+          "Nayanika Mahtani",
+          "Ишита Мохира"
+        ],
+        "composers": [
+          "Сачин Сангхви",
+          "Джигар"
+        ],
+        "editors": [
+          "Антара Лахири"
+        ],
+        "designers": [
+          "Минал Агарвал",
+          "Винти Бансал",
+          "Harshvardhan Purohit"
+        ],
+        "operators": [
+          "Кэйко Накахара"
+        ]
+      }
+    },
+    {
       "id": "movie-63357",
       "type": "foreign-movie",
       "link": "",
@@ -2673,8 +4669,8 @@
         "kinopoisk_votes": 2617,
         "imdb_rating": 8.3,
         "imdb_votes": 52,
-        "shikimori_rating": 7.35,
-        "shikimori_votes": 1553,
+        "shikimori_rating": 7.34,
+        "shikimori_votes": 1572,
         "premiere_world": "2016-09-01",
         "aired_at": "2020-05-27",
         "released_at": "2020-06-24",
@@ -3388,7 +5384,7 @@
         "imdb_rating": 7.1,
         "imdb_votes": 42,
         "shikimori_rating": 7.45,
-        "shikimori_votes": 709,
+        "shikimori_votes": 717,
         "premiere_world": "2020-01-10",
         "aired_at": "2020-01-10",
         "released_at": "2020-03-27",
@@ -3526,7 +5522,7 @@
         "imdb_rating": 7.1,
         "imdb_votes": 42,
         "shikimori_rating": 7.45,
-        "shikimori_votes": 709,
+        "shikimori_votes": 717,
         "premiere_world": "2020-01-10",
         "aired_at": "2020-01-10",
         "released_at": "2020-03-27",
@@ -7202,2264 +9198,6 @@
             "8": "//kodik.cc/seria/733061/fc26b6d6df5248a25016c4b7ffa7f6ac/720p"
           }
         }
-      }
-    },
-    {
-      "id": "serial-30095",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Серебряный клык",
-      "title_orig": "Ginga: Nagareboshi Gin",
-      "other_title": "銀牙 流れ星銀",
-      "translation": {
-        "id": 1029,
-        "title": "Sad Kit",
-        "type": "voice"
-      },
-      "year": 1986,
-      "last_season": 1,
-      "last_episode": 21,
-      "episodes_count": 21,
-      "kinopoisk_id": "474791",
-      "imdb_id": "tt0362344",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4076",
-      "shikimori_id": "589",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-13T23:37:36Z",
-      "updated_at": "2020-11-13T23:37:36Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/733006/d046c0ee61ddd9c977ad1d62f077b16c/720p",
-            "2": "//aniqit.com/seria/733007/b47488c89dfb6d4c26585f0831b1a23f/720p",
-            "3": "//aniqit.com/seria/733008/709d5036889b4e490df3e8558ff82c59/720p",
-            "4": "//aniqit.com/seria/733009/b2d07f7563ffdbc2fd65d386c3ca6a54/720p",
-            "5": "//aniqit.com/seria/733010/4853b9252bd944ac1bcd7bbce50223f7/720p",
-            "6": "//aniqit.com/seria/733011/0a34219cae7914c827ffa4a959ec98f7/720p",
-            "7": "//aniqit.com/seria/733012/8273575ddd20bd52bb470144212dfaf4/720p",
-            "8": "//aniqit.com/seria/733013/a85afcf8871908cfe09c00ec25214dbb/720p",
-            "9": "//aniqit.com/seria/733014/b0c752b1a522f7b7a6bf4d16bad02bc5/720p",
-            "10": "//aniqit.com/seria/733015/9516b8c9c74a41f3e4099b2a0bbf746e/720p",
-            "11": "//aniqit.com/seria/733016/7e5af76c27ea1621c747758238026bf7/720p",
-            "12": "//aniqit.com/seria/733017/dea5e7a4978ad0d7388333e8233e858b/720p",
-            "13": "//aniqit.com/seria/733018/55591a234e1316804caef7783a4cd44a/720p",
-            "14": "//aniqit.com/seria/733019/f4711bfc43300f15ba35feaf187c939a/720p",
-            "15": "//aniqit.com/seria/733020/8dfd3af14b2a40d1fb42552de1023ec6/720p",
-            "16": "//aniqit.com/seria/733021/3e691ffacd4ba12e0ca861553d5aaed0/720p",
-            "17": "//aniqit.com/seria/733022/292dcca404dd56866c026bfe14f0fc62/720p",
-            "18": "//aniqit.com/seria/733023/db4bfdf88164fbab6378e5c1b4ad94ef/720p",
-            "19": "//aniqit.com/seria/733024/0b1d79a19566c50acfa1b1bc87362ad4/720p",
-            "20": "//aniqit.com/seria/733025/54d6e4589f50d0da3fbe8bbe2537a886/720p",
-            "21": "//aniqit.com/seria/733026/44e37d59c6ade3866f3bc4ae7c1a291c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Серебряный клык",
-        "title_en": "Ginga: Nagareboshi gin",
-        "other_titles": [
-          "Ginga: Nagareboshi Gin",
-          "Silverfang",
-          "Silver Fang",
-          "The small hero. Birth of Gin"
-        ],
-        "other_titles_jp": [
-          "銀牙　流れ星銀"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 1986,
-        "description": "5 лет назад охотник Гохеи Такеда прострелил глаз огромному медведю Акакабуто. В этой схватке погиб его пёс Широ. При новой встрече с Акакабуто погибает сын Широ - Рики. Теперь, недавно родившийся сын Рики - Гин, должен стать настоящим охотничьим псом и сразиться с Акакабуто. Так начинается история яростной битвы между Акакабуто и третьим потомком охотников на медведей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/474791.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/dde848cb3a04ebd6e0b0ae71c8ebcce6b1bad20f.jpg",
-          "https://shikimori.one/system/screenshots/original/60b730dea00936ca96c63a025581abbb5f628058.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "ужасы"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Приключения",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "imdb_rating": 8.9,
-        "imdb_votes": 2449,
-        "shikimori_rating": 8.05,
-        "shikimori_votes": 241,
-        "premiere_world": "1986-04-07",
-        "aired_at": "1986-04-07",
-        "released_at": "1986-08-22",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 18,
-        "episodes_total": 21,
-        "episodes_aired": 0,
-        "directors": [
-          "Томохару Кацумата",
-          "Кадзумаса Хорикава",
-          "Кадзунори Танабаси",
-          "Масаюки Акэхи",
-          "Юго Сэрикава"
-        ],
-        "producers": [
-          "Морихиро Като",
-          "Кацуо Ёкояма"
-        ],
-        "writers": [
-          "Йошихиро Такахаси",
-          "Мицуру Мадзима",
-          "Кэндзи Тэрада"
-        ],
-        "composers": [
-          "Горо Оми"
-        ],
-        "editors": [
-          "Ясухиро Ёсикава"
-        ],
-        "operators": [
-          "Takao Sato"
-        ]
-      }
-    },
-    {
-      "id": "movie-63270",
-      "type": "anime",
-      "link": "",
-      "title": "Принцесса кукол",
-      "title_orig": "Karakuri no Kimi",
-      "other_title": "Puppet Princess",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "695028",
-      "imdb_id": "tt2304710",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3376",
-      "shikimori_id": "1658",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T21:19:16Z",
-      "updated_at": "2020-11-13T21:19:16Z",
-      "material_data": {
-        "title": "Принцесса кукол",
-        "title_en": "Karakuri no Kimi",
-        "other_titles": [
-          "The Clockwork Ones"
-        ],
-        "other_titles_en": [
-          "Puppet Princess"
-        ],
-        "other_titles_jp": [
-          "からくりの君"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2000,
-        "tagline": "When the Princess makes her puppets dance, bodies will fly like broken toys.",
-        "description": "Давным-давно, во времена жестоких феодальных войн, Хисасиги Фумиватари прославился своим талантом в кукольном деле: ему удалось создать марионеток, превосходивших человека в силе и действовавших по своей воле. Возжелавший заполучить эти творения, чтобы расширить с их помощью свои владения, Садаёси Каримата убивает Хисасиги. И теперь дочь мастера-кукольника Рангику ищет мщения.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/695028.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/313e578ecea84369fcda79f9fe9dc375122b1f03.jpg",
-          "https://shikimori.one/system/screenshots/original/cd2093a3a67bd993de354381eaa6476d17db77db.jpg"
-        ],
-        "duration": 40,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "короткометражка",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Боевые искусства",
-          "Исторический",
-          "Комедия",
-          "Самураи",
-          "Сверхъестественное",
-          "Сёнен",
-          "Ужасы",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "imdb_rating": 6.2,
-        "imdb_votes": 57,
-        "shikimori_rating": 6.5,
-        "shikimori_votes": 238,
-        "premiere_world": "2001-08-28",
-        "aired_at": "2000-03-24",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Thomas Alan",
-          "Такэси Аоно",
-          "Френсис Черри",
-          "Дороти Элиас-Фан",
-          "Минору Инаба",
-          "Ричард Барнс",
-          "Niki Lindsley",
-          "Tom Mann",
-          "Майкл МакКоннохи",
-          "Shelley Meltzer"
-        ],
-        "directors": [
-          "Хиротоши Такая"
-        ],
-        "producers": [
-          "Джон Сирабелла"
-        ],
-        "editors": [
-          "Бет Салем"
-        ]
-      }
-    },
-    {
-      "id": "movie-63272",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Чёрный колодец",
-      "title_orig": "Kaali Khuhi",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1292164",
-      "imdb_id": "tt10235600",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T21:08:14Z",
-      "updated_at": "2020-11-13T21:08:14Z",
-      "material_data": {
-        "title": "Чёрный колодец",
-        "title_en": "Kaali Khuhi",
-        "year": 2020,
-        "description": "Семейство с 10-летней дочерью Шиванги приезжает в деревню к больной бабушке. Шиванги обследует окрестности и выясняет, что место таит в себе страшную тайну: в этой деревеньке на протяжении столетий существовала милая традиция сбрасывать в колодец новорожденных девочек. ",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1292164.jpg",
-        "duration": 90,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "ужасы"
-        ],
-        "imdb_rating": 3.4,
-        "imdb_votes": 947,
-        "premiere_world": "2020-10-26",
-        "actors": [
-          "Шабана Азми",
-          "Сатьядип Мисра",
-          "Sanjeeda Sheikh",
-          "Рива Арора",
-          "Leela Samson",
-          "Сэмюэл Джон",
-          "Hetvi Bhanushali",
-          "Rose Rathod"
-        ],
-        "directors": [
-          "Terrie Samundra"
-        ],
-        "producers": [
-          "Ramon Chibb",
-          "Anku Pande",
-          "Armit Chhabra",
-          "Санджив Кумар",
-          "Kamal Magan Patel",
-          "Sreeram Ramanathan",
-          "Карен Тенкофф"
-        ],
-        "writers": [
-          "Рапиндер Индерджит",
-          "Дэвид Уолтер Лех",
-          "Terrie Samundra"
-        ],
-        "composers": [
-          "Дэниэл Б. Джордж"
-        ],
-        "editors": [
-          "Санукта Каза"
-        ],
-        "designers": [
-          "Анджелика Моника Боумик",
-          "Самир Видхате",
-          "Anirban Haldar",
-          "Gurmehar Kaur"
-        ],
-        "operators": [
-          "Седжал Шах"
-        ]
-      }
-    },
-    {
-      "id": "serial-28604",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Девушка на час [ТВ-1]",
-      "title_orig": "Kanojo, Okarishimasu",
-      "other_title": "Девушка на час / Девушка напрокат / Девушка в аренду / Rent-A-Girlfriend",
-      "translation": {
-        "id": 1068,
-        "title": "Crunchyroll",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1332676",
-      "imdb_id": "tt11448214",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10329",
-      "shikimori_id": "40839",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-12T13:24:43Z",
-      "updated_at": "2020-11-13T16:12:52Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703647/c8b4db73bed3d397bf767b2e167bbeea/720p",
-            "2": "//aniqit.com/seria/703648/f03d6cb8dd70c42edb6026518faa887d/720p",
-            "3": "//aniqit.com/seria/703649/d1f8ade397f2dc68a61b0a2863d08848/720p",
-            "4": "//aniqit.com/seria/703650/8aa40accdf21cc9285ba934a673380d4/720p",
-            "5": "//aniqit.com/seria/703651/dc2940b995da709cc8de489074b27af8/720p",
-            "6": "//aniqit.com/seria/710418/de5c7b54c872017ec46916f7eef358f6/720p",
-            "7": "//aniqit.com/seria/710419/bc33d69825e6ff99122a16064a2c9e96/720p",
-            "8": "//aniqit.com/seria/732958/cf7db06a11a988a002e7486ef3eab855/720p",
-            "9": "//aniqit.com/seria/732959/a012f79b19dcaed832bc04677d722689/720p",
-            "10": "//aniqit.com/seria/732960/77d9e814194ade74b76de4938d9b41a2/720p",
-            "11": "//aniqit.com/seria/732961/7b86f6f008f6d87d3f37a6b5adc8e1e5/720p",
-            "12": "//aniqit.com/seria/732962/99f80df7715c7859534a19916b51f430/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Девушка на час",
-        "title_en": "Kanojo, Okarishimasu",
-        "other_titles": [
-          "Девушка в аренду",
-          "Kanokari"
-        ],
-        "other_titles_en": [
-          "Rent-a-Girlfriend"
-        ],
-        "other_titles_jp": [
-          "彼女、お借りします"
-        ],
-        "anime_license_name": "Девушка напрокат",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Брошенный своей девушкой студент Кадзуя пытается заполнить пустоту в сердце с помощью арендованной подруги из мобильного приложения. Поначалу Тидзуру кажется идеальной – она красивая, милая и заботливая. Однако, увидев неоднозначные отзывы в её профиле, Кадзуя решает, что Тидзуру просто играет с мужчинами, и ставит ей плохую оценку. Рассерженная девушка показывает свою истинную сущность.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1332676.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e96a89e4c80eaad93d6c174e3dc2b518530d4869.jpg",
-          "https://shikimori.one/system/screenshots/original/4f217b2770d3238ce8beca08b7e4515628762f9d.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сёнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 485,
-        "imdb_rating": 7.3,
-        "imdb_votes": 1466,
-        "shikimori_rating": 7.37,
-        "shikimori_votes": 9862,
-        "premiere_world": "2020-07-10",
-        "aired_at": "2020-07-11",
-        "released_at": "2020-09-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Сюн Хориэ",
-          "Сора Амамия",
-          "Аои Юки",
-          "Нао Тояма",
-          "Риэ Такахаси"
-        ],
-        "directors": [
-          "Кадзуоми Кога"
-        ],
-        "writers": [
-          "Мицутака Хирота",
-          "Рэидзи Миядзима"
-        ],
-        "composers": [
-          "Кэнъити Маэямада"
-        ]
-      }
-    },
-    {
-      "id": "movie-63267",
-      "type": "anime",
-      "link": "",
-      "title": "Моб Психо 100",
-      "title_orig": "Mob Psycho 100",
-      "other_title": "Моб Психо 100 OVA-2 / Моб Психо 100: Первая поездка «Консультаций по призракам и всякой всячине» — Путешествие, исцеляющее душу и тело",
-      "translation": {
-        "id": 1542,
-        "title": "JustDub",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1002686",
-      "imdb_id": "tt5897304",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10121",
-      "shikimori_id": "39651",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T15:50:30Z",
-      "updated_at": "2020-11-13T15:50:30Z",
-      "material_data": {
-        "title": "Моб Психо 100",
-        "title_en": "Mob Psycho 100",
-        "other_titles": [
-          "Моб Психо 100 2: Путешествие, которое склеивает сердце и исцеляет душу",
-          "Mob Psycho 100: The Spirits and Such Consultation Office's First Company Outing - A Healing Trip That Warms the Heart"
-        ],
-        "other_titles_jp": [
-          "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅"
-        ],
-        "anime_license_name": "Моб Психо 100: Первая поездка «Консультаций по призракам и всякой всячине» — Путешествие, исцеляющее душу и тело",
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Сигэо Кагэяма, также известный как Моб, - восьмиклассник с психическими способностями. Он умеет сгибать ложки и поднимать вещи силой мысли с ранних лет, но затем он постепенно начал сдерживаться от использования способностей на публике. И теперь единственное, чего он хочет - это подружиться с одноклассницей Цубоми. Вместе со своим психическим наставником (у которого нет психических способностей), он продолжает свою повседневную жизнь, пытаясь понять свое назначение в жизни.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1002686.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d2aa462504cbbe54f7fb2a71a0ae65b77085dd31.jpg",
-          "https://shikimori.one/system/screenshots/original/e9fa3b748c597b8ebe47a83955ac2c5c39f58dbb.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сверхъестественное",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 8.1,
-        "kinopoisk_votes": 10265,
-        "imdb_rating": 8.5,
-        "imdb_votes": 14675,
-        "shikimori_rating": 7.62,
-        "shikimori_votes": 3531,
-        "premiere_ru": "2018-09-11",
-        "premiere_world": "2016-07-11",
-        "aired_at": "2019-09-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Сэцуо Ито",
-          "Такахиро Сакурай",
-          "Акио Оцука",
-          "Мию Ирино",
-          "Ёсицугу Мацуока",
-          "Ёсимаса Хосоя",
-          "Рюносукэ Ватануки",
-          "Сэиитиро Ямасита",
-          "Кохэи Амасаки",
-          "Даики Хамано"
-        ],
-        "directors": [
-          "Юдзуру Татикава",
-          "Такэфуми Андзаи",
-          "Кацуя Сигэхара",
-          "Кэнъити Фудзисава",
-          "Ёко Канамори",
-          "Такаси Кавабата",
-          "Томоаки Ота",
-          "Юдзи Оя"
-        ],
-        "producers": [
-          "Дзюн Фукуда",
-          "Юкихиро Ито",
-          "Акио Мацуда",
-          "Юки Нагано",
-          "Хироцуги Огису"
-        ],
-        "writers": [
-          "Онэ",
-          "Хироси Сэко"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ],
-        "editors": [
-          "Киёси Хиросэ"
-        ],
-        "designers": [
-          "Рё Коно"
-        ],
-        "operators": [
-          "Маюко Фурумото"
-        ]
-      }
-    },
-    {
-      "id": "movie-61955",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Морг",
-      "title_orig": "Morgue",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1306639",
-      "imdb_id": "tt10914482",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-20T09:31:02Z",
-      "updated_at": "2020-11-13T15:45:57Z",
-      "material_data": {
-        "title": "Морг",
-        "title_en": "Morgue",
-        "year": 2019,
-        "description": "Провести ночь в морге — то еще развлечение не для слабонервных, и новенькому охраннику в этом плане «повезло». На первом же дежурстве он замечает очень странные вещи и сталкивается с потусторонней сущностью, способной прятаться в тени и настроенной явно враждебно.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1306639.jpg",
-        "duration": 81,
-        "countries": [
-          "Парагвай"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 4.7,
-        "kinopoisk_votes": 1056,
-        "imdb_rating": 4.4,
-        "imdb_votes": 124,
-        "premiere_ru": "2020-10-15",
-        "premiere_world": "2019-08-22",
-        "minimal_age": 18,
-        "actors": [
-          "Франсиско Айала",
-          "Мария дель Мар Фернандес",
-          "Абель Мартинес",
-          "Пабло Мартинес",
-          "Рауль Ротела",
-          "Уилли Виллальба",
-          "Альдо Фон Кноблох"
-        ],
-        "directors": [
-          "Уго Кардосо"
-        ],
-        "producers": [
-          "Уго Кардосо"
-        ],
-        "writers": [
-          "Уго Кардосо"
-        ]
-      }
-    },
-    {
-      "id": "movie-63265",
-      "type": "anime",
-      "link": "",
-      "title": "Тёмный дворецкий: Рекап",
-      "title_orig": "Kuroshitsuji Recap",
-      "translation": {
-        "id": 1542,
-        "title": "JustDub",
-        "type": "voice"
-      },
-      "year": 2009,
-      "shikimori_id": "6163",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T14:49:35Z",
-      "updated_at": "2020-11-13T14:49:35Z",
-      "material_data": {
-        "title": "Тёмный дворецкий: Рекап",
-        "title_en": "Kuroshitsuji Recap",
-        "other_titles": [
-          "Tanaka no Narration de Kurikaeru Zenhan Digest",
-          "Tanaka no Naration de Kurikaeru Kuroshituji Digest",
-          "Kuroshitsuji Episode 13.5",
-          "Kuro Shitsuji Recap Episode",
-          "Black Butler Recap",
-          "Kuroshitsuji Special"
-        ],
-        "other_titles_jp": [
-          "タナカのナレーションで振り返る黒執事ダイジェスト"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "description": "Эпизод, вышедший только на DVD, обобщает в себе первые тринадцать серий Kuroshitsuji.",
-        "poster_url": "https://shikimori.one/system/animes/original/6163.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/0494884ecbd3248e9783a94213b13c61e6a6f575.jpg",
-          "https://shikimori.one/system/screenshots/original/d0af724f45116bce511cc726d0ec1ab358ebff3b.jpg"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Детектив",
-          "Исторический",
-          "Комедия",
-          "Сверхъестественное",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "shikimori_rating": 7.21,
-        "shikimori_votes": 2189,
-        "aired_at": "2009-01-09",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-30087",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Милый дом Ти [ТВ-1]",
-      "title_orig": "Chii's Sweet Home",
-      "other_title": "Милый дом Чии / Милый дом Чи",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2008,
-      "last_season": 1,
-      "last_episode": 104,
-      "episodes_count": 104,
-      "kinopoisk_id": "455441",
-      "imdb_id": "tt1276525",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6860",
-      "shikimori_id": "3841",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-12T13:40:55Z",
-      "updated_at": "2020-11-13T11:46:34Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/732666/0bfdaea0de337006a836ede8d74c8e3b/720p",
-            "2": "//aniqit.com/seria/732667/3443976d358ccbaa55c25a4a716f21a7/720p",
-            "3": "//aniqit.com/seria/732668/22020ecf98f9d67c780cd5073a858374/720p",
-            "4": "//aniqit.com/seria/732669/3e21eb463b83b485f96b564514e3210c/720p",
-            "5": "//aniqit.com/seria/732670/db6806cec74bf93d066245962a063131/720p",
-            "6": "//aniqit.com/seria/732671/27833d6ce164ddae5603d48bf6336d5e/720p",
-            "7": "//aniqit.com/seria/732672/ac944ea93784af61319ddce25c2fc9ee/720p",
-            "8": "//aniqit.com/seria/732673/6543f19d3c7e2a657d274f8eb97bef10/720p",
-            "9": "//aniqit.com/seria/732674/363e0f981dcef79174006fdfb34ede83/720p",
-            "10": "//aniqit.com/seria/732680/8ad1ebc3602964ce8ce3e05eaa58a791/720p",
-            "11": "//aniqit.com/seria/732681/55fc4868d0dc76b75020e5cf171ccd64/720p",
-            "12": "//aniqit.com/seria/732682/52c9b7a48aa6a4686030dbe5a5d1ce44/720p",
-            "13": "//aniqit.com/seria/732683/527026cc5369181af7fdff2c3f555d62/720p",
-            "14": "//aniqit.com/seria/732684/8b616ab1e8f1aab6774327aa87ef360b/720p",
-            "15": "//aniqit.com/seria/732685/462a2adefdc88799b90a5a98376c2063/720p",
-            "16": "//aniqit.com/seria/732686/4bd7a8850c6e858d603c2235b22ba697/720p",
-            "17": "//aniqit.com/seria/732687/f1c07843eb18c3edf634962af75cb125/720p",
-            "18": "//aniqit.com/seria/732688/b458314df100cbc9eda74396cdd7b033/720p",
-            "19": "//aniqit.com/seria/732689/c4531a249d2913914bb74e7abe443651/720p",
-            "20": "//aniqit.com/seria/732690/2e47fe8bb1f1dbf30b2b77973f8b581d/720p",
-            "21": "//aniqit.com/seria/732691/66eee312a19085e5953c5c09e0235021/720p",
-            "22": "//aniqit.com/seria/732692/ebc4e941c36bb5895f8a9cbaae787c99/720p",
-            "23": "//aniqit.com/seria/732693/110a787fccddf16455bec9f728f576db/720p",
-            "24": "//aniqit.com/seria/732694/5c4582ed18db46691b871b7783c8b700/720p",
-            "25": "//aniqit.com/seria/732695/7144ec90d419c4fc54a5d5b51ba0192f/720p",
-            "26": "//aniqit.com/seria/732710/5499da3a614e791edd07249d9029b6d5/720p",
-            "27": "//aniqit.com/seria/732711/1d3b601bd01ec0c8602aabb4e8d441c1/720p",
-            "28": "//aniqit.com/seria/732712/e67228947498f2a84feed5a576cd0c1a/720p",
-            "29": "//aniqit.com/seria/732713/e9ac7bf6fea63863aa6c50c5c40e8bfa/720p",
-            "30": "//aniqit.com/seria/732714/10093dacc42edf9907aac5f4c09e2e6c/720p",
-            "31": "//aniqit.com/seria/732715/c9e69251000583ae9a3c6f05338623e5/720p",
-            "32": "//aniqit.com/seria/732716/1c0cfe852c122623c602a2f21e3dd81d/720p",
-            "33": "//aniqit.com/seria/732717/dfeb1249bbe646a4928e0625a4720645/720p",
-            "34": "//aniqit.com/seria/732859/f15fd0c4962437bb60c5a5a3860d896d/720p",
-            "35": "//aniqit.com/seria/732860/a22555a3a2c4e16cd9324679c2ca7b08/720p",
-            "36": "//aniqit.com/seria/732861/dcf69cd15ad2710205230d99999e6e6a/720p",
-            "37": "//aniqit.com/seria/732862/d71928b027bc87b3bd7b35f7aea85fa3/720p",
-            "38": "//aniqit.com/seria/732863/b38bff44ae613714f87c9ae46de03b83/720p",
-            "39": "//aniqit.com/seria/732864/5a8ee1b9155bef20c2575fb873a416b4/720p",
-            "40": "//aniqit.com/seria/732865/379d89889992355ff82d756c2e2cb5de/720p",
-            "41": "//aniqit.com/seria/732866/e851a9e75cd548904cc7e496f7dd86e5/720p",
-            "42": "//aniqit.com/seria/732867/fcf400f35eb1eac11eafd7a58f8a4984/720p",
-            "43": "//aniqit.com/seria/732868/103032000a020c5798d8e9bc8b85348b/720p",
-            "44": "//aniqit.com/seria/732869/f112e4b9f8a0204bfe88dbb01be34370/720p",
-            "45": "//aniqit.com/seria/732870/7015cae758b81ffe348efb50af20cf55/720p",
-            "46": "//aniqit.com/seria/732871/dc3e8f94cc155d1ef3935f6595a9b615/720p",
-            "47": "//aniqit.com/seria/732872/479791adad751ff5115ee08faa6c1a4f/720p",
-            "48": "//aniqit.com/seria/732873/e61e4e5614ce9657978d07eddbc8e9ea/720p",
-            "49": "//aniqit.com/seria/732874/0b96dbb32ceb6480201c16fc40524056/720p",
-            "50": "//aniqit.com/seria/732875/f91377ca0fb29886ce07df9c54f9bee5/720p",
-            "51": "//aniqit.com/seria/732876/101405114fa82979c3bde9c7ed33176f/720p",
-            "52": "//aniqit.com/seria/732877/8f9a41343642a188547b5c7b23468850/720p",
-            "53": "//aniqit.com/seria/732878/b175cf3081fa31806ae7313c082cc5bc/720p",
-            "54": "//aniqit.com/seria/732879/0010f8e5663b75a627e255074daf7586/720p",
-            "55": "//aniqit.com/seria/732880/7db1dda08464f5e2b73ef1293dacf6e7/720p",
-            "56": "//aniqit.com/seria/732881/e4dae77414036e4d0dba76bb8e6014ae/720p",
-            "57": "//aniqit.com/seria/732882/5c6e9671224afdb69992e5e5c9a04a89/720p",
-            "58": "//aniqit.com/seria/732883/f060a69d2817fffeac92696139a019f5/720p",
-            "59": "//aniqit.com/seria/732884/1abce22309e420e068dd740e8537a83c/720p",
-            "60": "//aniqit.com/seria/732885/60eb4a05cc6072a810f70291290f8f03/720p",
-            "61": "//aniqit.com/seria/732886/ebcdce50e752c4e46d73a3c6bf2b78c5/720p",
-            "62": "//aniqit.com/seria/732887/696544cff4f232be293c2fd7a64c85ff/720p",
-            "63": "//aniqit.com/seria/732888/5a6c2adaff251295f755ca7210e84ea1/720p",
-            "64": "//aniqit.com/seria/732889/d12036a95f6eb2465c73d89b013dba8e/720p",
-            "65": "//aniqit.com/seria/732890/be8461c75929ba98552f8a30bc6419b5/720p",
-            "66": "//aniqit.com/seria/732891/6d40b5ea571ae63c24daef4b237a9ace/720p",
-            "67": "//aniqit.com/seria/732892/3ef214e2ac0dcf01dd82156efd2e8b24/720p",
-            "68": "//aniqit.com/seria/732893/5501b7206d047837cd9494dfd3391b95/720p",
-            "69": "//aniqit.com/seria/732894/4e976b5c1d1a0a45b002ee150bc7969a/720p",
-            "70": "//aniqit.com/seria/732895/f91f102386267566207e1f00aa37a1a7/720p",
-            "71": "//aniqit.com/seria/732896/354db145f574c4f15190b59c7fe25481/720p",
-            "72": "//aniqit.com/seria/732897/555e78040173adbb4e655ad5edc58cca/720p",
-            "73": "//aniqit.com/seria/732898/f37fa6ba46736f65d46a76edbb5f91e0/720p",
-            "74": "//aniqit.com/seria/732899/32ed241cee1545b0805a01690c871591/720p",
-            "75": "//aniqit.com/seria/732900/f14e6a608176cba7b9925e78821f426c/720p",
-            "76": "//aniqit.com/seria/732901/d97a1e23b609e4a4b01b7d8621e9103d/720p",
-            "77": "//aniqit.com/seria/732902/683d935b4dbce090c39cf28c2eb76eb6/720p",
-            "78": "//aniqit.com/seria/732903/ab3033912fec4c4df04352ebe732ca69/720p",
-            "79": "//aniqit.com/seria/732904/a0a1ece17b3f32ae56a1507dead76f18/720p",
-            "80": "//aniqit.com/seria/732905/8d0e143c303386b4b0df7344c898f438/720p",
-            "81": "//aniqit.com/seria/732906/fad0431794d70835fe3e156d6cc0a904/720p",
-            "82": "//aniqit.com/seria/732907/cb1c9ea8d1fb2fd170465e37c173a1d8/720p",
-            "83": "//aniqit.com/seria/732908/60290934698a1ebec11493d6f5748b7a/720p",
-            "84": "//aniqit.com/seria/732909/c26d348f6726c65af5574021e93e120c/720p",
-            "85": "//aniqit.com/seria/732910/486e102db9ca9e05e31689b58b19c390/720p",
-            "86": "//aniqit.com/seria/732911/999d48be9900ecf842a7d59f88bd9fdb/720p",
-            "87": "//aniqit.com/seria/732912/bfde3417c388feab80ac1348559b77f0/720p",
-            "88": "//aniqit.com/seria/732913/eb4c10e1b29282f5210d03d683e3baa7/720p",
-            "89": "//aniqit.com/seria/732914/c877ccc3a5e24782b0cf863c33b91d0b/720p",
-            "90": "//aniqit.com/seria/732915/7c84f4a11c54cee1d7e25d6d0df20799/720p",
-            "91": "//aniqit.com/seria/732916/d236b6015879c692c56ed9f24c476946/720p",
-            "92": "//aniqit.com/seria/732917/58e821deb622b0b26dabd8fddee0f280/720p",
-            "93": "//aniqit.com/seria/732918/06b04faf335cd1ed44f83e481ce22f05/720p",
-            "94": "//aniqit.com/seria/732919/7073ea27c77edf6ecb9d4e14ddf5f3f3/720p",
-            "95": "//aniqit.com/seria/732920/4ad7473fc00ca27579f03f3124361ed4/720p",
-            "96": "//aniqit.com/seria/732921/e42eaef96c1295df45f098c6c77e4a7e/720p",
-            "97": "//aniqit.com/seria/732922/6d746c46e83e5f0b7f9bd949708da0df/720p",
-            "98": "//aniqit.com/seria/732923/bd582a614c52837c6ec93a339d8e0183/720p",
-            "99": "//aniqit.com/seria/732924/59716baed2280624e35e0b979f090bb5/720p",
-            "100": "//aniqit.com/seria/732696/59fabe5a501b12cc9456bd5df32db272/720p",
-            "101": "//aniqit.com/seria/732697/cdc0b2ed0c085e5da6abf1a35c89cbd0/720p",
-            "102": "//aniqit.com/seria/732698/a29dd8d2fb1b862e183d2aadf476ebab/720p",
-            "103": "//aniqit.com/seria/732699/2b30d1d6f005f5559c0eebdcf0b9083a/720p",
-            "104": "//aniqit.com/seria/732700/951ec7cd2abcfe8d6b53285702209159/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Милый дом Чии",
-        "title_en": "Chi's Sweet Home",
-        "other_titles": [
-          "Chii's Sweet Home",
-          "Chiizu"
-        ],
-        "other_titles_jp": [
-          "チーズスイートホーム"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "Крошечный котёнок идет погулять с мамой и братцем. Крошечный котёнок отвлекается, глазея на птичку. Крошечный котёнок остается один... а ведь крошечный котёнок понятия не имеет, где его мама и где его дом. Дом, милый дом котенка Чии!!!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/455441.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4e08c4bdf50f4ceb74e46bd5309944dae4405f35.jpg",
-          "https://shikimori.one/system/screenshots/original/5316ed82d1b8a29cfa2c4adeb3406f00ee46e39c.jpg"
-        ],
-        "duration": 3,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "Madhouse"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 1142,
-        "imdb_rating": 8,
-        "imdb_votes": 268,
-        "shikimori_rating": 7.71,
-        "shikimori_votes": 2470,
-        "premiere_world": "2008-03-31",
-        "aired_at": "2008-03-31",
-        "released_at": "2008-09-25",
-        "rating_mpaa": "G",
-        "episodes_total": 104,
-        "episodes_aired": 0,
-        "actors": [
-          "Сатоми Короги",
-          "Норико Хидака",
-          "Хидэнобу Киути",
-          "Эцуко Кодзакура"
-        ],
-        "directors": [
-          "Мицуюки Масухара"
-        ],
-        "producers": [
-          "Дзюндзи Аоки",
-          "Кэнъити Комори",
-          "Такаши Мураяма"
-        ],
-        "writers": [
-          "Каната Конами",
-          "Мицуюки Масухара"
-        ],
-        "composers": [
-          "Хикару Нанасэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-22247",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Жестокие мечты",
-      "title_orig": "Mean Dreams",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "942240",
-      "imdb_id": "tt5160928",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-03-20T06:12:36Z",
-      "updated_at": "2020-11-13T11:36:31Z",
-      "material_data": {
-        "title": "Жестокие мечты",
-        "title_en": "Mean Dreams",
-        "year": 2016,
-        "tagline": "Спаси свою любовь",
-        "description": "Юноша встречает девушку. Ради неё он готов идти на край света, свернуть горы или просто украсть миллион долларов у наркокартеля. Она же всегда хотела увидеть море, потому что море – это свобода. Теперь они объявлены в розыск, и за ними гонится вся полиция штата.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/942240.jpg",
-        "duration": 108,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "триллер"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 1790,
-        "imdb_rating": 6.3,
-        "imdb_votes": 4193,
-        "premiere_ru": "2017-04-06",
-        "premiere_world": "2016-05-15",
-        "rating_mpaa": "R",
-        "minimal_age": 18,
-        "actors": [
-          "Джош Уиггинс",
-          "Софи Нелисс",
-          "Джо Кобден",
-          "Билл Пэкстон",
-          "Вики Папавс",
-          "Колм Фиор",
-          "Райан Блэйкли",
-          "Джордж Бьюза",
-          "Тара Никодемо",
-          "Майк МакФэден"
-        ],
-        "directors": [
-          "Нэйтан Морландо"
-        ],
-        "producers": [
-          "Эллисон Блэк",
-          "Уилльям Вудс",
-          "Кортни Бейнбридж",
-          "Андре Бхарти",
-          "Джонатан Бронфман",
-          "Джоэль Берч",
-          "Розали Чилелли",
-          "Марк Жингра",
-          "Крис Хэтчер",
-          "Роб МакДжилливрэй"
-        ],
-        "writers": [
-          "Кевин Кофлин",
-          "Райан Грассби"
-        ],
-        "composers": [
-          "Сон Люкс"
-        ],
-        "editors": [
-          "Сэнди Перейра",
-          "Рональд Сандерс"
-        ],
-        "designers": [
-          "Зося МакКензи",
-          "Джон О’Ригэн",
-          "Марисса Шварц"
-        ],
-        "operators": [
-          "Стив Косенс"
-        ]
-      }
-    },
-    {
-      "id": "movie-26256",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Убежище дьявола",
-      "title_orig": "El habitante",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1049478",
-      "imdb_id": "tt6830412",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-29T19:41:54Z",
-      "updated_at": "2020-11-13T11:20:24Z",
-      "material_data": {
-        "title": "Убежище дьявола",
-        "title_en": "El habitante",
-        "year": 2017,
-        "description": "Три сестры из неблагополучной семьи решают ограбить дом сенатора, чтобы расплатиться с долгами. Тот отдает им деньги из сейфа, но отчаявшимся девушкам это кажется недостаточной суммой. Они слышат странный шум, и старшая сестра находит в подвале связанную дочь сенатора.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1049478.jpg",
-        "duration": 93,
-        "countries": [
-          "Мексика"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "kinopoisk_rating": 5.4,
-        "kinopoisk_votes": 3416,
-        "imdb_rating": 5.2,
-        "imdb_votes": 802,
-        "premiere_ru": "2018-07-26",
-        "premiere_world": "2017-10-07",
-        "minimal_age": 16,
-        "actors": [
-          "Мария Эволи",
-          "Ванесса Рестрепо",
-          "Карла Аделл",
-          "Габриела де ла Гарса",
-          "Флавио Медина",
-          "Фернандо Бесерриль",
-          "Наташа Кубриа",
-          "Арнольдо Пикассо",
-          "Лиз Дьеппа",
-          "Шира Барзилай"
-        ],
-        "directors": [
-          "Гильермо Амоедо"
-        ],
-        "producers": [
-          "Родриго Белло",
-          "Виктор Хуго Пуйоль Лопес",
-          "Хакобо Насар",
-          "Родриго Трухильо",
-          "Мигель Асенсио",
-          "Николас Лопес",
-          "Денисс Прието"
-        ],
-        "writers": [
-          "Гильермо Амоедо"
-        ],
-        "composers": [
-          "Мануэль Ривейро"
-        ],
-        "editors": [
-          "Диего Мачо Гомес"
-        ],
-        "designers": [
-          "Ксения Бесора",
-          "Ксения Бесора",
-          "Абрил Аламо"
-        ],
-        "operators": [
-          "Эрвин Жакез"
-        ]
-      }
-    },
-    {
-      "id": "movie-5328",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Женский дом",
-      "title_orig": "GirlHouse",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "723888",
-      "imdb_id": "tt2577172",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-03-07T12:40:37Z",
-      "updated_at": "2020-11-13T10:54:17Z",
-      "material_data": {
-        "title": "Женский дом",
-        "title_en": "Girlhouse",
-        "year": 2014,
-        "tagline": "Enjoy the show.",
-        "description": "Молодая студентка, отчаянно нуждающаяся в деньгах на обучение, начинает работу в доме, откуда ведутся трансляции для взрослых. Но стоит обиженному фанату узнать его местоположение, как девушке уже приходится опасаться за свою жизнь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/723888.jpg",
-        "duration": 99,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 5,
-        "kinopoisk_votes": 1214,
-        "imdb_rating": 5.5,
-        "imdb_votes": 8248,
-        "premiere_world": "2014-10-16",
-        "actors": [
-          "Эли Кобрин",
-          "Адам ДиМарко",
-          "Слэйн",
-          "Элисон Бэт",
-          "Элисия Ротару",
-          "Чести Бальестерос",
-          "Элис Хантер",
-          "Уэсли МакИннес",
-          "Эрин Агостино",
-          "Николь Арианна Фокс"
-        ],
-        "directors": [
-          "Джон Наутц",
-          "Тревор Мэтьюз"
-        ],
-        "producers": [
-          "Ник Гордон",
-          "Кори Нил",
-          "Бо Феррис",
-          "Ann Matthews",
-          "Тревор Мэтьюз",
-          "Картер Стэнтон"
-        ],
-        "writers": [
-          "Ник Гордон"
-        ],
-        "composers": [
-          "Томэндэнди"
-        ],
-        "editors": [
-          "Мэттью Брулотт"
-        ],
-        "designers": [
-          "Лиза Сопер",
-          "Шэйн Бучер",
-          "Дженнифер Страуд",
-          "Гаррен Данбар"
-        ],
-        "operators": [
-          "Крис Норр"
-        ]
-      }
-    },
-    {
-      "id": "movie-63262",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Красный, желтый, зеленый",
-      "title_orig": "Sivappu Manjal Pachai",
-      "translation": {
-        "id": 948,
-        "title": "CrazyCatStudio",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1265925",
-      "imdb_id": "tt10334602",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T09:54:37Z",
-      "updated_at": "2020-11-13T09:54:37Z",
-      "material_data": {
-        "title": "Красный, желтый, зеленый",
-        "title_en": "Sivappu Manjal Pachai",
-        "year": 2019,
-        "tagline": "Do Not Cross",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1265925.jpg",
-        "duration": 140,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "триллер"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 1128,
-        "premiere_world": "2019-07-12",
-        "actors": [
-          "Сиддхартх",
-          "Г.В. Пракаш Кумар",
-          "Lijo Mol Jose",
-          "Kashmira Pardesi",
-          "Мадхусудан",
-          "Прем",
-          "Дхипа Рамануджам",
-          "Nakkalites Dhanam"
-        ],
-        "directors": [
-          "Сэйси"
-        ],
-        "producers": [
-          "Ramesh S. Pillai"
-        ],
-        "writers": [
-          "Сэйси"
-        ],
-        "composers": [
-          "Siddhu Kumar"
-        ],
-        "editors": [
-          "San Lokesh"
-        ],
-        "designers": [
-          "Nivetha Joseph"
-        ],
-        "operators": [
-          "Prasanna S. Kumar"
-        ]
-      }
-    },
-    {
-      "id": "movie-63238",
-      "type": "russian-movie",
-      "link": "",
-      "title": "А у тебя есть солнце?",
-      "title_orig": "A u tebya est solnce?",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "619748",
-      "imdb_id": "tt9212552",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:10:31Z",
-      "updated_at": "2020-11-13T08:10:31Z",
-      "material_data": {
-        "title": "А у тебя есть солнце?",
-        "title_en": "",
-        "year": 1974,
-        "description": "О дружбе щенка и цыпленка.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/619748.jpg",
-        "duration": 13,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 111,
-        "imdb_rating": 6.2,
-        "imdb_votes": 10,
-        "minimal_age": 0,
-        "actors": [
-          "Анатолий Щукин",
-          "Лидия Катаева"
-        ],
-        "directors": [
-          "Анатолий Аляшев"
-        ],
-        "writers": [
-          "Ю. Аверенков"
-        ],
-        "composers": [
-          "Алмас Монасыпов"
-        ],
-        "editors": [
-          "Л. Туровец"
-        ],
-        "designers": [
-          "Андрей Евладов",
-          "Е. Скаридов",
-          "А. Евладова",
-          "Н. Ишина",
-          "Татьяна Костоусова"
-        ],
-        "operators": [
-          "А. Ишин"
-        ]
-      }
-    },
-    {
-      "id": "movie-63239",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Ах, принцесса!",
-      "title_orig": "Akh, printsessa!",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "727503",
-      "imdb_id": "tt6489184",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:09:15Z",
-      "updated_at": "2020-11-13T08:09:15Z",
-      "material_data": {
-        "title": "Ах, принцесса!",
-        "title_en": "",
-        "year": 1987,
-        "description": "Нищий поэт полюбил принцессу, дочь калифа. Их союз не представлялся возможным, но герою подвернулся шанс, когда калиф издал приказ, что отдаст свою дочь замуж за того, кто сможет победить ужасного дракона. Множество великих воинов решили попробовать выполнить это задание, но испугались огня. Тогда поэт начал читать стихи о любви, и дракон был повержен. Халиф приказал уничтожить ведьму, поэт справился и с этим заданием. Тогда халиф повелел привести хозяина гор. Стихотворец отважился и на это, но достанется ли ему любимая?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/727503.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "actors": [
-          "Альберт Филозов",
-          "Марина Левтова"
-        ],
-        "directors": [
-          "Юлиан Калишер"
-        ],
-        "writers": [
-          "А. Арбатова"
-        ],
-        "composers": [
-          "Владимир Назаров"
-        ],
-        "editors": [
-          "С. Симухина"
-        ],
-        "designers": [
-          "Людмила Танасенко",
-          "Елена Зеленина"
-        ],
-        "operators": [
-          "Леонард Кольвинковский"
-        ]
-      }
-    },
-    {
-      "id": "movie-32598",
-      "type": "soviet-cartoon",
-      "link": "",
-      "title": "Лягушка-путешественница",
-      "title_orig": "Lyagushka-puteshestvennitsa",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1965,
-      "kinopoisk_id": "257971",
-      "imdb_id": "tt1364430",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T11:34:05Z",
-      "updated_at": "2020-11-13T08:08:03Z",
-      "material_data": {
-        "title": "Лягушка-путешественница",
-        "title_en": "",
-        "year": 1965,
-        "description": "По одноименной сказке Гаршина о хвастливой Лягушке, которая пролетела с утками от болота до болота, а потом рассказывала о своих путешествиях в дальние страны.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/257971.jpg",
-        "duration": 18,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 10016,
-        "imdb_rating": 7.3,
-        "imdb_votes": 130,
-        "minimal_age": 12,
-        "actors": [
-          "Лариса Пашкова",
-          "Эраст Гарин",
-          "Елена Понсова",
-          "Михаил Яншин",
-          "Ростислав Плятт"
-        ],
-        "directors": [
-          "Вячеслав Котёночкин",
-          "Александр Трусов"
-        ],
-        "writers": [
-          "Всеволод Гаршин",
-          "Николай Эрдман"
-        ],
-        "composers": [
-          "Михаил Меерович"
-        ],
-        "editors": [
-          "М. Русанова"
-        ],
-        "designers": [
-          "Вячеслав Котёночкин",
-          "Александр Трусов"
-        ],
-        "operators": [
-          "Елена Петрова"
-        ]
-      }
-    },
-    {
-      "id": "movie-63240",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Межа",
-      "title_orig": "Mezha",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1967,
-      "kinopoisk_id": "260078",
-      "imdb_id": "tt6623244",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:07:02Z",
-      "updated_at": "2020-11-13T08:07:02Z",
-      "material_data": {
-        "title": "Межа",
-        "title_en": "",
-        "year": 1967,
-        "description": "По мотивам русских народных сказок о том, как Солдат перехитрил Дракона.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/260078.jpg",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 922,
-        "imdb_rating": 7.1,
-        "imdb_votes": 43,
-        "minimal_age": 6,
-        "actors": [
-          "Анатолий Папанов",
-          "Евгений Весник",
-          "Василий Алчевский"
-        ],
-        "directors": [
-          "Вячеслав Котёночкин"
-        ],
-        "writers": [
-          "Юрий Киршон"
-        ],
-        "composers": [
-          "Виктор Купревич"
-        ],
-        "editors": [
-          "Татьяна Сазонова"
-        ],
-        "designers": [
-          "Светозар Русаков"
-        ],
-        "operators": [
-          "Елена Петрова"
-        ]
-      }
-    },
-    {
-      "id": "movie-63242",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Мы такие мастера...",
-      "title_orig": "My Takie Mastera",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1963,
-      "kinopoisk_id": "687908",
-      "imdb_id": "tt7039888",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:06:16Z",
-      "updated_at": "2020-11-13T08:06:16Z",
-      "material_data": {
-        "title": "Мы такие мастера...",
-        "title_en": "",
-        "year": 1963,
-        "description": "Фильм-плакат о необходимости беречь сельскохозяйственную технику.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/687908.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 194,
-        "minimal_age": 0,
-        "directors": [
-          "Вячеслав Котёночкин"
-        ],
-        "writers": [
-          "Сакко Рунге",
-          "Александр Кумма"
-        ],
-        "composers": [
-          "Александр Варламов"
-        ],
-        "designers": [
-          "Вячеслав Котёночкин",
-          "Б. Федюшкин"
-        ],
-        "operators": [
-          "Елена Петрова"
-        ]
-      }
-    },
-    {
-      "id": "movie-63243",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Попался, который кусался!",
-      "title_orig": "Popalsya, kotoryy kusalsya!",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1983,
-      "kinopoisk_id": "257975",
-      "imdb_id": "tt7040926",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:04:53Z",
-      "updated_at": "2020-11-13T08:04:53Z",
-      "material_data": {
-        "title": "Попался, который кусался!",
-        "title_en": "",
-        "year": 1983,
-        "description": "О приключениях лесных обитателей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/257975.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 905,
-        "imdb_rating": 7.2,
-        "imdb_votes": 24,
-        "minimal_age": 6,
-        "actors": [
-          "Мария Виноградова",
-          "Маргарита Корабельникова",
-          "Клара Румянова",
-          "Николай Граббе",
-          "Вячеслав Богачёв"
-        ],
-        "directors": [
-          "Вячеслав Котёночкин"
-        ],
-        "writers": [
-          "Григорий Остер"
-        ],
-        "composers": [
-          "Игорь Ефремов"
-        ],
-        "editors": [
-          "Г. Смирнова"
-        ],
-        "designers": [
-          "Светозар Русаков",
-          "Вячеслав Котёночкин",
-          "Алексей Котеночкин"
-        ],
-        "operators": [
-          "Светлана Кащеева"
-        ]
-      }
-    },
-    {
-      "id": "movie-63244",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Правила дорожного движения",
-      "title_orig": "Правила дорожного движения",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "1271102",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:04:08Z",
-      "updated_at": "2020-11-13T08:04:08Z",
-      "material_data": {
-        "title": "Правила дорожного движения",
-        "title_en": "",
-        "year": 1988,
-        "description": "Фильм-плакат о правилах дорожного движения.",
-        "duration": 2,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "directors": [
-          "Мстислав Купрач"
-        ],
-        "writers": [
-          "Мстислав Купрач"
-        ],
-        "operators": [
-          "Владимир Милованов"
-        ]
-      }
-    },
-    {
-      "id": "movie-63245",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Следы на асфальте",
-      "title_orig": "Sledy na asfalte",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1964,
-      "kinopoisk_id": "258041",
-      "imdb_id": "tt6056852",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:03:24Z",
-      "updated_at": "2020-11-13T08:03:24Z",
-      "material_data": {
-        "title": "Следы на асфальте",
-        "title_en": "",
-        "year": 1964,
-        "description": "Щенок и старый пес ищут пропавшего мальчика. По следам на асфальте они узнают, что мальчик уехал на велосипеде и все время нарушал Правила уличного движения.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/258041.jpg",
-        "duration": 17,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 7633,
-        "minimal_age": 0,
-        "actors": [
-          "Юрий Хржановский",
-          "Александр Баранов"
-        ],
-        "directors": [
-          "Вячеслав Котёночкин"
-        ],
-        "writers": [
-          "Владимир Данилов"
-        ],
-        "composers": [
-          "Никита Богословский"
-        ],
-        "designers": [
-          "Вячеслав Котёночкин",
-          "Лев Аркадьев"
-        ],
-        "operators": [
-          "Елена Петрова"
-        ]
-      }
-    },
-    {
-      "id": "movie-63246",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Сон",
-      "title_orig": "Son",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "675535",
-      "imdb_id": "tt1934334",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:02:35Z",
-      "updated_at": "2020-11-13T08:02:35Z",
-      "material_data": {
-        "title": "Сон",
-        "title_en": "",
-        "year": 1988,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/675535.jpg",
-        "duration": 11,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 126,
-        "imdb_rating": 6.3,
-        "imdb_votes": 46,
-        "minimal_age": 16,
-        "actors": [
-          "Н. Жуланова",
-          "Валентин Никулин",
-          "Николай Бирюков"
-        ],
-        "directors": [
-          "Нина Шорина"
-        ],
-        "writers": [
-          "Марк Кушниров",
-          "Фёдор Достоевский",
-          "Иван Гончаров",
-          "Нина Шорина",
-          "Иван Тургенев"
-        ],
-        "editors": [
-          "Галина Филатова",
-          "А. Вяткин"
-        ],
-        "designers": [
-          "Галина Мелько"
-        ],
-        "operators": [
-          "Владимир Венедиктов"
-        ]
-      }
-    },
-    {
-      "id": "movie-63247",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Волшебная птица",
-      "title_orig": "Volshebnaya ptitsa",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1953,
-      "kinopoisk_id": "255160",
-      "imdb_id": "tt4158588",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T08:01:23Z",
-      "updated_at": "2020-11-13T08:01:23Z",
-      "material_data": {
-        "title": "Волшебная птица",
-        "title_en": "",
-        "year": 1953,
-        "description": "По мотивам русский народной сказки. Славится Наталья из Озерска не только красотой своей, но и рукоделием. И только тот, кто сравниться сможет с ней в мастерстве, диковинку преподнесет, под венец поведет красавицу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/255160.jpg",
-        "duration": 19,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 367,
-        "imdb_rating": 6.8,
-        "imdb_votes": 21,
-        "minimal_age": 12,
-        "actors": [
-          "Анастасия Зуева",
-          "Инесса Дровосекова",
-          "Д. Павловский",
-          "Николай Никитич",
-          "Борис Терентьев"
-        ],
-        "directors": [
-          "Виктор Громов"
-        ],
-        "writers": [
-          "Николай Рожков"
-        ],
-        "composers": [
-          "Анатолий Новиков"
-        ],
-        "editors": [
-          "В. Егорова"
-        ],
-        "designers": [
-          "Александр Винокуров",
-          "Константин Чикин",
-          "Геннадий Филиппов"
-        ],
-        "operators": [
-          "Н. Соколова",
-          "А. Астафьев"
-        ]
-      }
-    },
-    {
-      "id": "movie-63248",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Загадочная планета",
-      "title_orig": "Zagadochnaya planeta",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "420301",
-      "imdb_id": "tt6270586",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T07:49:39Z",
-      "updated_at": "2020-11-13T07:49:39Z",
-      "material_data": {
-        "title": "Загадочная планета",
-        "title_en": "",
-        "year": 1974,
-        "description": "О борьбе добра и зла на неведомой далекой планете.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/420301.jpg",
-        "duration": 13,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 471,
-        "minimal_age": 0,
-        "actors": [
-          "Алексей Баталов",
-          "Мария Виноградова",
-          "Виктор Сергачев",
-          "Игорь Ясулович",
-          "Лев Любецкий"
-        ],
-        "directors": [
-          "Борис Ардов"
-        ],
-        "writers": [
-          "Ирина Токмакова"
-        ],
-        "composers": [
-          "Илья Катаев"
-        ],
-        "designers": [
-          "Галина Золотовская",
-          "Игорь Медник"
-        ],
-        "operators": [
-          "Александр Пекарь"
-        ]
-      }
-    },
-    {
-      "id": "movie-60809",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Аве Мария",
-      "title_orig": "Ave Maria",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "416351",
-      "imdb_id": "tt1240900",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-23T07:20:01Z",
-      "updated_at": "2020-11-13T07:48:44Z",
-      "material_data": {
-        "title": "Аве Мария",
-        "title_en": "",
-        "year": 1972,
-        "description": "Фильм вскрывает ханжество и лицемерие господствующих классов современной Америки, которые, прикрываясь высокими словами о мире, апеллируя к богу, ведут жестокую войну против вьетнамских патриотов, войну, которая несет горе и простым американцам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/416351.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный",
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 200,
-        "imdb_rating": 6.4,
-        "imdb_votes": 61,
-        "minimal_age": 0,
-        "directors": [
-          "Владимир Данилевич",
-          "Иван Иванов-Вано"
-        ],
-        "writers": [
-          "Иван Иванов-Вано"
-        ],
-        "editors": [
-          "Надежда Трещёва"
-        ],
-        "designers": [
-          "Владимир Наумов",
-          "С. Соколов"
-        ],
-        "operators": [
-          "Владимир Сидоров"
-        ]
-      }
-    },
-    {
-      "id": "movie-63249",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Формула-1",
-      "title_orig": "Formula 1",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "667376",
-      "imdb_id": "tt7026782",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T07:47:37Z",
-      "updated_at": "2020-11-13T07:47:37Z",
-      "material_data": {
-        "title": "Формула-1",
-        "title_en": "",
-        "year": 1991,
-        "description": "В гонках побеждает Рубик на своем рассыпающемся драндулете, который он дотолкал до финиша. Кубик проигрывает и убивает свой новый автомобиль.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/667376.jpg",
-        "duration": 8,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 104,
-        "directors": [
-          "Андрей Свислоцкий"
-        ],
-        "writers": [
-          "Александр Татарский"
-        ],
-        "designers": [
-          "Валерий Коваль"
-        ]
-      }
-    },
-    {
-      "id": "movie-63250",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Алёнушка и солдат",
-      "title_orig": "Алёнушка и солдат",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "584197",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T07:46:29Z",
-      "updated_at": "2020-11-13T07:46:29Z",
-      "material_data": {
-        "title": "Алёнушка и солдат",
-        "title_en": "",
-        "year": 1974,
-        "description": "Змей Горыныч похитил девицу Аленушку. Спасти ее может только солдат, который благодаря своей смекалке провел злодея…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/584197.jpg",
-        "duration": 21,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 76,
-        "minimal_age": 0,
-        "actors": [
-          "Рогволд Суховерко",
-          "Анатолий Баранцев",
-          "Василий Щелоков",
-          "Зинаида Нарышкина",
-          "Виктор Файнлейб"
-        ],
-        "directors": [
-          "Юрий Елисеев"
-        ],
-        "writers": [
-          "Юрий Елисеев",
-          "Владимир Лифшиц"
-        ],
-        "composers": [
-          "Б. Кравченко"
-        ],
-        "operators": [
-          "Б. Кравченко",
-          "Н. Калинин"
-        ]
-      }
-    },
-    {
-      "id": "movie-63251",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Паучок Ананси и волшебная палочка",
-      "title_orig": "Pauchok Anansi i volshebnaya palochka",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "537138",
-      "imdb_id": "tt6241760",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T07:44:37Z",
-      "updated_at": "2020-11-13T07:44:37Z",
-      "material_data": {
-        "title": "Паучок Ананси и волшебная палочка",
-        "title_en": "",
-        "year": 1973,
-        "description": "Как паучок Ананси дирижировал лесным оркестром.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/537138.jpg",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 144,
-        "minimal_age": 6,
-        "actors": [
-          "Гарри Бардин"
-        ],
-        "directors": [
-          "Идея Гаранина",
-          "Марианна Новогрудская"
-        ],
-        "writers": [
-          "Василий Ливанов"
-        ],
-        "composers": [
-          "Алексей Рыбников"
-        ],
-        "operators": [
-          "Владимир Милованов"
-        ]
-      }
-    },
-    {
-      "id": "movie-63252",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Ананси",
-      "title_orig": "Anansi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1970,
-      "kinopoisk_id": "661075",
-      "imdb_id": "tt6241758",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T07:43:20Z",
-      "updated_at": "2020-11-13T07:43:20Z",
-      "material_data": {
-        "title": "Ананси",
-        "title_en": "",
-        "year": 1970,
-        "description": "Об умном и добром паучке Ананси - герое африканских сказок.",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 86,
-        "minimal_age": 6,
-        "actors": [
-          "Анатолий Папанов",
-          "Сергей Цейц",
-          "Борис Левинсон",
-          "Маргарита Корабельникова"
-        ],
-        "directors": [
-          "Николай Александрович",
-          "Виктор Севрюгов"
-        ],
-        "writers": [
-          "Борис Потапов"
-        ],
-        "composers": [
-          "Михаил Меерович"
-        ],
-        "designers": [
-          "Виктор Севрюгов"
-        ],
-        "operators": [
-          "Артур Франго"
-        ]
-      }
-    },
-    {
-      "id": "movie-63253",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Бабушкин урок",
-      "title_orig": "Бабушкин урок",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "259367",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T07:42:16Z",
-      "updated_at": "2020-11-13T07:42:16Z",
-      "material_data": {
-        "title": "Бабушкин урок",
-        "title_en": "",
-        "year": 1986,
-        "description": "Как бабушка проучила ленивого внука.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/259367.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 136,
-        "actors": [
-          "Зинаида Нарышкина",
-          "Мария Виноградова"
-        ],
-        "directors": [
-          "Галина Тургенева"
-        ],
-        "writers": [
-          "Александр Розин"
-        ],
-        "composers": [
-          "Галина Тургенева",
-          "Владислав Казенин"
-        ],
-        "editors": [
-          "Т. Протопопова"
-        ],
-        "designers": [
-          "Николай Павлов"
-        ],
-        "operators": [
-          "Валентин Баженов"
-        ]
-      }
-    },
-    {
-      "id": "movie-63254",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Бармалей",
-      "title_orig": "Barmaley",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1941,
-      "kinopoisk_id": "575551",
-      "imdb_id": "tt1794739",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-13T07:41:35Z",
-      "updated_at": "2020-11-13T07:41:35Z",
-      "material_data": {
-        "title": "Бармалей",
-        "title_en": "",
-        "year": 1941,
-        "description": "О злом разбойнике Бармалее и храбрых ребятах Танечке и Ванечке. Они отправляются в Африку положить конец злодеяниям Бармалея. С помощью доктора Айболита им удается победить его.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/575551.jpg",
-        "duration": 15,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 223,
-        "imdb_rating": 6,
-        "imdb_votes": 21,
-        "minimal_age": 0,
-        "directors": [
-          "Леонид Амальрик",
-          "Владимир Полковников"
-        ],
-        "writers": [
-          "Корней Чуковский"
-        ],
-        "composers": [
-          "Никита Богословский"
-        ],
-        "designers": [
-          "Леонид Амальрик",
-          "Владимир Полковников"
-        ],
-        "operators": [
-          "Михаил Друян"
-        ]
       }
     }
   ]
