@@ -1,6 +1,1000 @@
 {
   "results": [
     {
+      "id": "movie-67350",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дорогая",
+      "title_orig": "Laadla",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1994,
+      "kinopoisk_id": "182138",
+      "imdb_id": "tt0187227",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-07T06:44:52Z",
+      "updated_at": "2021-02-07T06:44:52Z",
+      "material_data": {
+        "title": "Дорогая",
+        "title_en": "Laadla",
+        "year": 1994,
+        "description": "Шитал — дочь владельца «фабрики №1» в Индии своенравна и заносчива. Когда на фабрику пришел работать простой механик Радж, он своим веселым характером и простотой очень сильно раззадорил безмерное самолюбие красавицы. Чтобы укротить непослушного весельчака, она решает... выйти за него замуж и там уже показать, кто в их семье носит брюки! Но наш герой так просто не ляжет под каблук жены-гордячки, так что поединок МУЖ-ЖЕНА разгорается с новой силой.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/182138.jpg",
+        "duration": 168,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма",
+          "семейный"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 279,
+        "imdb_rating": 5.8,
+        "imdb_votes": 1093,
+        "premiere_world": "1994-03-17",
+        "actors": [
+          "Анил Капур",
+          "Шридеви",
+          "Равина Тандон",
+          "Фарида Джалал",
+          "Аруна Ирани",
+          "Прем Чопра",
+          "Пареш Раваль",
+          "Мохниш Бехл",
+          "Анупам Кхер",
+          "Шакти Капур"
+        ],
+        "directors": [
+          "Радж Канвар"
+        ],
+        "producers": [
+          "Нитин Манмохан"
+        ],
+        "writers": [
+          "Анис Базми"
+        ],
+        "composers": [
+          "Ананд Шривастав",
+          "Милинд Шривастав"
+        ],
+        "editors": [
+          "А. Мутху"
+        ],
+        "designers": [
+          "Р. Верман Шетти",
+          "Ананд Кэмбл"
+        ],
+        "operators": [
+          "Хармит Сингх"
+        ]
+      }
+    },
+    {
+      "id": "serial-32472",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Драматичное убийство",
+      "title_orig": "Dramatical Murder",
+      "other_title": "ドラマティカルマーダー",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 13,
+      "kinopoisk_id": "843937",
+      "imdb_id": "tt3639836",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2270",
+      "shikimori_id": "23333",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-06T22:41:38Z",
+      "updated_at": "2021-02-06T22:41:38Z",
+      "seasons": {
+        "0": {
+          "title": "Спешл",
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/781572/3bf833989389b08b899fff5c6221693c/720p"
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/781573/3bf833989389b08b899fff5c6221693c/720p",
+            "2": "//aniqit.com/seria/781574/9aec7e28b9c30add8f78e3fe37999605/720p",
+            "3": "//aniqit.com/seria/781575/1d1095b76cf09376f7adbf8bb71d2075/720p",
+            "4": "//aniqit.com/seria/781576/e70ce73e77a317723b3ffbd50b449344/720p",
+            "5": "//aniqit.com/seria/781577/69842c4e316521e30b5a41410a197aa5/720p",
+            "6": "//aniqit.com/seria/781578/47735399d9a811b24942d0a394ac5e3e/720p",
+            "7": "//aniqit.com/seria/781579/5dbc54bfaead7f06e5fcb9f528135ee2/720p",
+            "8": "//aniqit.com/seria/781580/d9bcdcc7bd19f799def6eabf47493f39/720p",
+            "9": "//aniqit.com/seria/781581/72aad9f3ed69a6a1eaef9f81cd916abc/720p",
+            "10": "//aniqit.com/seria/781582/e6b3dab3ab45728382057b63fe28c92e/720p",
+            "11": "//aniqit.com/seria/781583/34b3d2b3bf21bb74d007f19b3527002f/720p",
+            "12": "//aniqit.com/seria/781584/d78ff1057c0ee55189f03a3a715e7517/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Драматическое убийство",
+        "title_en": "DRAMAtical Murder",
+        "other_titles": [
+          "DMMd"
+        ],
+        "other_titles_en": [
+          "DRAMAtical Murder"
+        ],
+        "other_titles_jp": [
+          "ドラマティカル マーダー"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Город на острове под названием Мидориджима разделен на 5 частей. Север — запрещенная область, известная как заброшенный город. Восток — жилой район с небольшими магазинами и с обеспечением безопасности. На Западе также находится жилой район, но с небольшим количеством магазинов. На Юге находится район для молодого поколения, будучи переполненным игровыми и торговыми центрами, магазинами одежды. И наконец, «Платиновая тюрьма» - объект, занимающий большую часть острова, находящийся за пределами северной области. Это место развлечений только для богатых, знаменитых и влиятельных людей. \n\rСреди молодёжи приобрела популярность виртуальная игра «Ритм» где люди имеют удобные компьютеры с АИ. Главный герой Аоба ведёт обычную жизнь, работая в магазине подержанных вещей и живя со своей бабушкой Таэ. В отличие от своих друзей он не играет в Ритм и не состоит в банде. Но как обычно, в один прекрасный день все меняется, когда по городу ползут слухи о том, что в безобидном «Ритме» люди начинают получать серьезные физические повреждения, травмы мозга или вообще становятся «Овощами».",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/843937.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d69524ab0a7e8c303064cf3cfccdb0c16b1deeb0.jpg",
+          "https://shikimori.one/system/screenshots/original/57d467b23d82346bdcd70e01460c05929b01333d.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Психологическое",
+          "Супер сила",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "NAZ"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 694,
+        "imdb_rating": 5.7,
+        "imdb_votes": 311,
+        "shikimori_rating": 6.11,
+        "shikimori_votes": 4523,
+        "premiere_world": "2014-04-05",
+        "aired_at": "2014-07-07",
+        "released_at": "2014-09-22",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ацуси Кисаити",
+          "Хироки Такахаси",
+          "Сатоси Хино",
+          "Кэнъитиро Мацуда",
+          "Масатомо Накадзава"
+        ],
+        "directors": [
+          "Кадзуя Миура"
+        ],
+        "writers": [
+          "Токо Матида",
+          "Футии Кабура"
+        ],
+        "composers": [
+          "Юки Хаяси"
+        ]
+      }
+    },
+    {
+      "id": "serial-32471",
+      "type": "anime-serial",
+      "link": "",
+      "title": "ДНК 2 OVA",
+      "title_orig": "DNA2: Dokoka de Nakushita Aitsu no Aitsu OVA",
+      "other_title": "ДНК 2 (ОВА)",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 1995,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "1043578",
+      "imdb_id": "tt5287462",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4227",
+      "shikimori_id": "1187",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-06T22:39:35Z",
+      "updated_at": "2021-02-06T22:39:35Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/781569/8668d949d0b2cfbb1f199be34ab6a3a3/720p",
+            "2": "//aniqit.com/seria/781570/55dcde3982b20a78c61bb93c18128002/720p",
+            "3": "//aniqit.com/seria/781571/f82dc5ee4535a82c0d3fcf9f74c66180/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "DNA²: Dokokade nakushita aitsu no aitsu",
+        "title_en": "",
+        "other_titles": [
+          "Dokokade Nakushita Aitsuno Aitsu (1995)"
+        ],
+        "other_titles_jp": [
+          "D・N・A2～何処かで失くしたあいつのアイツ～ (1995)"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 1995,
+        "poster_url": "https://shikimori.one/system/animes/original/1187.jpg",
+        "duration": 30,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "боевик",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "Madhouse"
+        ],
+        "shikimori_rating": 6.58,
+        "shikimori_votes": 184,
+        "premiere_world": "1995-02-21",
+        "aired_at": "1995-02-21",
+        "released_at": "1995-06-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 3,
+        "episodes_aired": 0,
+        "actors": [
+          "Дэвид Бриммер",
+          "Джессика Калвелло",
+          "Jake Eisbart",
+          "Дэн Грин",
+          "Ребекка Гоник",
+          "Кип Каплан",
+          "Хироко Касахара",
+          "Вероника Лэйк",
+          "Рэйчел Лиллис",
+          "Лотус"
+        ],
+        "writers": [
+          "Масакадзу Кацура"
+        ]
+      }
+    },
+    {
+      "id": "serial-32470",
+      "type": "anime-serial",
+      "link": "",
+      "title": "ДНК 2",
+      "title_orig": "DNA2: Dokoka de Nakushita Aitsu no Aitsu",
+      "other_title": "Д.Н.К.2 / DNA²: Dokokade nakushita aitsu no aitsu",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 1994,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "408519",
+      "imdb_id": "tt5287462",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=308",
+      "shikimori_id": "563",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-06T22:39:00Z",
+      "updated_at": "2021-02-06T22:39:00Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/781557/0682722883737d6b5f8e0938131e358b/720p",
+            "2": "//aniqit.com/seria/781558/ca302a869dd2766cbc6402ab381afafd/720p",
+            "3": "//aniqit.com/seria/781559/1fb9883bbfb65f5968a4024c5da06983/720p",
+            "4": "//aniqit.com/seria/781560/28a5386f7221a816a0ecb4f016ec5ef2/720p",
+            "5": "//aniqit.com/seria/781561/b212fce3a50c81356f02bc8207db5be2/720p",
+            "6": "//aniqit.com/seria/781562/cbfc16a052d323e3d0615124f712fdd8/720p",
+            "7": "//aniqit.com/seria/781563/65f5547b83afd6dccb8b83fa96a9deef/720p",
+            "8": "//aniqit.com/seria/781564/af1ab6549e540c1ddb4f4f8122c42024/720p",
+            "9": "//aniqit.com/seria/781565/06862e2e03c9d2187916da2a58e133fd/720p",
+            "10": "//aniqit.com/seria/781566/043a4d94f4fee6ab523c4a65d167b25d/720p",
+            "11": "//aniqit.com/seria/781567/fc65e1a3bfc6aa00f191bd011cfd0e20/720p",
+            "12": "//aniqit.com/seria/781568/49bcfada41506d6c6247a5ea5a2b4bce/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "ДНК 2",
+        "title_en": "DNA²: Dokokade nakushita aitsu no aitsu",
+        "other_titles": [
+          "DNA Squared",
+          "Dokokade Nakushita Aitsuno Aitsu",
+          "DNA2",
+          "DNA^2"
+        ],
+        "other_titles_en": [
+          "DNA²"
+        ],
+        "other_titles_jp": [
+          "Ｄ・Ｎ・Ａ²　～何処かで失くしたあいつのアイツ～"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 1994,
+        "description": "Момонари Дзюнта - необычный парень. У него аллергия на девушек - при малейшем намеке на эротическую сцену его начинает выворачивать наизнанку. Однако после случайно сделанной ему инъекции изменителя ДНК он начинает на время превращаться в Мега-Плейбоя - свою абсолютную противоположность, «идеального мужчину» и кумира всех девушек мира.\n\rТолько двух девушек Дзюнта интересует таким, как он есть. Одна из них - Аой Карин, патрульный из будущего, сделавшая Дзюнте неверную инъекцию, другая - Куримото Ами, брак с которой обговорили еще родители юноши...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/408519.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/498f0ab55d46ac65bcef27b3877f063c7a6c82ab.jpg",
+          "https://shikimori.one/system/screenshots/original/4d577102b1450d1ee5c739b0940f465d28d8c318.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Романтика",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "Madhouse",
+          "Studio Deen"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 103,
+        "imdb_rating": 6.5,
+        "imdb_votes": 285,
+        "shikimori_rating": 6.68,
+        "shikimori_votes": 452,
+        "premiere_world": "1994-10-07",
+        "aired_at": "1994-10-07",
+        "released_at": "1994-12-23",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 0,
+        "actors": [
+          "Кэиити Нанба",
+          "Мина Томинага",
+          "Хироко Касахара",
+          "Хэкиру Сиина",
+          "Мэгуми Хаясибара",
+          "Рюносукэ Обаяси",
+          "Эико Ямада",
+          "Такэхито Коясу",
+          "Мицуо Ивата",
+          "Хироко Маруяма"
+        ],
+        "directors": [
+          "Дзюнъити Саката",
+          "Масакадзу Амия",
+          "Хироси Куримото",
+          "Сигэдо Макино",
+          "Юкио Нисимото",
+          "Кацуюки Кодера",
+          "Toshi Noma",
+          "Ёсинори Одака",
+          "Хироюки Танака",
+          "Сигэру Уэда"
+        ],
+        "producers": [
+          "Хироси Хасэгава",
+          "Shin'ichirô Maeda",
+          "Масао Маруяма",
+          "Джон О’Доннелл",
+          "Сигэкадзу Отиаи",
+          "Хироши Окада"
+        ],
+        "writers": [
+          "Масакадзу Кацура",
+          "Тацухико Урахата"
+        ],
+        "composers": [
+          "Фуджио Такано"
+        ],
+        "editors": [
+          "Yukiko Ise",
+          "Харутоси Огата",
+          "Сатоси Тэраути"
+        ],
+        "designers": [
+          "Ёсими Умино"
+        ],
+        "operators": [
+          "Масахидэ Окино",
+          "Хитоси Ямагути"
+        ]
+      }
+    },
+    {
+      "id": "serial-32469",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Я ; Ты",
+      "title_orig": "Myself; Yourself",
+      "other_title": "Я; ты",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 2007,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "472197",
+      "imdb_id": "tt1145380",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6654",
+      "shikimori_id": "2926",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-06T22:37:32Z",
+      "updated_at": "2021-02-06T22:37:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/781544/6d0df41638c93c0bdf120d645520ec8f/720p",
+            "2": "//aniqit.com/seria/781545/ce99e52933aef093014ad48c1bb83873/720p",
+            "3": "//aniqit.com/seria/781546/fb0f7c34652d209ae1f0e1ee4cb67828/720p",
+            "4": "//aniqit.com/seria/781547/6335dd6f225cf4e40e7e9f0d2d2d6732/720p",
+            "5": "//aniqit.com/seria/781548/dbb7ded3befd75ec191a4da7fae6b34c/720p",
+            "6": "//aniqit.com/seria/781549/877e7270a6d0dde44a57070933ac0944/720p",
+            "7": "//aniqit.com/seria/781550/e042d4878a031cfa545197b43b62a27a/720p",
+            "8": "//aniqit.com/seria/781551/f4710fccc7240806d71ef89476171dee/720p",
+            "9": "//aniqit.com/seria/781552/32c2a3418f15b28e6ba24b80e933c1e5/720p",
+            "10": "//aniqit.com/seria/781553/553d5973ce157a3eaa36c2329e665eb7/720p",
+            "11": "//aniqit.com/seria/781554/b21d442eaf3e52c404e725d152e1100e/720p",
+            "12": "//aniqit.com/seria/781555/2e3d5e849d55e65b55965005264b806a/720p",
+            "13": "//aniqit.com/seria/781556/57ce7959f36e7a3dc682ceb435184f09/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Я; ты",
+        "title_en": "Maiserufu; Yuaserufu",
+        "other_titles": [
+          "Я; ты"
+        ],
+        "other_titles_en": [
+          "Myself; Yourself"
+        ],
+        "other_titles_jp": [
+          "マイセルフ; ユアセルフ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2007,
+        "description": "Сана Хикада возвращается в родной город спустя пять лет, в течении которых он жил в Токио. И замечает, что за время его отсутствия город мало изменился. По пути домой он видит наблюдающую за ним девушку в одежде храмовой жрицы. На следующий день в школе Сана узнаёт, что эта девушка - его подруга детства Нанака Яцусиро, и что она до сих пор носит заколку, которую Сана подарил ей перед отъездом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/472197.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/873043799e255a805cefe3d7bb370e246b5dd644.jpg",
+          "https://shikimori.one/system/screenshots/original/1082161f48a5be55d81edd6b6720c378846c57f4.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Романтика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Doga Kobo"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 346,
+        "imdb_rating": 6.5,
+        "imdb_votes": 297,
+        "shikimori_rating": 7.21,
+        "shikimori_votes": 2634,
+        "premiere_world": "2007-10-02",
+        "aired_at": "2007-10-03",
+        "released_at": "2007-12-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 0,
+        "actors": [
+          "Синносукэ Татибана",
+          "Томоко Канэда",
+          "Ами Косимидзу",
+          "Юкари Тамура",
+          "Такэхито Коясу",
+          "Маи Накахара",
+          "Мэгуми Тоёгути",
+          "Аюми Мурата",
+          "Мадока Кимура",
+          "Мики Ито"
+        ],
+        "directors": [
+          "Ясухиро Курода"
+        ],
+        "writers": [
+          "Го Дзаппа"
+        ]
+      }
+    },
+    {
+      "id": "serial-32174",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Поворот любви",
+      "title_orig": "Love Rotation",
+      "other_title": "Wong Wian Hua Jai / Revolving Hearts",
+      "translation": {
+        "id": 864,
+        "title": "Julia Prosenuk",
+        "type": "voice"
+      },
+      "year": 2021,
+      "last_season": 1,
+      "last_episode": 5,
+      "episodes_count": 5,
+      "mdl_id": "63513-wong-wien-hua-jai",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-24T15:25:18Z",
+      "updated_at": "2021-02-06T22:33:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/774963/65fd5488840e1f582a0f24a96ba08a84/720p",
+            "2": "//kodik.cc/seria/776836/6fcdc0d6a14c8bc7e3991c50bdf01bab/720p",
+            "3": "//kodik.cc/seria/777642/06dc7c14b22e844cfb3801fe4571aa32/720p",
+            "4": "//kodik.cc/seria/781059/3b12657ca442c615477f407cdd6e0b96/720p",
+            "5": "//kodik.cc/seria/781484/0467027f4f6d209e1e55ec1b83f0c535/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-32166",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "О, мой босс! Любовь - это бонусная книга",
+      "title_orig": "Oh! My Boss! Love Is A Bonus Book",
+      "other_title": "Oh! My Boss! Koi wa Bessatsu de / Oh! My Boss! Love is a Separate Volume",
+      "translation": {
+        "id": 1574,
+        "title": "ФСГ Сам себе переводчик.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2021,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "mdl_id": "681343-o-mai-bosu-koi-wa-bessatsu-de",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-24T14:21:30Z",
+      "updated_at": "2021-02-06T22:27:26Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/774928/7de2710cccf255f1833189332f667092/720p",
+            "2": "//kodik.cc/seria/781472/029e6dc119e8cddf6d5e416b22b4dd56/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-31566",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Наша лучшая любовь: Всегда номер один",
+      "title_orig": "We Best Love: Forever the First",
+      "other_title": "WBL",
+      "translation": {
+        "id": 1510,
+        "title": "FSG Libertas.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2021,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "mdl_id": "74567-we-best-love-forever-the-first",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-10T17:46:23Z",
+      "updated_at": "2021-02-06T22:27:15Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/764769/206353113f83a6819c353ec5920868d8/720p",
+            "2": "//kodik.cc/seria/764770/855f3d05b28f5b3671b8386ab36eb2bc/720p",
+            "3": "//kodik.cc/seria/768789/3dd5fef1209cee6680fecffa182c44de/720p",
+            "4": "//kodik.cc/seria/774254/f8ed5a513906e3f63d69c67036145e25/720p",
+            "5": "//kodik.cc/seria/777641/0bed7b2140f0cf460e7be5f0152988b9/720p",
+            "6": "//kodik.cc/seria/781471/ab4dbf6119a8f7c086b38361ad1a7b15/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-30045",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Леди генерала",
+      "title_orig": "General's Lady",
+      "other_title": "Маленькая леди из генеральского дома / Жена генерала / Jiang Jun Jia De Xiao Nan Zi / The Young Lady of The General's House",
+      "translation": {
+        "id": 918,
+        "title": "Дораманутая / W³: voices",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "mdl_id": "42107-the-young-lady-of-the-general-s-house",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-08T17:53:41Z",
+      "updated_at": "2021-02-06T22:24:08Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/731663/1d76a4fd7c41db2f4963d3284b18ca17/720p",
+            "2": "//kodik.cc/seria/733527/773d8645a75f5f8c9f27590f59c93c69/720p",
+            "3": "//kodik.cc/seria/737517/28bf1fac8c44520b8ae85cb10a641da8/720p",
+            "4": "//kodik.cc/seria/739513/0c3be39fba7ecb14c26f052f23b4cb9b/720p",
+            "5": "//kodik.cc/seria/756993/ce74c4d2411ccfee0c49c5e1c0e41980/720p",
+            "6": "//kodik.cc/seria/781463/707d9eb2ca2658911bf156a33dd5d052/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "movie-67343",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Прими меня",
+      "title_orig": "Apna Bana Lo",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "86838",
+      "imdb_id": "tt0247933",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-06T21:18:37Z",
+      "updated_at": "2021-02-06T21:18:37Z",
+      "material_data": {
+        "title": "Прими меня",
+        "title_en": "Apna Bana Lo",
+        "year": 1982,
+        "description": "Когда Мастер нашёл на дороге ребёнка, он не знал, что Чутка станет ему дороже жизни. Чутка рос и не чувствовал себя сиротой. Мог ли он догадываться, что девушка с плаката в его комнате окажется его мамой, с которой судьба так жестоко его разлучила?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/86838.jpg",
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма",
+          "семейный"
+        ],
+        "imdb_rating": 5.7,
+        "imdb_votes": 19,
+        "premiere_world": "1982-03-12",
+        "actors": [
+          "Джитендра",
+          "Рекха",
+          "Шакти Капур",
+          "Калпана Айер",
+          "Амриш Пури",
+          "Лалита Павар",
+          "Бейби Пинки",
+          "Викас Ананд",
+          "Ракеш Беди",
+          "Мохан Чоти"
+        ],
+        "directors": [
+          "Дж. Ом Пракаш"
+        ],
+        "producers": [
+          "Джагдиш Кумар",
+          "Виджай Сурма"
+        ],
+        "composers": [
+          "Лаксмикант Шантарам Кудалкар",
+          "Пьярелал Рампрасад Шарма"
+        ]
+      }
+    },
+    {
+      "id": "serial-32466",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Детское время OVA-1",
+      "title_orig": "Kodomo no Jikan: Ni Gakki",
+      "other_title": "Детское летнее время OVA-1",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 6,
+      "kinopoisk_id": "465647",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7084",
+      "shikimori_id": "4195",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-06T19:10:25Z",
+      "updated_at": "2021-02-06T19:10:25Z",
+      "seasons": {
+        "0": {
+          "title": "Спешлы",
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/781317/039f2de65971ce30cfb30caacb12a402/720p",
+            "2": "//aniqit.com/seria/781318/ab025440e15e466b4d481baa6d52ce45/720p",
+            "3": "//aniqit.com/seria/781319/191624da88dd3b858322e2761e4d1a18/720p"
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/782131/039f2de65971ce30cfb30caacb12a402/720p",
+            "2": "//aniqit.com/seria/782132/ab025440e15e466b4d481baa6d52ce45/720p",
+            "3": "//aniqit.com/seria/782133/191624da88dd3b858322e2761e4d1a18/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Детское время OVA-1",
+        "title_en": "Kodomo no jikan 2 gakki",
+        "other_titles": [
+          "Kodomo no Jikan: Second Term",
+          "Kodomo no Jikan OVA 3"
+        ],
+        "other_titles_jp": [
+          "こどものじかん 2学期"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 2009,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/465647.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/227423a99af355be64a0bcf2b44b063790dad9d1.jpg",
+          "https://shikimori.one/system/screenshots/original/969a84d53947bcb3551afb79ba0036ef992bbb58.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Школа",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Diomedéa"
+        ],
+        "imdb_rating": 7.5,
+        "imdb_votes": 15,
+        "shikimori_rating": 7.12,
+        "shikimori_votes": 1091,
+        "premiere_world": "2009-02-20",
+        "aired_at": "2009-02-20",
+        "released_at": "2009-07-24",
+        "rating_mpaa": "R",
+        "episodes_total": 3,
+        "episodes_aired": 0,
+        "actors": [
+          "Эри Китамура",
+          "Кэи Синдо",
+          "Маи Кадоваки",
+          "Дзюндзи Мадзима",
+          "Каору Мидзухара",
+          "Рёко Танака",
+          "Ёко Соми",
+          "Юуити Исигами",
+          "Аюми Фудзимура",
+          "Минору Инаба"
+        ],
+        "producers": [
+          "Даисукэ Хагивара",
+          "Асако Нисикава",
+          "Тэцуро Сатоми",
+          "Тоёта Тодороки",
+          "Ютака Такэи"
+        ],
+        "writers": [
+          "Кавору Ватасия",
+          "Мари Окада"
+        ],
+        "composers": [
+          "Масару Нисида"
+        ],
+        "editors": [
+          "Риэ Мацухара"
+        ],
+        "designers": [
+          "Аю Кавамото"
+        ],
+        "operators": [
+          "Кэндзи Такахаси"
+        ]
+      }
+    },
+    {
+      "id": "serial-32461",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Детское время [ТВ]",
+      "title_orig": "Kodomo no Jikan",
+      "other_title": "こどものじかん",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 2007,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "474178",
+      "imdb_id": "tt1125577",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6367",
+      "shikimori_id": "2403",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-06T16:12:03Z",
+      "updated_at": "2021-02-06T19:08:56Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/781217/bbf043f51b01bce03212d2fa4e700d9e/720p",
+            "2": "//aniqit.com/seria/781218/9363be1ff358e530ef2de16556050c7b/720p",
+            "3": "//aniqit.com/seria/781219/fa7f50ae882531da5e9959c8ed417a51/720p",
+            "4": "//aniqit.com/seria/781220/2799802b61f9c58b14ae76a3c702fe8a/720p",
+            "5": "//aniqit.com/seria/781309/24e17dec3264a4649fd26ad1190a0396/720p",
+            "6": "//aniqit.com/seria/781310/48e9d5e843888eaff5dfac5792dbfe26/720p",
+            "7": "//aniqit.com/seria/781311/8174533d8b296c2efe1119d3abc11be1/720p",
+            "8": "//aniqit.com/seria/781312/7a9d53e6101bc96d0f0ffbcb83803ef6/720p",
+            "9": "//aniqit.com/seria/781313/b73c5e512a61b01415b12e801ee423de/720p",
+            "10": "//aniqit.com/seria/781314/d676f842f9706ce1450bdf7ffcf1467c/720p",
+            "11": "//aniqit.com/seria/781315/37f2af5317220c1edab97f1a582dcbe8/720p",
+            "12": "//aniqit.com/seria/781316/20d8ae904ce227751244daf2335d46a3/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Детское время",
+        "title_en": "Kodomo no jikan",
+        "other_titles": [
+          "Nymphet",
+          "A Child's Time",
+          "Kojika"
+        ],
+        "other_titles_jp": [
+          "こどものじかん"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2007,
+        "description": "В классе 3-1 появляется новый учитель, Дайсукэ Аоки. Там он сталкивается с ученицей Рин Коконоэ, которая умелыми махинациями выжила из школы предыдущего учителя. На том основании, что он уже случайно видел ее голой, она объявляет, что будет девушкой Аоки. Несмотря на любовь со стороны Рин и прямые предложения заняться с ней сексом, сам Дайсукэ старается не выходить в отношениях со своей ученицей за рамки закона.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/474178.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9f2a3389f8421146214a23e69d7d7ec5eb9544bc.jpg",
+          "https://shikimori.one/system/screenshots/original/9633af272e87c4fe52d337c4ee04b1f1782c704f.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Школа",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Diomedéa"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 574,
+        "imdb_rating": 6.9,
+        "imdb_votes": 259,
+        "shikimori_rating": 6.83,
+        "shikimori_votes": 3249,
+        "premiere_world": "2007-10-11",
+        "aired_at": "2007-10-12",
+        "released_at": "2007-12-28",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 0,
+        "actors": [
+          "Эри Китамура",
+          "Дзюндзи Мадзима",
+          "Маи Кадоваки",
+          "Кэи Синдо"
+        ],
+        "writers": [
+          "Кэн Сакамото",
+          "Кавору Ватасия"
+        ],
+        "editors": [
+          "Риэ Мацухара"
+        ]
+      }
+    },
+    {
       "id": "serial-32522",
       "type": "foreign-serial",
       "link": "",
@@ -425,8 +1419,8 @@
         ],
         "imdb_rating": 7.7,
         "imdb_votes": 485,
-        "shikimori_rating": 7.97,
-        "shikimori_votes": 3351,
+        "shikimori_rating": 7.98,
+        "shikimori_votes": 3556,
         "premiere_world": "2020-10-11",
         "aired_at": "2020-10-11",
         "released_at": "2020-12-20",
@@ -2322,65 +3316,6 @@
       }
     },
     {
-      "id": "serial-32446",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Аромат жасмина",
-      "title_orig": "Orange Jasmine Scent",
-      "other_title": "Klin Kaew Klang Jai",
-      "translation": {
-        "id": 1365,
-        "title": "Высокая Азия",
-        "type": "voice"
-      },
-      "year": 2007,
-      "last_season": 1,
-      "last_episode": 28,
-      "episodes_count": 28,
-      "mdl_id": "10216-klin-kaew-klang-jai",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-02-05T22:42:17Z",
-      "updated_at": "2021-02-05T22:42:17Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/780918/63e594a73b373b2c3a6336fbe8f0cfc3/720p",
-            "2": "//kodik.cc/seria/780919/38a88bcb1d2a1132c1f6c4d22c1fcbe4/720p",
-            "3": "//kodik.cc/seria/780920/978c5385ce1cbf125128e3df239c87ad/720p",
-            "4": "//kodik.cc/seria/780921/05eb6f9b433f066e2f0356053966a760/720p",
-            "5": "//kodik.cc/seria/780922/796d1fa5ac036df382d8a0b0373ad9ef/720p",
-            "6": "//kodik.cc/seria/780923/05f256b9d290eee68d861e145491ce27/720p",
-            "7": "//kodik.cc/seria/780924/d7990b5fd43cbfb5993d897fc371b8b5/720p",
-            "8": "//kodik.cc/seria/780925/ba4ae75b10812957d76abe2dc69ad9b4/720p",
-            "9": "//kodik.cc/seria/780926/884f79dfdd575fb02ddc670b2f199a45/720p",
-            "10": "//kodik.cc/seria/780927/7dcc4661f30af4fe647560caeee90ea2/720p",
-            "11": "//kodik.cc/seria/780928/5ffca871e268da4a974b01c9af607274/720p",
-            "12": "//kodik.cc/seria/780929/9f17a1282464a3b8954508e2e54c95e9/720p",
-            "13": "//kodik.cc/seria/780930/4d289594a597384c7fbb4e842921abb5/720p",
-            "14": "//kodik.cc/seria/780931/953423d4e779535a6c578a7eae289166/720p",
-            "15": "//kodik.cc/seria/780932/8bded53e60a7f9f99788569c7383f321/720p",
-            "16": "//kodik.cc/seria/780933/c48c99feda9e84f7d43da6fcea0f577c/720p",
-            "17": "//kodik.cc/seria/780934/5050a89f046cb1ac69ef6585cbaacb58/720p",
-            "18": "//kodik.cc/seria/780935/757ae54f9e12a62cc028d9efc92b5c08/720p",
-            "19": "//kodik.cc/seria/780936/cb8cd6e35c756d936d27d81370933bcd/720p",
-            "20": "//kodik.cc/seria/780937/84b5db194b63abe3f1422a81c201e62c/720p",
-            "21": "//kodik.cc/seria/780938/8787c47a4b0ab43f753c83525487a1be/720p",
-            "22": "//kodik.cc/seria/780939/24dfb59e2b798f2455d0d064389b6ff8/720p",
-            "23": "//kodik.cc/seria/780940/872140177e14a2fb44b3da674a8e614f/720p",
-            "24": "//kodik.cc/seria/780941/70f6ca9f1c1a1dfbfa9e622a81a04daf/720p",
-            "25": "//kodik.cc/seria/780942/95d05a8560b88a72347123ddf9f59dd4/720p",
-            "26": "//kodik.cc/seria/780943/572edcc1bcd38a6b031593d8fc4604b8/720p",
-            "27": "//kodik.cc/seria/780944/6df531ab914a82096ef32cd88c1c455d/720p",
-            "28": "//kodik.cc/seria/780945/060c5c3200ef75d6b92737c644d9a10d/720p"
-          }
-        }
-      }
-    },
-    {
       "id": "serial-32059",
       "type": "foreign-serial",
       "link": "",
@@ -3348,8 +4283,8 @@
         "kinopoisk_votes": 11235,
         "imdb_rating": 8.2,
         "imdb_votes": 9678,
-        "shikimori_rating": 8.29,
-        "shikimori_votes": 2591,
+        "shikimori_rating": 8.28,
+        "shikimori_votes": 2665,
         "premiere_world": "2019-07-05",
         "aired_at": "2021-01-14",
         "rating_mpaa": "PG-13",
@@ -6297,9 +7232,9 @@
           "Light Chaser Animation Studios"
         ],
         "kinopoisk_rating": 7,
-        "kinopoisk_votes": 2024,
+        "kinopoisk_votes": 2164,
         "imdb_rating": 7,
-        "imdb_votes": 2565,
+        "imdb_votes": 2647,
         "shikimori_rating": 7.47,
         "shikimori_votes": 351,
         "premiere_ru": "2020-10-03",
@@ -8578,752 +9513,6 @@
         "writers": [
           "Себастьян Аррау",
           "Карен Родригес"
-        ]
-      }
-    },
-    {
-      "id": "serial-32388",
-      "type": "russian-serial",
-      "link": "",
-      "title": "Живой труп",
-      "title_orig": "Zhivoy trup",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "435360",
-      "imdb_id": "tt5289800",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-02-03T10:48:38Z",
-      "updated_at": "2021-02-03T10:48:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//hdlizor.com/seria/779465/18d722ee9c472b38b9daf0c34c67f528/720p",
-            "2": "//hdlizor.com/seria/779466/26f77b7aaab61af5a4f662ec4c44c984/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Живой труп",
-        "title_en": "",
-        "year": 1987,
-        "description": "По мнению Федора Протасова, окружающая жизнь пронизана грязью и фальшью. Он не желает участвовать «во всей этой пакости», у него не хватает смелости с ней бороться, и он выбирает третий путь: забыться, пить, гулять с цыганами. Чтобы не потянуть за собой на дно семью, Протасов принимает неоднозначное решение...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/435360.jpg",
-        "duration": 137,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "minimal_age": 0,
-        "actors": [
-          "Леонид Марков",
-          "Ольга Остроумова",
-          "Георгий Тараторкин",
-          "Ирина Карташёва",
-          "Константин Михайлов",
-          "Людмила Дребнёва",
-          "Виктор Демент",
-          "Николай Лебедев",
-          "Александр Бачуркин",
-          "Борис Химичев"
-        ],
-        "directors": [
-          "Борис Щедрин"
-        ],
-        "writers": [
-          "Лев Толстой"
-        ],
-        "composers": [
-          "Александр Чевский"
-        ],
-        "designers": [
-          "Эдуард Кочергин"
-        ],
-        "operators": [
-          "Лев Стрельцын"
-        ]
-      }
-    },
-    {
-      "id": "serial-32279",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Испорченные",
-      "title_orig": "Damaged",
-      "translation": {
-        "id": 948,
-        "title": "CrazyCatStudio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 2,
-      "last_episode": 6,
-      "episodes_count": 21,
-      "kinopoisk_id": "1165013",
-      "imdb_id": "tt8532412",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-29T05:35:54Z",
-      "updated_at": "2021-02-03T09:16:05Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/777238/a08bb204205feffae81dafa6ef2a9049/720p",
-            "2": "//kodik.cc/seria/777239/98e65a38cf2b23f13854cc129ccae1a7/720p",
-            "3": "//kodik.cc/seria/777240/4a266141028bd54cd12f743a83743a6c/720p",
-            "4": "//kodik.cc/seria/777241/3e2d43e355dc7b852c213c580b0c9450/720p",
-            "5": "//kodik.cc/seria/777242/e39df7d26855af7a1fe9e7aead59526f/720p",
-            "6": "//kodik.cc/seria/777243/2c41ba9c9fa70de71a7c202d6421859f/720p",
-            "7": "//kodik.cc/seria/777244/f0402daff3c1d47a3975297dc02ccd92/720p",
-            "8": "//kodik.cc/seria/777245/c32b468d05273097c5179b1fe7e430ea/720p",
-            "9": "//kodik.cc/seria/777246/6b18debc0c55cff0e0c33b414f123446/720p",
-            "10": "//kodik.cc/seria/777247/6f984df44d9cb0236df28b6ff346b073/720p",
-            "11": "//kodik.cc/seria/777257/f6c8750754df6ca92348dd44ca0df5bd/720p",
-            "12": "//kodik.cc/seria/777258/1d722dfc83aa4a6bcd2d48ab9028bedf/720p",
-            "13": "//kodik.cc/seria/777259/9065971a65e4eab7d82f57e6eb16032b/720p",
-            "14": "//kodik.cc/seria/777260/2e0e434d5fdf01d9231fc83db1373413/720p",
-            "15": "//kodik.cc/seria/777261/5a9fa362cb5692fa6532183a1be45de8/720p"
-          }
-        },
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/779455/a08bb204205feffae81dafa6ef2a9049/720p",
-            "2": "//kodik.cc/seria/779456/98e65a38cf2b23f13854cc129ccae1a7/720p",
-            "3": "//kodik.cc/seria/779457/4a266141028bd54cd12f743a83743a6c/720p",
-            "4": "//kodik.cc/seria/779458/3e2d43e355dc7b852c213c580b0c9450/720p",
-            "5": "//kodik.cc/seria/779459/e39df7d26855af7a1fe9e7aead59526f/720p",
-            "6": "//kodik.cc/seria/779460/2c41ba9c9fa70de71a7c202d6421859f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Damaged",
-        "title_en": "",
-        "year": 2018,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "криминал"
-        ],
-        "imdb_rating": 5.9,
-        "imdb_votes": 193,
-        "actors": [
-          "Suyash Joshi",
-          "Dhruvaditya Bhagwanani"
-        ],
-        "producers": [
-          "Satya Mahapatra",
-          "Neeraj Roy",
-          "Siddhartha Roy"
-        ],
-        "operators": [
-          "Abhishek Modak"
-        ]
-      }
-    },
-    {
-      "id": "serial-31134",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Квартал Навранги",
-      "title_orig": "Navrangi Re!",
-      "translation": {
-        "id": 1594,
-        "title": "FSG LOVE STORIES.Subtitles\t",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 15,
-      "episodes_count": 15,
-      "kinopoisk_id": "1273721",
-      "imdb_id": "tt10365842",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-27T20:57:12Z",
-      "updated_at": "2021-02-03T09:15:00Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/757191/a3797fa27175445e155e1f7f30100c46/720p",
-            "2": "//kodik.cc/seria/757192/52d34d7cf32ef12b166c4485a44b91a7/720p",
-            "3": "//kodik.cc/seria/757193/e0dbca09a00cf3fead29dbfebcecd7af/720p",
-            "4": "//kodik.cc/seria/757194/884edef463b73bd9e7bfafc8ff66dd11/720p",
-            "5": "//kodik.cc/seria/757195/2707d04863982d12d8dc903f7f2332d6/720p",
-            "6": "//kodik.cc/seria/757196/71c5ef978b3b07c240163df16ccffff6/720p",
-            "7": "//kodik.cc/seria/757197/f6e7c8d323013bd7ec7d7a5c432c8288/720p",
-            "8": "//kodik.cc/seria/757198/0d821ddd167096b0dac8d5d50b59687c/720p",
-            "9": "//kodik.cc/seria/757199/3121e34dcd4913cd710cd6a6f324e6a6/720p",
-            "10": "//kodik.cc/seria/757200/174a6e29448deed7c4ecf917c384aa02/720p",
-            "11": "//kodik.cc/seria/757201/82c070513d3b84912272b30c9e70839b/720p",
-            "12": "//kodik.cc/seria/757202/9d0c4debeaff8acd2d6e536e4b611f34/720p",
-            "13": "//kodik.cc/seria/757203/220d40138918c831d6ca08d52624ec22/720p",
-            "14": "//kodik.cc/seria/779450/f6080301161e54c64fa6a4d35a1e1db3/720p",
-            "15": "//kodik.cc/seria/779451/0f41fb9de855d8cb0a2feebd1ba479b5/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Navrangi Re!",
-        "title_en": "",
-        "year": 2019,
-        "countries": [
-          "Индия"
-        ],
-        "actors": [
-          "Anugrah Agnihotri",
-          "Амир Али Малик",
-          "Вайшнави Дхенрадж",
-          "Раджу Кхер",
-          "Сушмита Махержи"
-        ]
-      }
-    },
-    {
-      "id": "movie-67147",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Десант на Орингу",
-      "title_orig": "Desant na Oringu",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "222820",
-      "imdb_id": "tt0376571",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:42:47Z",
-      "updated_at": "2021-02-03T08:42:47Z",
-      "material_data": {
-        "title": "Десант на Орингу",
-        "title_en": "",
-        "year": 1980,
-        "description": "Снежная лавина отрезала поселок строителей Байкало-Амурскй магистрали от основной трассы. В этих условиях бригада Александра Иванова взялась за прокладку зимника - кратчайшей дороги через тайгу. Вместе с бригадой отправилась и молодая женщина - ревизор Григорьева. Им предстоит сложная и необычная работа...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/222820.jpg",
-        "duration": 91,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "криминал"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 16,
-        "premiere_world": "1980-04-14",
-        "minimal_age": 0,
-        "actors": [
-          "Татьяна Ташкова",
-          "Тимофей Спивак",
-          "Тамаз Толорая",
-          "Валерий Ольшанский",
-          "Олег Белов",
-          "Герман Колушкин",
-          "Юрий Прокофьев",
-          "Игорь Горбачев",
-          "Юрий Дедович"
-        ],
-        "directors": [
-          "Михаил Ершов"
-        ],
-        "writers": [
-          "Герман Балуев",
-          "Самсон Поляков"
-        ],
-        "composers": [
-          "Вадим Биберган",
-          "Давид Тухманов"
-        ],
-        "designers": [
-          "Михаил Иванов"
-        ],
-        "operators": [
-          "Николай Покопцев"
-        ]
-      }
-    },
-    {
-      "id": "movie-67148",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Старые долги",
-      "title_orig": "Starye dolgi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "223062",
-      "imdb_id": "tt0484297",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:42:15Z",
-      "updated_at": "2021-02-03T08:42:15Z",
-      "material_data": {
-        "title": "Старые долги",
-        "title_en": "",
-        "year": 1980,
-        "description": "Андрей Петрович Кочнев, вернувшись с войны, стал инженером-металлургом. Увлеченный работой, он сразу же принял активное участие в управлении заводом - и вскоре стал директором. При монтаже оборудования для реализации своей давней идеи у Кочнева случился инфаркт. Это обстоятельство заставило жену больного вызвать двух женщин, которые много значили в его жизни...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/223062.jpg",
-        "duration": 90,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 128,
-        "imdb_rating": 6.6,
-        "imdb_votes": 10,
-        "premiere_world": "1981-01-19",
-        "actors": [
-          "Валентина Беляева",
-          "Майя Булгакова",
-          "Игорь Горбачев",
-          "Николай Иванов",
-          "Эдуард Марцевич",
-          "Раиса Рязанова",
-          "Всеволод Сафонов",
-          "Валентина Шендрикова",
-          "Анастасия Вознесенская",
-          "Николай Еременко ст."
-        ],
-        "directors": [
-          "Илья Гурин"
-        ],
-        "writers": [
-          "Иосиф Герасимов"
-        ],
-        "composers": [
-          "Кирилл Молчанов"
-        ],
-        "designers": [
-          "Евгений Галей",
-          "Владимир Постернак"
-        ],
-        "operators": [
-          "Евгений Давыдов"
-        ]
-      }
-    },
-    {
-      "id": "movie-67149",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Смерти нет, ребята!",
-      "title_orig": "Smerti net rebyata",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1970,
-      "kinopoisk_id": "43877",
-      "imdb_id": "tt0376197",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:41:40Z",
-      "updated_at": "2021-02-03T08:41:40Z",
-      "material_data": {
-        "title": "Смерти нет, ребята!",
-        "title_en": "",
-        "year": 1970,
-        "description": "В основе сюжета - подлинный случай, происшедший в последние дни Второй мировой войны, когда в небольшом немецком городке группа советских воинов приняла неравный бой с фашистами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43877.jpg",
-        "duration": 83,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный",
-          "драма"
-        ],
-        "premiere_world": "1971-05-10",
-        "actors": [
-          "Арина Алейникова",
-          "Артык Джаллыев",
-          "Евгений Жариков",
-          "Ш. Акмухаммедов",
-          "А. Шитов",
-          "Акмурад Бяшимов",
-          "А. Бердыклычев"
-        ],
-        "directors": [
-          "Булат Мансуров"
-        ],
-        "writers": [
-          "Сейитнияз Атаев"
-        ],
-        "composers": [
-          "Никита Богословский"
-        ],
-        "designers": [
-          "Геннадий Брусенцов"
-        ],
-        "operators": [
-          "Виталий Калашников"
-        ]
-      }
-    },
-    {
-      "id": "movie-67150",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Случайные пассажиры",
-      "title_orig": "Sluchaynye passazhiry",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "43861",
-      "imdb_id": "tt0195273",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:41:05Z",
-      "updated_at": "2021-02-03T08:41:05Z",
-      "material_data": {
-        "title": "Случайные пассажиры",
-        "title_en": "",
-        "year": 1979,
-        "description": "Дальнобойщик Иван Жаплов при первом знакомстве казался человеком замкнутым, жестковатым. Однажды возвращаясь из рейса и торопясь, домой к жене, которая вскоре должна родить, Иван наткнулся на грузовик, брошенный водителем, в котором ехали девять воспитанников детского дома с воспитательницей...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43861.jpg",
-        "duration": 80,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 252,
-        "imdb_rating": 7.1,
-        "imdb_votes": 10,
-        "premiere_world": "1979-07-09",
-        "minimal_age": 0,
-        "actors": [
-          "Владимир Гостюхин",
-          "Лариса Гребенщикова",
-          "Александр Харашкевич",
-          "Зинаида Шарко",
-          "Николай Гринько",
-          "Олег Анофриев",
-          "Вячеслав Яковлев",
-          "Леонид Харитонов",
-          "Игорь Пчелин",
-          "Наташа Леонтьева"
-        ],
-        "directors": [
-          "Михаил Ордовский"
-        ],
-        "writers": [
-          "Юрий Сбитнев"
-        ],
-        "composers": [
-          "Вадим Биберган"
-        ],
-        "designers": [
-          "Борис Бурмистров"
-        ],
-        "operators": [
-          "Владимир Бурыкин"
-        ]
-      }
-    },
-    {
-      "id": "movie-67151",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Прощай",
-      "title_orig": "Proshchay",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1967,
-      "kinopoisk_id": "43330",
-      "imdb_id": "tt0352748",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:40:11Z",
-      "updated_at": "2021-02-03T08:40:11Z",
-      "material_data": {
-        "title": "Прощай",
-        "title_en": "",
-        "year": 1966,
-        "description": "Весна 1944 г. Фашисты ещё в Севастополе, там идут ожесточенные бои. А в освобожденной Ялте стоят мирные дни, и кажется, что война ушла из этой жизни, что она далеко и не опасна.\n\rНо для моряков дивизиона торпедных катеров, базирующихся в Ялте и ежедневно совершающих вылазки в сторону Севастополя, это были суровые дни. Многие из них героически погибли, выполняя ответственные боевые задания.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43330.jpg",
-        "duration": 89,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный",
-          "приключения"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 397,
-        "imdb_rating": 7.7,
-        "imdb_votes": 21,
-        "premiere_world": "1967-05-22",
-        "minimal_age": 12,
-        "actors": [
-          "Виктор Авдюшко",
-          "Валентин Кулик",
-          "Олег Стриженов",
-          "Бимболат Ватаев",
-          "Александр Стефанович",
-          "Валерий Шапкин",
-          "Жанна Прохоренко",
-          "Ангелина Вовк",
-          "Иван Переверзев",
-          "Галина Костырева"
-        ],
-        "directors": [
-          "Григорий Поженян"
-        ],
-        "writers": [
-          "Григорий Поженян"
-        ],
-        "composers": [
-          "Микаэл Таривердиев"
-        ],
-        "designers": [
-          "Борис Биргер"
-        ],
-        "operators": [
-          "Леонид Бурлака"
-        ]
-      }
-    },
-    {
-      "id": "movie-67152",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Повесть о человеческом сердце",
-      "title_orig": "Povest o chelovecheskom serdtse",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1976,
-      "kinopoisk_id": "43182",
-      "imdb_id": "tt0073562",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:39:14Z",
-      "updated_at": "2021-02-03T08:39:14Z",
-      "material_data": {
-        "title": "Повесть о человеческом сердце",
-        "title_en": "",
-        "year": 1976,
-        "description": "Делая очередную операцию, профессор Крымов и не предполагал, какое место в его жизни займет эта пациентка. Через некоторое время, они случайно встретятся в Ялте и поймут, что очень нужны друг другу. Только отношение к любви у них совсем разное...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43182.jpg",
-        "duration": 140,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 144,
-        "imdb_rating": 5.6,
-        "imdb_votes": 28,
-        "premiere_world": "1976-02-16",
-        "minimal_age": 0,
-        "actors": [
-          "Андрей Попов",
-          "Елена Козелькова",
-          "Виктор Хохряков",
-          "Наталья Храбровицкая",
-          "Ефим Копелян",
-          "Любовь Соколова",
-          "Владислав Стржельчик",
-          "Вячеслав Тихонов",
-          "Пётр Вельяминов",
-          "Александр Збруев"
-        ],
-        "directors": [
-          "Даниил Храбровицкий"
-        ],
-        "writers": [
-          "Даниил Храбровицкий"
-        ],
-        "composers": [
-          "Александр Зацепин"
-        ],
-        "designers": [
-          "Юрий Кладиенко"
-        ],
-        "operators": [
-          "Анатолий Мукасей"
-        ]
-      }
-    },
-    {
-      "id": "movie-67153",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Последний год Беркута",
-      "title_orig": "Posledniy god Berkuta",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "422981",
-      "imdb_id": "tt4876996",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:38:38Z",
-      "updated_at": "2021-02-03T08:38:38Z",
-      "material_data": {
-        "title": "Последний год Беркута",
-        "title_en": "",
-        "year": 1977,
-        "description": "1922 год. Хакасия. Степь. Бывший красный партизан Федор Полынцев везет семью в г. Минусинск. По дороге попадается раненый хакассий юноша-табунщик. Пытаясь оказать ему первую помощь, Федор оказывается схвачен сородичами табунщика, посчитавшим его виновным в ранении юноши. \r\n\r\nПоявившийся отряд красных мешает провести над Федором самосуд. Командир отряда просит Федора помочь им в поимке орудующей в этих местах банды некого Беркута, состоящей из остатков белогвардейской армии и местных богатеев. Федор отказывается, отряд уходит. \r\n\r\nНо дальнейшие события заставляют Федора пожалеть о своем решении, т.к. ему с горсткой местной бедноты приходится противостоять хорошо вооруженной банде.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/422981.jpg",
-        "duration": 88,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "приключения"
-        ],
-        "minimal_age": 12,
-        "actors": [
-          "Олег Корчиков",
-          "Цыден Бадмаев",
-          "Нуржуман Ихтымбаев",
-          "Герман Саражаков",
-          "Виктор Коков",
-          "Алиса Кызласова",
-          "Иван Салайдинов",
-          "Владимир Татосов",
-          "Георгий Дрозд",
-          "Алексей Араштаев"
-        ],
-        "directors": [
-          "Вадим Лысенко"
-        ],
-        "writers": [
-          "Игорь Старков"
-        ],
-        "composers": [
-          "Евгений Стихин"
-        ],
-        "editors": [
-          "Т. Протопопова"
-        ],
-        "designers": [
-          "Борис Добровольский"
-        ],
-        "operators": [
-          "Сергей Гаврилов"
-        ]
-      }
-    },
-    {
-      "id": "movie-67154",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Необыкновенное лето",
-      "title_orig": "Neobyknovennoye leto",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1957,
-      "kinopoisk_id": "46395",
-      "imdb_id": "tt0185535",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-03T08:37:24Z",
-      "updated_at": "2021-02-03T08:37:24Z",
-      "material_data": {
-        "title": "Необыкновенное лето",
-        "title_en": "",
-        "year": 1956,
-        "description": "1919 год. Саратов. Новые перипетии судьбы бывшего студента Кирилла Извекова, ныне комиссара Красной Армии, от разгрома врангелевской дивизии и взятия Саратова до всепоглощающей любви к актрисе местного театра Аночке.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46395.jpg",
-        "duration": 103,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 232,
-        "imdb_rating": 7.1,
-        "imdb_votes": 16,
-        "premiere_world": "1957-02-07",
-        "actors": [
-          "Виктор Коршунов",
-          "Роза Макагонова",
-          "Владимир Емельянов",
-          "Михаил Названов",
-          "Юрий Яковлев",
-          "Евгений Тетерин",
-          "Владимир Дружников",
-          "Александр Роговин",
-          "Николай Крюков",
-          "Виктор Коваль"
-        ],
-        "directors": [
-          "Владимир Басов"
-        ],
-        "writers": [
-          "Алексей Каплер",
-          "Константин Федин"
-        ],
-        "composers": [
-          "Михаил Зив"
-        ],
-        "designers": [
-          "Валентин Перелетов"
-        ],
-        "operators": [
-          "Тимофей Лебешев"
         ]
       }
     }

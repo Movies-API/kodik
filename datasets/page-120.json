@@ -1,6 +1,1091 @@
 {
   "results": [
     {
+      "id": "serial-24814",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Неслыханная игра",
+      "title_orig": "Hatenkou Yuugi",
+      "other_title": "破天荒遊戯",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "425921",
+      "imdb_id": "tt1160834",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6730",
+      "shikimori_id": "3298",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-15T08:53:59Z",
+      "updated_at": "2020-04-15T08:53:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/630231/a503f197b5ff7ad230ad40ba8181b501/720p",
+            "2": "//aniqit.com/seria/630232/a3db79b0be7898652ec44b480d98b434/720p",
+            "3": "//aniqit.com/seria/630233/ce6913e14b65dd08d41a1584cc7bd746/720p",
+            "4": "//aniqit.com/seria/630234/35f446b1cf2de07e92d38c705a575e0a/720p",
+            "5": "//aniqit.com/seria/630235/b69e57b0b19524ed6ca0a86389b13a41/720p",
+            "6": "//aniqit.com/seria/630236/c37ab9477180dc8459f2f030528d8d68/720p",
+            "7": "//aniqit.com/seria/630237/c77b1f377c5bff689d64193c24d1c81d/720p",
+            "8": "//aniqit.com/seria/630238/7a81e66bf32815af87c5f12b181985c1/720p",
+            "9": "//aniqit.com/seria/630239/38b50cf70abac0b33eb423fe8bc9862a/720p",
+            "10": "//aniqit.com/seria/630240/adc3f51bfa6e5361c845f879b06c9668/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Неслыханная игра",
+        "title_en": "Hatenkô yûgi",
+        "other_titles": [
+          "Hatenkou Yugi",
+          "Dazzle"
+        ],
+        "other_titles_en": [
+          "Hatenkou Yugi"
+        ],
+        "other_titles_jp": [
+          "破天荒遊戯"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2008,
+        "description": "Необыкновенная девочка Разель отправляется в необыкновенное путешествие (однажды прямо после завтрака родной отец выкидывает наследницу из дому со словами: «Похоже, сейчас самое время для тебя повидать мир!»). Другая бы растерялась, испугалась или пришла в отчаяние – другая, но не Разель! Она немедля находит себе двух отважных и привлекательных спутников, любвеобильного Хита и высокомерного Альзейда, и пускается в путь. А что до денег на дорогу, то – нет проблем: опасные поручения, изгнания духов и прочая разовая подработка вполне по силам Разель и К!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/425921.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/ff073c0839b99b6a365fec8657694bcf1c760bf1.jpg",
+          "https://shikimori.one/system/screenshots/original/c4c8ce2c8a2f5575b2b7b501fca66809873ede60.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Дзёсей",
+          "Драма",
+          "Комедия",
+          "Приключения",
+          "Романтика",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 200,
+        "imdb_rating": 6.4,
+        "imdb_votes": 42,
+        "shikimori_rating": 7.16,
+        "shikimori_votes": 1220,
+        "premiere_world": "2008-01-04",
+        "aired_at": "2008-01-05",
+        "released_at": "2008-03-08",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 10,
+        "episodes_aired": 0,
+        "actors": [
+          "Санаэ Кобаяси",
+          "Такахиро Сакурай",
+          "Синъитиро Мики",
+          "Такэхито Коясу",
+          "Мицуру Огата",
+          "Аи Симидзу",
+          "Кисё Танияма",
+          "Кёко Хиками",
+          "Кодзи Юса",
+          "Хироки Ясумото"
+        ],
+        "writers": [
+          "Minari Endo",
+          "Ясухиро Имагава"
+        ]
+      }
+    },
+    {
+      "id": "serial-24813",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Существование в еде",
+      "title_orig": "Meokneun jonjae",
+      "other_title": "Я ем, значит существую / Жить чтобы есть / Еда существования / Жизнь ради еды / Eating Existence",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "971666",
+      "imdb_id": "tt6352714",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-15T08:15:26Z",
+      "updated_at": "2020-04-15T08:15:26Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/630190/1fc695e4579e5355368461ec04e0666b/720p",
+            "2": "//kodik.cc/seria/630191/c534dd56d5d9a7d6dff64441e603a98a/720p",
+            "3": "//kodik.cc/seria/630192/65d51411bda3abad7d70c7ae2f6243b5/720p",
+            "4": "//kodik.cc/seria/630193/b89ab19a42a58326cebaba2f20b73a37/720p",
+            "5": "//kodik.cc/seria/630194/b4c84c54c722d3b9a6c81c7a53a6c44f/720p",
+            "6": "//kodik.cc/seria/630195/36a895efafaf88bb1e8938d672664210/720p",
+            "7": "//kodik.cc/seria/630196/2d05925cc0343c29d6cd3377c4b98637/720p",
+            "8": "//kodik.cc/seria/630197/598cbe90f126be858f17f369856124a2/720p",
+            "9": "//kodik.cc/seria/630198/91537a362d48986bfcd93776101b59a8/720p",
+            "10": "//kodik.cc/seria/630199/8a683ee691bb588a1edc46de953faf59/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Существование в еде",
+        "title_en": "Meokneun jonjae",
+        "year": 2015,
+        "description": "Мечты, жизнь и страдания так называемого поколения сампхо. В Японии это поколение носит название «сатори», в США этих людей называют «миллениалы», «поколение бумеранг» и часть «поколения икс», в Греции - «поколение 700 евро» - молодые люди, которые не хотят вступать в брак и заводить детей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/971666.jpg",
+        "duration": 10,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 7.6,
+        "imdb_votes": 24,
+        "premiere_world": "2015-11-17",
+        "actors": [
+          "Ан Ён-ми",
+          "Но Мин-у",
+          "Ли Бён-хон",
+          "Квон Хёк-су",
+          "Ли Гю-бок",
+          "Чи Дэ-хан",
+          "Хван Бён-гук"
+        ],
+        "directors": [
+          "Ли Чхоль-ха"
+        ],
+        "editors": [
+          "Стив М. Чхве"
+        ]
+      }
+    },
+    {
+      "id": "movie-53625",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Моби Дик",
+      "title_orig": "Mobidik",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "595922",
+      "imdb_id": "tt1984208",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-15T08:14:48Z",
+      "updated_at": "2020-04-15T08:14:48Z",
+      "material_data": {
+        "title": "Моби Дик",
+        "title_en": "Mobidik",
+        "year": 2011,
+        "description": "Мощный взрыв, прогремевший 20 ноября 1994 года на Баламском мосту, всколыхнул общество. Подозревают северокорейских шпионов. Довольно быстро эту теорию подтвердили полиция и прокуратура. Однако опытный журналист Ли Бан-у взялся вместе с двумя коллегами за самостоятельное расследование. Информация, которую они получили, не только опровергла официальную версию, но и вывела группу на законспирированную организацию сильных мира сего, которая стоит над законом и не гнушается ничем ради достижения неких тайных целей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/595922.jpg",
+        "duration": 112,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "детектив",
+          "криминал"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 130,
+        "imdb_rating": 6.3,
+        "imdb_votes": 320,
+        "premiere_world": "2011-06-09",
+        "actors": [
+          "Хван Джон-мин",
+          "Чин Гу",
+          "Ким Мин-хи",
+          "Ким Сан-хо",
+          "Ли Гён-ён",
+          "Ким Бо-ён",
+          "Чон Ман-щик",
+          "Ким Мин-джэ",
+          "Пэ Сон-у",
+          "Yun-beom Bae"
+        ],
+        "directors": [
+          "Пак Ин-джэ"
+        ],
+        "producers": [
+          "Пак Щин-гю",
+          "Ю Джон-хун",
+          "Пак Ын-гён",
+          "О Ён-сок"
+        ],
+        "writers": [
+          "Пак Ин-джэ",
+          "Пак Щин-гю"
+        ],
+        "composers": [
+          "Дальпаран"
+        ],
+        "designers": [
+          "Чо Хва-сон",
+          "Чон И-джин",
+          "Квон Ю-джин"
+        ],
+        "operators": [
+          "Ким Дон-ён"
+        ]
+      }
+    },
+    {
+      "id": "movie-53615",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Да, балет",
+      "title_orig": "Yeh Ballet",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1346464",
+      "imdb_id": "tt10230436",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-15T06:18:20Z",
+      "updated_at": "2020-04-15T06:18:20Z",
+      "material_data": {
+        "title": "Да, балет",
+        "title_en": "Yeh Ballet",
+        "year": 2020,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1346464.jpg",
+        "duration": 117,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.6,
+        "imdb_votes": 994,
+        "premiere_world": "2020-02-21",
+        "actors": [
+          "Ачинтья Бозе",
+          "Мэниш Чаухан",
+          "Джулиан Сэндс",
+          "Дэн Хусейн",
+          "Сара-Джейн Диас",
+          "Рахул Кханна",
+          "Виджай Маурья",
+          "Heeba Shah",
+          "Perrie Kapernaros",
+          "Tarun Khem"
+        ],
+        "directors": [
+          "Суни Тарапоревала"
+        ],
+        "producers": [
+          "Сидхарт Рой Капур",
+          "Ziya Bhathena",
+          "Малвика Кхатри"
+        ],
+        "editors": [
+          "Антара Лахири"
+        ],
+        "designers": [
+          "Шаиладжа Шарма",
+          "Richard Viagulam",
+          "Deepak Kumar"
+        ],
+        "operators": [
+          "Картик Виджай"
+        ]
+      }
+    },
+    {
+      "id": "serial-24805",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Этот замечательный мир! [ТВ-2]",
+      "title_orig": "Kono Subarashii Sekai ni Shukufuku o! 2",
+      "other_title": "Богиня благословляет этот прекрасный мир / Этот замечательный мир! 2",
+      "translation": {
+        "id": 1068,
+        "title": "Crunchyroll",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 2,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "972251",
+      "imdb_id": "tt5370118",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8833",
+      "shikimori_id": "32937",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-14T17:34:26Z",
+      "updated_at": "2020-04-14T17:34:26Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/630087/0e16fef548f965397c74a5cce7ff9c24/720p",
+            "2": "//aniqit.com/seria/630088/0640e98aa5d6d0c170868f8f5b6fc729/720p",
+            "3": "//aniqit.com/seria/630089/b86e56d9c429d63fdfd072a5fefe1f95/720p",
+            "4": "//aniqit.com/seria/630090/87d8ea98939d82827206fc4a98a1b49e/720p",
+            "5": "//aniqit.com/seria/630091/bbc7456e169b50359ba9066bc0a31be7/720p",
+            "6": "//aniqit.com/seria/630092/ad835440f21da4e01c2e1e06aab4fbcf/720p",
+            "7": "//aniqit.com/seria/630093/8575afabaca79ded2439856f49119bc6/720p",
+            "8": "//aniqit.com/seria/630094/de1b1f191fb325240bdc9eb4a216031a/720p",
+            "9": "//aniqit.com/seria/630095/eadffd80c65937b526067c7f178f7818/720p",
+            "10": "//aniqit.com/seria/630096/ae73f0defb1cd89aff0d9b84ebb6dd22/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Да благословят боги сей расчудесный мир!",
+        "title_en": "Kono subarashii sekai ni shukufuku o!",
+        "other_titles": [
+          "Give Blessings to This Wonderful World! 2"
+        ],
+        "other_titles_en": [
+          "KonoSuba: God's Blessing on This Wonderful World! 2"
+        ],
+        "other_titles_jp": [
+          "この素晴らしい世界に祝福を！ 2"
+        ],
+        "anime_license_name": "Да благословят боги сей расчудесный мир! 2",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Так уж получилось, что жизнь Кадзумы Сато, хикикомори, увлеченного видеоиграми, оборвалась в результате дорожно-транспортного происшествия. Очнувшись, парень вдруг понял, что жив-здоров, а перед собой увидел симпатичную девушку Акву, представившуюся Богиней. Девушка стала объяснять, что ищет героя, способного победить злобного Короля Демонов, и тем самым спасти какой-то-там другой мир. И уж больно этот «какой-то-там» мир был похож на видеоигру. «Значит, гляди!» – продолжала Аква, – «Если согласишься, можешь взять с собой одну любую вещь или способность. Хочешь, меч из хвоста неведомого чудовища, а хочешь – силу как у горного великана. Ну так как, что выбираешь?» Долго Кадзума думать не стал. «Выбираю тебя!» – сообразил он, чем тут же выбил Богиню из колеи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/972251.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d35367d2ea63781d709255338c0128fe888b652c.png",
+          "https://shikimori.one/system/screenshots/original/72b8a23d2c92d05dc3d0bdc358c749d5b3ffb7eb.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Магия",
+          "Пародия",
+          "Приключения",
+          "Сверхъестественное",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 9598,
+        "imdb_rating": 7.8,
+        "imdb_votes": 6031,
+        "shikimori_rating": 8.32,
+        "shikimori_votes": 54575,
+        "premiere_world": "2016-01-14",
+        "aired_at": "2017-01-12",
+        "released_at": "2017-03-16",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "episodes_total": 10,
+        "episodes_aired": 10,
+        "actors": [
+          "Дзюн Фукусима",
+          "Сора Амамия",
+          "Риэ Такахаси",
+          "Аи Каяно",
+          "Тэцу Инада",
+          "Саюри Хара",
+          "Сёто Касии",
+          "Ёсики Накадзима",
+          "Фэй Мата",
+          "Эрика Мендес"
+        ],
+        "directors": [
+          "Такаоми Канасаки",
+          "Сюндзи Ёсида",
+          "Таро Кубо",
+          "Такатоси Судзуки",
+          "Хидэхико Кадота",
+          "Масато Миёси",
+          "Ясуюки Эбара",
+          "Ясуо Ивамото",
+          "Боб Сирохата",
+          "Ацуси Накаяма"
+        ],
+        "producers": [
+          "Рай Огура",
+          "Nobumitsu Urasaki",
+          "Takayuki Saitô",
+          "Yoshifumi Nakata"
+        ],
+        "writers": [
+          "Аои Акасиро",
+          "Нацумэ Акацуки",
+          "Токо Матида",
+          "Кодзиро Накамура",
+          "Макото Уэдзу",
+          "Алекс Фон Дэвид"
+        ],
+        "editors": [
+          "Касико Кимура"
+        ],
+        "designers": [
+          "Масакадзу Миякэ"
+        ],
+        "operators": [
+          "Hisashi Yonezawa",
+          "Сигэмицу Хамао"
+        ]
+      }
+    },
+    {
+      "id": "serial-21393",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ложные выводы",
+      "title_orig": "Kyokou Suiri",
+      "other_title": "In/Spectre",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1331496",
+      "imdb_id": "tt11328872",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9954",
+      "shikimori_id": "39017",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-17T15:37:19Z",
+      "updated_at": "2020-04-14T16:10:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/562252/8aeddd5af4f6600dbbfdd1d98565f4f1/720p",
+            "2": "//aniqit.com/seria/570188/7f8b35c4c054ddd9336d3d248d30f3d2/720p",
+            "3": "//aniqit.com/seria/580104/b69d45eb0b9f12b917db498d9a6a62b4/720p",
+            "4": "//aniqit.com/seria/591572/b99477cb67570bea40cd4cb035c06fcb/720p",
+            "5": "//aniqit.com/seria/599544/bf357065b22789444bd109f15e3dab8a/720p",
+            "6": "//aniqit.com/seria/602232/f321716a388ed5e8aa0f26e733be0315/720p",
+            "7": "//aniqit.com/seria/602233/e7fe42c314d55303e3e73c90ea95271b/720p",
+            "8": "//aniqit.com/seria/630057/09c9433b08970cce3e84881a4a6da3ce/720p",
+            "9": "//aniqit.com/seria/630058/fb3e87f71b51b8b369658116638a2e64/720p",
+            "10": "//aniqit.com/seria/630059/2339460135e177bcd129802b87e2df2f/720p",
+            "11": "//aniqit.com/seria/630060/f7ecd4247f12fde33f846edc6b1dcb5a/720p",
+            "12": "//aniqit.com/seria/630061/67f9a56bb85766d7238db4de028ce154/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ложные выводы",
+        "title_en": "Kyokou Suiri",
+        "other_titles_en": [
+          "In/Spectre"
+        ],
+        "other_titles_jp": [
+          "虚構推理"
+        ],
+        "anime_license_name": "Ложные выводы",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "В детстве Котоко Иванага была унесена ёкаями — сверхъестественными мифическими существами. Они предложили ей роль богини мудрости, что позволило бы стать посредником между людским и потусторонним мирами. Взамен за это у неё заберут правый глаз и левую ногу. После недолгих раздумий Котоко согласилась на сделку, и теперь всякий раз, когда у ёкаев возникают проблемы, они бегут к ней за помощью.\r\nПрошло шесть лет. Куро Сакурагава, которого встретила Котоко, — молодой двадцатидвухлетний студент колледжа, только что расставшийся со своей девушкой. Котоко посчитала это шансом поближе познакомиться с парнем. Однако вскоре осознала, что Куро не совсем прост и имеет некую сверхспособность. Девушка предлагает ему стать напарником в расследовании сверхъестественных дел. Так и начинается их увлекательное и захватывающее приключение.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1331496.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/11f3a7921865d5f3ce2b3b3f846fab14fba25a56.jpg",
+          "https://shikimori.one/system/screenshots/original/554419e049e35e65b5250ac623fbd5113501ef53.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "детектив",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Детектив",
+          "Романтика",
+          "Сверхъестественное",
+          "Сёнен"
+        ],
+        "anime_studios": [
+          "Brain's Base"
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 526,
+        "imdb_rating": 6.7,
+        "imdb_votes": 535,
+        "shikimori_rating": 6.96,
+        "shikimori_votes": 8645,
+        "premiere_world": "2020-01-12",
+        "aired_at": "2020-01-12",
+        "released_at": "2020-03-29",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Lizzie Freeman",
+          "Акари Кито",
+          "Брэндон Уинклер",
+          "Мисато Фукуэн",
+          "Мамору Мияно",
+          "Кристина Валенсуэла",
+          "Лорен Ланда",
+          "Deva Gregory",
+          "Мик Лоэр",
+          "Сумирэ Уэсака"
+        ],
+        "directors": [
+          "Кэйдзи Гото"
+        ]
+      }
+    },
+    {
+      "id": "serial-24799",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Этот замечательный мир! [ТВ-1]",
+      "title_orig": "Kono Subarashii Sekai ni Shukufuku o!",
+      "other_title": "Богиня благословляет этот прекрасный мир",
+      "translation": {
+        "id": 1068,
+        "title": "Crunchyroll",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "972251",
+      "imdb_id": "tt5370118",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8345",
+      "shikimori_id": "30831",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-14T15:21:12Z",
+      "updated_at": "2020-04-14T15:21:12Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/630038/ebcaef67d82aa3d45c72bc2d8e701d92/720p",
+            "2": "//aniqit.com/seria/630039/29e0f0e323046754d572ea8072007d2b/720p",
+            "3": "//aniqit.com/seria/630040/1226faef6ac3a7c5e7fc5ec2db1fbaf7/720p",
+            "4": "//aniqit.com/seria/630041/c445aeac1933cc0bfc1a1da12a2030af/720p",
+            "5": "//aniqit.com/seria/630042/6a9a2ed0510b620c1a11e2c9fa80fcfa/720p",
+            "6": "//aniqit.com/seria/630043/dce0245d1fb4f9053536b11be166630a/720p",
+            "7": "//aniqit.com/seria/630044/ea1b2f7922241688e6baaadcb08ba889/720p",
+            "8": "//aniqit.com/seria/630045/711efbe80a8c12cdb73fb9d50ea82a21/720p",
+            "9": "//aniqit.com/seria/630046/942bcdabc38f97382bd1a8ae62cd2ccf/720p",
+            "10": "//aniqit.com/seria/630047/d90366b5999446510d931db6bf66a24f/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Да благословят боги сей расчудесный мир!",
+        "title_en": "Kono subarashii sekai ni shukufuku o!",
+        "other_titles": [
+          "Богиня благословляет этот прекрасный мир",
+          "Give Blessings to This Wonderful World!"
+        ],
+        "other_titles_en": [
+          "KonoSuba: God's Blessing on This Wonderful World!"
+        ],
+        "other_titles_jp": [
+          "この素晴らしい世界に祝福を！"
+        ],
+        "anime_license_name": "Да благословят боги сей расчудесный мир!",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Так уж получилось, что жизнь Кадзумы Сато, хикикомори, увлеченного видеоиграми, оборвалась в результате дорожно-транспортного происшествия. Очнувшись, парень вдруг понял, что жив-здоров, а перед собой увидел симпатичную девушку Акву, представившуюся Богиней. Девушка стала объяснять, что ищет героя, способного победить злобного Короля Демонов, и тем самым спасти какой-то-там другой мир. И уж больно этот «какой-то-там» мир был похож на видеоигру. «Значит, гляди!» – продолжала Аква, – «Если согласишься, можешь взять с собой одну любую вещь или способность. Хочешь, меч из хвоста неведомого чудовища, а хочешь – силу как у горного великана. Ну так как, что выбираешь?» Долго Кадзума думать не стал. «Выбираю тебя!» – сообразил он, чем тут же выбил Богиню из колеи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/972251.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1269fd263faaefcee08005bfab6a5676f81ba46d.jpg",
+          "https://shikimori.one/system/screenshots/original/4738a686784406494d8912500e8269bad7cabd9c.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Магия",
+          "Пародия",
+          "Приключения",
+          "Сверхъестественное",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 9598,
+        "imdb_rating": 7.8,
+        "imdb_votes": 6031,
+        "shikimori_rating": 8.16,
+        "shikimori_votes": 67463,
+        "premiere_world": "2016-01-14",
+        "aired_at": "2016-01-14",
+        "released_at": "2016-03-17",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "episodes_total": 10,
+        "episodes_aired": 10,
+        "actors": [
+          "Дзюн Фукусима",
+          "Сора Амамия",
+          "Риэ Такахаси",
+          "Аи Каяно",
+          "Тэцу Инада",
+          "Саюри Хара",
+          "Сёто Касии",
+          "Ёсики Накадзима",
+          "Фэй Мата",
+          "Эрика Мендес"
+        ],
+        "directors": [
+          "Такаоми Канасаки",
+          "Сюндзи Ёсида",
+          "Таро Кубо",
+          "Такатоси Судзуки",
+          "Хидэхико Кадота",
+          "Масато Миёси",
+          "Ясуюки Эбара",
+          "Ясуо Ивамото",
+          "Боб Сирохата",
+          "Ацуси Накаяма"
+        ],
+        "producers": [
+          "Рай Огура",
+          "Nobumitsu Urasaki",
+          "Takayuki Saitô",
+          "Yoshifumi Nakata"
+        ],
+        "writers": [
+          "Аои Акасиро",
+          "Нацумэ Акацуки",
+          "Токо Матида",
+          "Кодзиро Накамура",
+          "Макото Уэдзу",
+          "Алекс Фон Дэвид"
+        ],
+        "editors": [
+          "Касико Кимура"
+        ],
+        "designers": [
+          "Масакадзу Миякэ"
+        ],
+        "operators": [
+          "Hisashi Yonezawa",
+          "Сигэмицу Хамао"
+        ]
+      }
+    },
+    {
+      "id": "movie-53603",
+      "type": "anime",
+      "link": "",
+      "title": "Спецотряд Burn-Up",
+      "title_orig": "Ban'n appu",
+      "other_title": "Разгон! / Burn Up / Burn Up!",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "335797",
+      "imdb_id": "tt0101522",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=228",
+      "shikimori_id": "767",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-14T14:45:10Z",
+      "updated_at": "2020-04-14T14:45:10Z",
+      "material_data": {
+        "title": "Спецотряд Burn-Up",
+        "title_en": "Ban'n appu",
+        "other_titles": [
+          "Burn Up"
+        ],
+        "other_titles_jp": [
+          "バーンナップ"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 1991,
+        "tagline": "Body Armor Never Looked So Good!",
+        "description": "Очаровательные Маки, Рейми и Юка не выглядят опытными борцами с криминалом, да, честно говоря, они таковыми и не являются: девушки служат обычными патрульными. Однако все меняется, когда Юку похищают. Чтобы спасти напарницу, Маки и Рейми облачаются в высокотехнологичные доспехи и преподают урок похитителям, вздумавшим играть с огнем!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/335797.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/75da9aaec5cfd78e3abebd54db3f1e8d1eb4496a.jpg",
+          "https://shikimori.one/system/screenshots/original/6502ac014304e85084d70afca3034e1538a68d7f.jpg"
+        ],
+        "duration": 45,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Полиция",
+          "Фантастика",
+          "Экшен",
+          "Этти"
+        ],
+        "anime_studios": [
+          "AIC"
+        ],
+        "kinopoisk_rating": 5.6,
+        "kinopoisk_votes": 83,
+        "imdb_rating": 6.2,
+        "imdb_votes": 141,
+        "shikimori_rating": 6.09,
+        "shikimori_votes": 171,
+        "premiere_world": "1991-03-21",
+        "aired_at": "1991-03-21",
+        "rating_mpaa": "R",
+        "minimal_age": 18,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Юмико Сибата",
+          "Кумико Нисихара",
+          "Хирокадзу Хирамацу",
+          "Сёитиро Акабоси",
+          "Норио Вакамото",
+          "Хидэюки Умэдзу",
+          "Киёюки Янада",
+          "Сёдзо Идзука",
+          "Нобуо Танака",
+          "Итиро Нагаи"
+        ],
+        "directors": [
+          "Ясунори Идэ"
+        ],
+        "producers": [
+          "Акио Мацуда",
+          "Тору Миура",
+          "Ясунори Идэ",
+          "Jun Kanzaki",
+          "Джон Лэдфорд",
+          "Кинья Ватанабэ"
+        ],
+        "writers": [
+          "Ясунори Идэ",
+          "Jun Kanzaki"
+        ],
+        "composers": [
+          "Кэндзи Каваи"
+        ],
+        "editors": [
+          "Нобутакэ Камия"
+        ],
+        "designers": [
+          "Masahiro Tano",
+          "Kenji Kamiyama"
+        ],
+        "operators": [
+          "Кадзухиро Кониси"
+        ]
+      }
+    },
+    {
+      "id": "serial-24792",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Увидеть тебя в моих мечтах [ТВ]",
+      "title_orig": "Yume de Aetara",
+      "other_title": "If I See You in my Dreams",
+      "translation": {
+        "id": 999,
+        "title": "OpenDub",
+        "type": "voice"
+      },
+      "year": 1998,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "imdb_id": "tt0426383",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3191",
+      "shikimori_id": "718",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-14T13:11:30Z",
+      "updated_at": "2020-04-14T13:11:30Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/629914/0a08bbee426745e8e83f4d1f40c8b835/720p",
+            "2": "//aniqit.com/seria/629915/e4f6a7834e0b12395f2f21a77568a0da/720p",
+            "3": "//aniqit.com/seria/629916/54f5061fe9775c7e8dda3916e3389947/720p",
+            "4": "//aniqit.com/seria/629917/eb47594a6182be514b79d364339c0460/720p",
+            "5": "//aniqit.com/seria/629918/90d33c8c9f32c134548f19f1356aab92/720p",
+            "6": "//aniqit.com/seria/629919/9894db7083001102e234e3317db22f22/720p",
+            "7": "//aniqit.com/seria/629920/1c86f45ccf1bf7d2854564fc47890172/720p",
+            "8": "//aniqit.com/seria/629921/8257e3b27c54d056f74f3cd2519c6b2b/720p",
+            "9": "//aniqit.com/seria/629922/070bbefff0fe515aa0d201553ae3f866/720p",
+            "10": "//aniqit.com/seria/629923/474da12e42ea40b00145eba851970df7/720p",
+            "11": "//aniqit.com/seria/629924/f65ca0d0e6a3b2f5aed025ed19cd539a/720p",
+            "12": "//aniqit.com/seria/629925/107d457169c9335e6ea0aff33c35f21f/720p",
+            "13": "//aniqit.com/seria/629926/4c11a2e65f6712653ac9e51b768bff3a/720p",
+            "14": "//aniqit.com/seria/629927/4381c1b3e3228798eb4567960b9aaec2/720p",
+            "15": "//aniqit.com/seria/629928/109b900feb9f60319e1963b71d19d02e/720p",
+            "16": "//aniqit.com/seria/629929/67dce5a73c7f5de4244e8f734bef812c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Увидеть тебя в моих мечтах",
+        "title_en": "Yume de Aetara (TV)",
+        "other_titles_en": [
+          "If I See You in My Dreams"
+        ],
+        "other_titles_jp": [
+          "夢で逢えたら"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/718.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/7c6d0229f6b7a729c48a09219e08990430b13abf.jpg",
+          "https://shikimori.one/system/screenshots/original/5375cf9cf29f8254e124cb04d61de9167655df9d.jpg"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Повседневность",
+          "Романтика",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "shikimori_rating": 6.47,
+        "shikimori_votes": 75,
+        "aired_at": "1998-11-30",
+        "released_at": "1998-12-24",
+        "rating_mpaa": "R+",
+        "episodes_total": 16,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-24791",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Я тихо прошепчу",
+      "title_orig": "Sasameki Koto",
+      "other_title": "Whispered Words",
+      "translation": {
+        "id": 999,
+        "title": "OpenDub",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "638730",
+      "imdb_id": "tt1515992",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7267",
+      "shikimori_id": "6203",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-14T13:07:01Z",
+      "updated_at": "2020-04-14T13:07:01Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/629898/dff5c1755968f9134de0ef60dcc21dc3/720p",
+            "2": "//aniqit.com/seria/629899/b02e1a10fd8064f4ff21b42ce75d6f86/720p",
+            "3": "//aniqit.com/seria/629900/ef96f1bf1ae40c16cd1463f44265c8d4/720p",
+            "4": "//aniqit.com/seria/629901/a75bdeeaf9bfbac2c250ccbca08302a2/720p",
+            "5": "//aniqit.com/seria/629902/a000dded2bc08eb7f2da418d84189bff/720p",
+            "6": "//aniqit.com/seria/629903/bb87d4bb84c38379a49981b486fbc737/720p",
+            "7": "//aniqit.com/seria/629904/09f7cf7df98f0a91720ef46a8f07c8a7/720p",
+            "8": "//aniqit.com/seria/629905/ad6da9d1b9588e2049f65d6b88a84a76/720p",
+            "9": "//aniqit.com/seria/629906/c0b2a44297ef1048f9a28abd0abe5a1d/720p",
+            "10": "//aniqit.com/seria/629907/4725211300eecd39fdd58e0ab7dbbbea/720p",
+            "11": "//aniqit.com/seria/629908/29fa95c8ec141c84bf7539168da172f1/720p",
+            "12": "//aniqit.com/seria/629909/e50855f610f3719c9ad0c3689701929d/720p",
+            "13": "//aniqit.com/seria/629910/9edc4e4268b476f3ce5cb0f605968e74/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Я тихо прошепчу",
+        "title_en": "Sasamekikoto",
+        "other_titles": [
+          "Sasamekikoto",
+          "Sasame Kikoto"
+        ],
+        "other_titles_en": [
+          "Whispered Words"
+        ],
+        "other_titles_jp": [
+          "ささめきこと"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2009,
+        "description": "Сумика Мурасамэ – высокая, спортивная и уверенная в себе староста класса, вдобавок еще мастер каратэ. Усио Кадзама – невысокая, тихая и романтичная помощница библиотекаря. Со стороны они образцовые лучшие подруги с начальной школы, но есть одна проблема. Фантазерша Усио влюбляется в каждую встречную «миленькую» девушку и потом, подлечив разбитое сердечко, спокойно начинает искать следующий объект поклонения, попутно жалуясь, что так хотела добиться взаимности. А вроде бы сильная и решительная Сумика никак не может признаться подруге, что давно питает к ней чувства куда более глубокие…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/638730.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d43143053e5b3ceae7e2bef6f33660226ab25879.jpg",
+          "https://shikimori.one/system/screenshots/original/1b905c81b52c94e5197c762b24de60b0c3e8463d.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Романтика",
+          "Сёдзё-ай",
+          "Школа"
+        ],
+        "anime_studios": [
+          "AIC"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 127,
+        "imdb_rating": 6.1,
+        "imdb_votes": 178,
+        "shikimori_rating": 7.1,
+        "shikimori_votes": 1018,
+        "premiere_world": "2009-10-07",
+        "aired_at": "2009-10-08",
+        "released_at": "2009-12-31",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 0,
+        "actors": [
+          "Аяхи Такагаки",
+          "Мэгуми Такамото",
+          "Эмири Като",
+          "Мицухиро Сакамаки",
+          "Хироми Харада",
+          "Саито Тива",
+          "Маюки Макигути",
+          "Хидэки Наканиси",
+          "Аи Маэда",
+          "Саюри Хара"
+        ],
+        "directors": [
+          "Эидзи Суганума",
+          "Даисукэ Такасима",
+          "Сёго Араи",
+          "Kôdai Iwata",
+          "Макото Мориваки",
+          "Кадзуо Ногами",
+          "Хироюки Канбэ",
+          "Нагиса Миядзаки"
+        ],
+        "producers": [
+          "Масао Ито",
+          "Ацуси Ивасаки",
+          "Shinobu Konuma",
+          "Томоёси Кояма",
+          "Ёсиюки Мацудзаки",
+          "Тору Миура",
+          "Сиро Сасаки",
+          "Osamu Shibata",
+          "Дзию Оги"
+        ],
+        "writers": [
+          "Такаси Икеда",
+          "Хидэюки Курата"
+        ],
+        "composers": [
+          "Сигеоми Хасуми"
+        ],
+        "editors": [
+          "Масанори Уцуномия"
+        ],
+        "designers": [
+          "Юкихиро Сибутани"
+        ]
+      }
+    },
+    {
       "id": "serial-24790",
       "type": "anime-serial",
       "link": "",
@@ -7460,957 +8545,6 @@
         ],
         "operators": [
           "Гёкхан Тирьяки"
-        ]
-      }
-    },
-    {
-      "id": "movie-53434",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пуля, выпущенная в меня",
-      "title_orig": "Enai Noki Paayum Thota",
-      "translation": {
-        "id": 959,
-        "title": "OnisFilms",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "970103",
-      "imdb_id": "tt5483626",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-11T12:07:02Z",
-      "updated_at": "2020-04-11T12:07:02Z",
-      "material_data": {
-        "title": "Пуля, выпущенная в меня",
-        "title_en": "Enai Noki Paayum Thota",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/970103.jpg",
-        "duration": 153,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "триллер"
-        ],
-        "imdb_rating": 5.6,
-        "imdb_votes": 1423,
-        "premiere_world": "2019-11-27",
-        "actors": [
-          "Дхануш",
-          "Мегха Акаш",
-          "М. Сашикумар",
-          "Senthil Veeraasamy",
-          "Сунайна",
-          "Vela Ramamoorthy",
-          "S. Kameshwari",
-          "Ashwin Kumar",
-          "Arjun Chidambaram",
-          "Рана Даггубати"
-        ],
-        "directors": [
-          "Гаутам Менон"
-        ],
-        "producers": [
-          "Reshma Ghatala",
-          "П. Мадан",
-          "Гаутам Менон",
-          "Venkat Somasundaram",
-          "Jatin Dharna"
-        ],
-        "writers": [
-          "Гаутам Менон"
-        ],
-        "composers": [
-          "Darbuka Siva"
-        ],
-        "editors": [
-          "Praveen Antony"
-        ],
-        "operators": [
-          "Jomon T. John",
-          "Манодж Парамахамса"
-        ]
-      }
-    },
-    {
-      "id": "serial-17987",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Скажи: «Я люблю тебя». [ТВ]",
-      "title_orig": "Suki-tte Ii na yo.",
-      "other_title": "Say \"I Love You\"",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 14,
-      "kinopoisk_id": "709625",
-      "imdb_id": "tt2309312",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1034",
-      "shikimori_id": "14289",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-09T04:40:15Z",
-      "updated_at": "2020-04-11T11:45:40Z",
-      "seasons": {
-        "0": {
-          "title": "OVA",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/628186/0039fc4d055abbd3c681dbbed602a58b/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/469488/0039fc4d055abbd3c681dbbed602a58b/720p",
-            "2": "//aniqit.com/seria/469489/67550ad0eb0889c8e3af5909f1dd77a9/720p",
-            "3": "//aniqit.com/seria/469490/bbb9addcea3ceefdb622d112e9307925/720p",
-            "4": "//aniqit.com/seria/469491/e30878210dd2e95b59b295c302bf9e07/720p",
-            "5": "//aniqit.com/seria/469492/8a355a2292890be3066c5d3fde8b10ee/720p",
-            "6": "//aniqit.com/seria/469493/38370c0f397df09d643fa7c7ccdc9ee2/720p",
-            "7": "//aniqit.com/seria/469494/3442481f2af04f958546a649b6a62819/720p",
-            "8": "//aniqit.com/seria/469495/4bbdbea5dc12181348556b8bf9a64a49/720p",
-            "9": "//aniqit.com/seria/469496/a4f2603166d660c4405ac3a0c030af69/720p",
-            "10": "//aniqit.com/seria/469497/b08e2397b8556310d13cdbd6039be8ce/720p",
-            "11": "//aniqit.com/seria/469498/50a043091ece22db7e77d93d62e8a26f/720p",
-            "12": "//aniqit.com/seria/469499/a63b198351e0ae9c050385e07ea00bc2/720p",
-            "13": "//aniqit.com/seria/469500/a280e32bfb90271d4be5548ed032f41e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Скажи: «Я люблю тебя»",
-        "title_en": "Suki-tte Ii na yo",
-        "other_titles": [
-          "Suki-tte Ii na yo.",
-          "Sukinayo"
-        ],
-        "other_titles_en": [
-          "Say \"I Love You\"."
-        ],
-        "other_titles_jp": [
-          "好きっていいなよ。"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Из-за обычной детской жестокости Мэй Татибана решила, что дружбы не существует, и любое сближение обернется лишь болью и предательством. Так неглупая и симпатичная девушка дожила до 16 лет, заработав в старшей школе вполне объяснимую репутацию одиночки и нелюдимой молчуньи. Конечно же, подобная аура необычности и отстраненности привлекла внимание «школьного принца» Ямато Куросавы. Куросава, парень честный, искренний и малость утомленный навязчивым вниманием знакомых девиц, сам стал искать встречи с Мэй – и добился своего, от души получив «с ноги». Но, как и положено, такое начало только разожгло взаимный интерес...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/709625.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/54cbcd7c2a202fdef4229dc961a752c464876110.jpg",
-          "https://shikimori.one/system/screenshots/original/26b44a3e4fdbfefc507410f6cae2e4a7845d53f9.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Романтика",
-          "Сёдзё",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Zexcs"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 4830,
-        "imdb_rating": 7.4,
-        "imdb_votes": 2463,
-        "shikimori_rating": 7.5,
-        "shikimori_votes": 17981,
-        "premiere_world": "2012-10-06",
-        "aired_at": "2012-10-07",
-        "released_at": "2012-12-30",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Аи Каяно",
-          "Такахиро Сакурай",
-          "Леральдо Анцальдуа",
-          "Крис Эйрс",
-          "Crash Buist",
-          "Caitlynn French",
-          "Тиффани Грант",
-          "Beth Lazarou",
-          "Коннор Лич",
-          "Брент Маршалл"
-        ],
-        "directors": [
-          "Тосимаса Куроянаги",
-          "Такуя Сато",
-          "Аои Саё",
-          "Fumiaki Kota",
-          "Sasa Fujisawa",
-          "Сатанобу Кикути",
-          "Тосихару Кудо",
-          "Юта Маруяма",
-          "Масахиро Сонода",
-          "Мана Утияма"
-        ],
-        "writers": [
-          "Аяна Юнико",
-          "Канаэ Хазуки",
-          "Джордж Мэнли",
-          "Такуя Сато",
-          "Нацуко Такахаси",
-          "Митико Ёкотэ"
-        ],
-        "composers": [
-          "Юдзи Номи"
-        ],
-        "editors": [
-          "Масахиро Гото"
-        ],
-        "designers": [
-          "Хирама Юка"
-        ],
-        "operators": [
-          "Ёсихиса Ояма"
-        ]
-      }
-    },
-    {
-      "id": "serial-24682",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Скажи: «Я люблю тебя». [ТВ]",
-      "title_orig": "Sukitte Ii na yo.",
-      "other_title": "Say \"I Love You\"",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "709625",
-      "imdb_id": "tt2309312",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1034",
-      "shikimori_id": "14289",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-11T11:02:29Z",
-      "updated_at": "2020-04-11T11:45:00Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/628129/b7353bc5917a24dbee9df5165e8a5925/720p",
-            "2": "//aniqit.com/seria/628130/3e8bf1213c0dde502e201822c7e3e993/720p",
-            "3": "//aniqit.com/seria/628131/541c58bc6e36f0b730a8fc42adedce24/720p",
-            "4": "//aniqit.com/seria/628132/15fda44c6cc980679960f5ed29dbee4e/720p",
-            "5": "//aniqit.com/seria/628133/c3b0808c3a1fb557f6b90fbc3418c87e/720p",
-            "6": "//aniqit.com/seria/628134/fb74e0ba4b5dfa6b7d33a66325b5ba37/720p",
-            "7": "//aniqit.com/seria/628135/c877be144af7aad5e1ada11833540ade/720p",
-            "8": "//aniqit.com/seria/628136/5f475c1c7f8d6076e18c129a938aa297/720p",
-            "9": "//aniqit.com/seria/628181/1294a46d45760a8da6d37cb05d6f76c8/720p",
-            "10": "//aniqit.com/seria/628182/e61175df9778829ed711b44682c47688/720p",
-            "11": "//aniqit.com/seria/628183/b568a884441b86ba0df18e8bf81222d7/720p",
-            "12": "//aniqit.com/seria/628184/77099259816d58293558caee0145e49a/720p",
-            "13": "//aniqit.com/seria/628185/08c1e1d6d39fd265a69197882eabbbd3/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Скажи: «Я люблю тебя»",
-        "title_en": "Suki-tte Ii na yo",
-        "other_titles": [
-          "Suki-tte Ii na yo.",
-          "Sukinayo"
-        ],
-        "other_titles_en": [
-          "Say \"I Love You\"."
-        ],
-        "other_titles_jp": [
-          "好きっていいなよ。"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Из-за обычной детской жестокости Мэй Татибана решила, что дружбы не существует, и любое сближение обернется лишь болью и предательством. Так неглупая и симпатичная девушка дожила до 16 лет, заработав в старшей школе вполне объяснимую репутацию одиночки и нелюдимой молчуньи. Конечно же, подобная аура необычности и отстраненности привлекла внимание «школьного принца» Ямато Куросавы. Куросава, парень честный, искренний и малость утомленный навязчивым вниманием знакомых девиц, сам стал искать встречи с Мэй – и добился своего, от души получив «с ноги». Но, как и положено, такое начало только разожгло взаимный интерес...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/709625.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/54cbcd7c2a202fdef4229dc961a752c464876110.jpg",
-          "https://shikimori.one/system/screenshots/original/26b44a3e4fdbfefc507410f6cae2e4a7845d53f9.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Романтика",
-          "Сёдзё",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Zexcs"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 4830,
-        "imdb_rating": 7.4,
-        "imdb_votes": 2463,
-        "shikimori_rating": 7.5,
-        "shikimori_votes": 17981,
-        "premiere_world": "2012-10-06",
-        "aired_at": "2012-10-07",
-        "released_at": "2012-12-30",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Аи Каяно",
-          "Такахиро Сакурай",
-          "Леральдо Анцальдуа",
-          "Крис Эйрс",
-          "Crash Buist",
-          "Caitlynn French",
-          "Тиффани Грант",
-          "Beth Lazarou",
-          "Коннор Лич",
-          "Брент Маршалл"
-        ],
-        "directors": [
-          "Тосимаса Куроянаги",
-          "Такуя Сато",
-          "Аои Саё",
-          "Fumiaki Kota",
-          "Sasa Fujisawa",
-          "Сатанобу Кикути",
-          "Тосихару Кудо",
-          "Юта Маруяма",
-          "Масахиро Сонода",
-          "Мана Утияма"
-        ],
-        "writers": [
-          "Аяна Юнико",
-          "Канаэ Хазуки",
-          "Джордж Мэнли",
-          "Такуя Сато",
-          "Нацуко Такахаси",
-          "Митико Ёкотэ"
-        ],
-        "composers": [
-          "Юдзи Номи"
-        ],
-        "editors": [
-          "Масахиро Гото"
-        ],
-        "designers": [
-          "Хирама Юка"
-        ],
-        "operators": [
-          "Ёсихиса Ояма"
-        ]
-      }
-    },
-    {
-      "id": "serial-24685",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Парень из моего сна",
-      "title_orig": "My Dream The Series",
-      "other_title": "Мой сон / Моя мечта / Ты из моего сна",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-11T11:11:08Z",
-      "updated_at": "2020-04-11T11:24:46Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/628163/a94673a5ea35ebad87794b6c8bf32662/720p",
-            "2": "//kodik.cc/seria/628164/8abd48d49dfa7b628a346703f4971687/720p",
-            "3": "//kodik.cc/seria/628165/367c5cb6ff8aad7f454aef46b873ff55/720p",
-            "4": "//kodik.cc/seria/628166/18516906d923185bdb3081caeb774958/720p",
-            "5": "//kodik.cc/seria/628167/e3fbeaf8d38f72a63124bea3dd5f6d12/720p",
-            "6": "//kodik.cc/seria/628168/616d97d4086b4b69391e9ac7f512b646/720p",
-            "7": "//kodik.cc/seria/628169/aacc04f1813a1cac30138c51970ca74e/720p",
-            "8": "//kodik.cc/seria/628170/1d1d396447c900b08ccded3279021c83/720p",
-            "9": "//kodik.cc/seria/628171/cbe4a943654ab6c8efe5e448d08257b2/720p",
-            "10": "//kodik.cc/seria/628172/daa8cc1a2984c76e4dc2ee652941bd3a/720p",
-            "11": "//kodik.cc/seria/628173/f1c346f60579b1f941e78b652f718808/720p",
-            "12": "//kodik.cc/seria/628174/60008b58eb3f96e710aa894df9107dbc/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "movie-53426",
-      "type": "anime",
-      "link": "",
-      "title": "Стрелок с Черной скалы",
-      "title_orig": "Burakku Rokku Shuta",
-      "other_title": "Стрелок с Черной скалы OVA / Black Rock Shooter",
-      "translation": {
-        "id": 1207,
-        "title": "Moscow City Animegroup",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "639759",
-      "imdb_id": "tt1827378",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7449",
-      "shikimori_id": "7059",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-11T11:19:25Z",
-      "updated_at": "2020-04-11T11:19:25Z",
-      "material_data": {
-        "title": "Стрелок с Черной скалы",
-        "title_en": "Burakku Rokku Shuta",
-        "other_titles": [
-          "BRS OVA"
-        ],
-        "other_titles_jp": [
-          "ブラック★ロックシューター"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "Лучшие подруги в одном мире, заклятые враги в другом… \n\rЧерез что придется пройти Мато Курой и ее альтер-эго Блэк Рок Шутер, чтобы спасти самого дорогого ей человека, Ёми Таканаси, от самой себя, от Хозяйки Мертвых? Повествование ведется параллельно из мира нашего и мира альтернативного, где лучшие подруги существуют в виде Блэк Рок Шутера и Хозяйки Мертвых. Наш мир наполнен чувствами и переживаниями, альтернативный – боями и красочными пейзажами. Переломный момент наступает, когда Мато бросается вслед за пропавшей Ёми…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/639759.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/01fe711e7d7da02d87c693eaef50622a3a1cb79e.jpg",
-          "https://shikimori.one/system/screenshots/original/d9932b1c7a7522454b1f42c43b9b12927b4f95f2.jpg"
-        ],
-        "duration": 52,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Повседневность",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Ordet"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 763,
-        "imdb_rating": 6.3,
-        "imdb_votes": 411,
-        "shikimori_rating": 7.12,
-        "shikimori_votes": 5220,
-        "premiere_world": "2010-07-24",
-        "aired_at": "2010-07-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Кана Ханадзава",
-          "Миюки Савасиро",
-          "Кана Асуми",
-          "Кадзуса Мураи",
-          "Мисаки Куно",
-          "Наоки Макисима",
-          "Такаси Нагасако",
-          "Аири Сакуно",
-          "Томоко Накамура",
-          "Мэгуми Такамото"
-        ],
-        "directors": [
-          "Синобу Ёсиока"
-        ],
-        "writers": [
-          "Ryohei Fuke",
-          "Юске Мацуо",
-          "Нагару Танигава",
-          "Синобу Ёсиока"
-        ],
-        "composers": [
-          "Рио"
-        ]
-      }
-    },
-    {
-      "id": "movie-53425",
-      "type": "anime",
-      "link": "",
-      "title": "Стрелок с Черной скалы",
-      "title_orig": "Burakku Rokku Shuta",
-      "other_title": "Стрелок с Черной скалы OVA / Black Rock Shooter",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "639759",
-      "imdb_id": "tt1827378",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7449",
-      "shikimori_id": "7059",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-11T11:18:38Z",
-      "updated_at": "2020-04-11T11:18:38Z",
-      "material_data": {
-        "title": "Стрелок с Черной скалы",
-        "title_en": "Burakku Rokku Shuta",
-        "other_titles": [
-          "BRS OVA"
-        ],
-        "other_titles_jp": [
-          "ブラック★ロックシューター"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "Лучшие подруги в одном мире, заклятые враги в другом… \n\rЧерез что придется пройти Мато Курой и ее альтер-эго Блэк Рок Шутер, чтобы спасти самого дорогого ей человека, Ёми Таканаси, от самой себя, от Хозяйки Мертвых? Повествование ведется параллельно из мира нашего и мира альтернативного, где лучшие подруги существуют в виде Блэк Рок Шутера и Хозяйки Мертвых. Наш мир наполнен чувствами и переживаниями, альтернативный – боями и красочными пейзажами. Переломный момент наступает, когда Мато бросается вслед за пропавшей Ёми…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/639759.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/01fe711e7d7da02d87c693eaef50622a3a1cb79e.jpg",
-          "https://shikimori.one/system/screenshots/original/d9932b1c7a7522454b1f42c43b9b12927b4f95f2.jpg"
-        ],
-        "duration": 52,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Повседневность",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Ordet"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 763,
-        "imdb_rating": 6.3,
-        "imdb_votes": 411,
-        "shikimori_rating": 7.12,
-        "shikimori_votes": 5220,
-        "premiere_world": "2010-07-24",
-        "aired_at": "2010-07-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Кана Ханадзава",
-          "Миюки Савасиро",
-          "Кана Асуми",
-          "Кадзуса Мураи",
-          "Мисаки Куно",
-          "Наоки Макисима",
-          "Такаси Нагасако",
-          "Аири Сакуно",
-          "Томоко Накамура",
-          "Мэгуми Такамото"
-        ],
-        "directors": [
-          "Синобу Ёсиока"
-        ],
-        "writers": [
-          "Ryohei Fuke",
-          "Юске Мацуо",
-          "Нагару Танигава",
-          "Синобу Ёсиока"
-        ],
-        "composers": [
-          "Рио"
-        ]
-      }
-    },
-    {
-      "id": "movie-53424",
-      "type": "anime",
-      "link": "",
-      "title": "Стрелок с Черной скалы",
-      "title_orig": "Burakku Rokku Shuta",
-      "other_title": "Стрелок с Черной скалы OVA / Black Rock Shooter",
-      "translation": {
-        "id": 999,
-        "title": "OpenDub",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "639759",
-      "imdb_id": "tt1827378",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7449",
-      "shikimori_id": "7059",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-11T11:17:55Z",
-      "updated_at": "2020-04-11T11:17:55Z",
-      "material_data": {
-        "title": "Стрелок с Черной скалы",
-        "title_en": "Burakku Rokku Shuta",
-        "other_titles": [
-          "BRS OVA"
-        ],
-        "other_titles_jp": [
-          "ブラック★ロックシューター"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "Лучшие подруги в одном мире, заклятые враги в другом… \n\rЧерез что придется пройти Мато Курой и ее альтер-эго Блэк Рок Шутер, чтобы спасти самого дорогого ей человека, Ёми Таканаси, от самой себя, от Хозяйки Мертвых? Повествование ведется параллельно из мира нашего и мира альтернативного, где лучшие подруги существуют в виде Блэк Рок Шутера и Хозяйки Мертвых. Наш мир наполнен чувствами и переживаниями, альтернативный – боями и красочными пейзажами. Переломный момент наступает, когда Мато бросается вслед за пропавшей Ёми…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/639759.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/01fe711e7d7da02d87c693eaef50622a3a1cb79e.jpg",
-          "https://shikimori.one/system/screenshots/original/d9932b1c7a7522454b1f42c43b9b12927b4f95f2.jpg"
-        ],
-        "duration": 52,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Повседневность",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Ordet"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 763,
-        "imdb_rating": 6.3,
-        "imdb_votes": 411,
-        "shikimori_rating": 7.12,
-        "shikimori_votes": 5220,
-        "premiere_world": "2010-07-24",
-        "aired_at": "2010-07-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Кана Ханадзава",
-          "Миюки Савасиро",
-          "Кана Асуми",
-          "Кадзуса Мураи",
-          "Мисаки Куно",
-          "Наоки Макисима",
-          "Такаси Нагасако",
-          "Аири Сакуно",
-          "Томоко Накамура",
-          "Мэгуми Такамото"
-        ],
-        "directors": [
-          "Синобу Ёсиока"
-        ],
-        "writers": [
-          "Ryohei Fuke",
-          "Юске Мацуо",
-          "Нагару Танигава",
-          "Синобу Ёсиока"
-        ],
-        "composers": [
-          "Рио"
-        ]
-      }
-    },
-    {
-      "id": "serial-24684",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Мартовский лев [ТВ-2]",
-      "title_orig": "Sangatsu no Lion (2017)",
-      "other_title": "Март приходит подобно льву / Мартовский лев 2 / 3-gatsu no Lion 2nd Season",
-      "translation": {
-        "id": 1296,
-        "title": "AniPlay.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "last_season": 2,
-      "last_episode": 22,
-      "episodes_count": 22,
-      "kinopoisk_id": "1045799",
-      "imdb_id": "tt6074794",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9175",
-      "shikimori_id": "35180",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-11T11:08:25Z",
-      "updated_at": "2020-04-11T11:08:25Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/628141/9791c21f123945ff69912bc839345ab1/720p",
-            "2": "//aniqit.com/seria/628142/b34daf6c89e4cf7ec6f906fff1c52b34/720p",
-            "3": "//aniqit.com/seria/628143/44f538486adb29ee294bc7befb085ae4/720p",
-            "4": "//aniqit.com/seria/628144/4a6c46dec2aa4e8443fdeb84cb7d0b1c/720p",
-            "5": "//aniqit.com/seria/628145/826cc15a43c758dd56f597c5033a756a/720p",
-            "6": "//aniqit.com/seria/628146/beececb55645e0d0f854fe39985a4634/720p",
-            "7": "//aniqit.com/seria/628147/5832aa95952b3b42fcc85732c40aae77/720p",
-            "8": "//aniqit.com/seria/628148/c59b188ac35381cf79f8955806308354/720p",
-            "9": "//aniqit.com/seria/628149/dd0285dfdd33ed87294e5644104a9ef3/720p",
-            "10": "//aniqit.com/seria/628150/2bab52ada13f8c97298dce03e0f09dbf/720p",
-            "11": "//aniqit.com/seria/628151/58fa13419c94c77d15624b1d13f32270/720p",
-            "12": "//aniqit.com/seria/628152/22f5d2ce560c17103f9d98c13b1b3971/720p",
-            "13": "//aniqit.com/seria/628153/e5fda9511ff922ecff8436f15b56ae18/720p",
-            "14": "//aniqit.com/seria/628154/63986916d13eb3f00ce1a09a643fb9da/720p",
-            "15": "//aniqit.com/seria/628155/303d1c9388b3a6229e17d852979ddb7e/720p",
-            "16": "//aniqit.com/seria/628156/91cd76bc18c2c5fc36da65ba102f1877/720p",
-            "17": "//aniqit.com/seria/628157/704346de1e81b691dfe1d5485907b6fa/720p",
-            "18": "//aniqit.com/seria/628158/cf1ab8af0b960b1a66213312b78fcb46/720p",
-            "19": "//aniqit.com/seria/628159/89f1b919257bd55d48ef28d03b97d793/720p",
-            "20": "//aniqit.com/seria/628160/a95a7cd0658286ed7dd228cf9ea91f2f/720p",
-            "21": "//aniqit.com/seria/628161/41170ac94de30c7e7155bf1955148272/720p",
-            "22": "//aniqit.com/seria/628162/e1cdc564de07e48b40f1958d39f5e246/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мартовский лев",
-        "title_en": "3-gatsu no Lion",
-        "other_titles": [
-          "Март приходит подобно льву 2",
-          "Sangatsu no Lion Second Season"
-        ],
-        "other_titles_en": [
-          "March Comes In Like A Lion 2nd Season"
-        ],
-        "other_titles_jp": [
-          "3月のライオン 第2シリーズ"
-        ],
-        "anime_license_name": "March comes in like a lion 2",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "17-летний Рэй Кирияма недавно начал жить один и он ничем не отличается ничем особенным, кроме превосходных навыков игры в сёги. Юноша все ещё эмоционально  незрел, и подростковые проблемы по-прежнему преследуют его в повседневной жизни. Напряженные отношения с приемной семьей и трудности в общении со сверстниками — лишь вершина айсберга. Но есть в этом мире странная семья, и обстановка в доме которой подобна ядерному взрыву. Шум, гам, смех, веселье и даже мяуканье. Маленький старый дом в маленьком городе на большой реке. Дом, в котором однажды случайно оказался Рэй. Дом, где его с улыбками встретили три замечательные девушки, три сестры — старшая Акари, средняя Хината и совсем малышка Момо.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1045799.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/848610671541f8fb2c6116269b4155cc0335fefd.jpg",
-          "https://shikimori.one/system/screenshots/original/5f088b3dffdaced918af9278554bf628a9c35645.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Игры",
-          "Повседневность",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Shaft"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 407,
-        "imdb_rating": 8.4,
-        "imdb_votes": 1596,
-        "shikimori_rating": 9.01,
-        "shikimori_votes": 4416,
-        "premiere_world": "2016-10-08",
-        "aired_at": "2017-10-14",
-        "released_at": "2018-03-31",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 22,
-        "episodes_aired": 22,
-        "actors": [
-          "Сигэру Тиба",
-          "Кана Ханадзава",
-          "Ёсимаса Хосоя",
-          "Марина Иноуэ",
-          "Кэнго Каваниси",
-          "Аи Каяно",
-          "Субару Кимура",
-          "Мисаки Куно",
-          "Синъитиро Мики",
-          "Тору Окава"
-        ],
-        "directors": [
-          "Кэндзиро Окада",
-          "Акиюки Синбо"
-        ],
-        "writers": [
-          "Тика Умино"
-        ],
-        "designers": [
-          "Сэики Тамура"
-        ],
-        "operators": [
-          "Синъитиро Это"
-        ]
-      }
-    },
-    {
-      "id": "serial-24683",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мёртвые друзья навсегда",
-      "title_orig": "My Baby Bright",
-      "other_title": "Зов судьбы",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 1,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-11T11:04:21Z",
-      "updated_at": "2020-04-11T11:04:21Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "2": "//kodik.cc/seria/628140/7414c5ade6f8b8b4b0850bdf84305f78/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-21361",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Узелок любви: Первая любовь Его Превосходительства",
-      "title_orig": "Jie ai: qian sui da ren de chu lian",
-      "other_title": "Символ любви: Первая любовь его Превосходительства / Лунный свет и Валентин / The Love Knot: His Excellency's First Love / Moonshine and Valentine",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "1134823",
-      "imdb_id": "tt7872144",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-16T19:27:19Z",
-      "updated_at": "2020-04-11T11:00:31Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/561430/b0d82e66cf7b93c81b90453a0dc9ed81/720p",
-            "2": "//kodik.cc/seria/561431/7bc1337e3d3039918fe11c3c71c603ec/720p",
-            "3": "//kodik.cc/seria/561432/76ff8cee19b7f0fb7434709d51e6f316/720p",
-            "4": "//kodik.cc/seria/561433/da121b0801be1daec85913b86742a0fc/720p",
-            "5": "//kodik.cc/seria/561434/cb109049b288e4313e6d267d9491ac3e/720p",
-            "6": "//kodik.cc/seria/561435/c41902224df2c5c2de156201fa0a98ef/720p",
-            "7": "//kodik.cc/seria/561436/776b3cdab9e653fb8b306c7da197c303/720p",
-            "8": "//kodik.cc/seria/561437/6b5e73b26424e22c6059370ff7ca275f/720p",
-            "9": "//kodik.cc/seria/561438/0ffe50729c7cf3514409c9e0a27d6dcc/720p",
-            "10": "//kodik.cc/seria/563327/8ab0f7de1f0d9017d0b6261a40ee9a8c/720p",
-            "11": "//kodik.cc/seria/567362/03c4f21109bee43a2a2d26ae4297b5cf/720p",
-            "12": "//kodik.cc/seria/567963/c8f8bb550d2877e7961aa0d86de452c4/720p",
-            "13": "//kodik.cc/seria/568234/0cba5f42a3d8e71a0f505490891f25b8/720p",
-            "14": "//kodik.cc/seria/572458/bfb891a2e7b4b41c2b232d63efd3415e/720p",
-            "15": "//kodik.cc/seria/575275/f0662421b51294165d3748e495a885a0/720p",
-            "16": "//kodik.cc/seria/578256/665e96b2bd1f67bfccfc7246c61e2000/720p",
-            "17": "//kodik.cc/seria/583823/5c37c345b103ed001b7a0c6300f68c84/720p",
-            "18": "//kodik.cc/seria/584612/5ab54ea0d25c93007354d71fc7a14f39/720p",
-            "19": "//kodik.cc/seria/586641/53160e0697b6854dd90e3cf7a0f9b4c3/720p",
-            "20": "//kodik.cc/seria/595018/ea5e04ad963771d74feda43d9f417581/720p",
-            "21": "//kodik.cc/seria/597004/20750f23f372d8b5f6dded8d1e45d767/720p",
-            "22": "//kodik.cc/seria/612938/0b234a038f7c3c8f73a44386c488d0cc/720p",
-            "23": "//kodik.cc/seria/622819/b289c7e6c5e7ca7c1eba667a73489788/720p",
-            "24": "//kodik.cc/seria/626991/7f3878f4cbcf00a341dc2739a468bac1/720p",
-            "25": "//kodik.cc/seria/628127/eff8b165f0c1d84225ef291914033d6b/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Узелок любви: Первая любовь Его Превосходительства",
-        "title_en": "Jie ai: qian sui da ren de chu lian",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1134823.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мелодрама",
-          "фэнтези"
-        ],
-        "imdb_rating": 7.6,
-        "imdb_votes": 152,
-        "premiere_world": "2018-05-09",
-        "actors": [
-          "Виктория Сун",
-          "Джонни Хуан",
-          "Сюй Кайчэн",
-          "Сюй Фанъи"
-        ],
-        "directors": [
-          "Лэсте Чэнь",
-          "Сюй Чжаожэнь"
-        ],
-        "composers": [
-          "Tina C. Wang"
-        ],
-        "operators": [
-          "Чарли Лам"
         ]
       }
     }
