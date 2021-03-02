@@ -19,5 +19,26 @@
       "shikimori": 2884,
       "none": 688
     }
+  },
+  {
+    "date": 1614636000,
+    "movies": {
+      "all": 17926,
+      "kinopoisk": 14204,
+      "imdb": 13785,
+      "tmdb": 0,
+      "world-art": 1475,
+      "shikimori": 1129,
+      "none": 128
+    },
+    "tv": {
+      "all": 14733,
+      "kinopoisk": 5387,
+      "imdb": 5564,
+      "tmdb": 0,
+      "world-art": 3607,
+      "shikimori": 2888,
+      "none": 676
+    }
   }
 ]
